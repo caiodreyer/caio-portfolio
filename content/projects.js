@@ -1924,7 +1924,7 @@ window.PROJECTS = [
     "summary": "Posts educativos e sazonais para uma empresa de controle de pragas, com uma moldura de marca que se repete em cada peça.",
     "cover": {
       "src": "img/covers/riki.jpg",
-      "alt": "Um story e dois posts da Riki Imunizadora sobre fundo neutro"
+      "alt": "Três posts da Riki Imunizadora sobre fundo neutro, com destaque para o rato segurando um palito"
     },
     "hero": {
       "src": "img/heroes/riki.jpg",

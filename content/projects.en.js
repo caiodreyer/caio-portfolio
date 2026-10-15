@@ -1901,7 +1901,7 @@ window.PROJECTS_EN = [
     "summary": "Educational and seasonal posts for a pest control company, with a brand frame repeated on every piece.",
     "cover": {
       "src": "img/covers/riki.jpg",
-      "alt": "One story and two Riki Imunizadora posts on a neutral background"
+      "alt": "Three Riki Imunizadora posts on a neutral background, featuring the rat holding a stick"
     },
     "hero": {
       "src": "img/heroes/riki.jpg",
