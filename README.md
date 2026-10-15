@@ -8,14 +8,16 @@ Site estático (HTML, CSS e JavaScript puros). Não precisa de instalação, bui
 index.html              página única do site (cabeçalho, rodapé, metadados)
 assets/css/styles.css   todo o visual (cores e fontes no topo, em :root)
 assets/js/app.js        monta as telas a partir do conteúdo
-content/site.js         textos gerais: apresentação, sobre, percurso, contato, Grupo Brio
+content/site.js         textos gerais: apresentação, sobre, percurso, contato, Grupo Brio, textos da interface
 content/projects.js     os projetos (a ordem do arquivo é a ordem na página)
+content/*.en.js         as mesmas coisas em inglês
 img/                    imagens
   covers/               capas dos cards (4:3, 1600x1200)
   heroes/               imagens largas do topo de alguns casos
   textures/             gradientes (g1 abertura, g3 faixa, g4 contato; "-m" é o recorte para celular)
 favicon.svg, robots.txt, vercel.json
 tools/build_preview.py  gera uma versão de arquivo único só para pré-visualização (opcional)
+tools/build_en_projects.js  gerou a primeira versão de projects.en.js (não precisa rodar de novo)
 ```
 
 ## Editar textos
@@ -42,6 +44,10 @@ Abra a pasta num terminal e rode `python3 -m http.server`, depois acesse `http:/
 Em Vercel → Project → Settings → Domains, adicione o domínio e siga as instruções de DNS.
 Depois troque `https://caiodreyer.vercel.app/` pelo novo domínio nas tags `og:` do `index.html` e no `sitemap.xml`.
 
-## Versão em inglês (futuro)
-O conteúdo está separado do código. O caminho mais simples é criar `content/site.en.js` e
-`content/projects.en.js` com os mesmos campos traduzidos e um `en/index.html` que carregue esses arquivos.
+## Versão em inglês
+O site tem português (padrão) e inglês. O botão PT/EN fica no topo, e o inglês também abre direto em
+`caiodreyer.vercel.app/en` (ou `?lang=en` no computador).
+- Textos gerais em inglês: `content/site.en.js` (mesmos campos de `site.js`, incluindo `ui`, os textos de menus e botões).
+- Projetos em inglês: `content/projects.en.js`. A ordem na página vem sempre de `projects.js`.
+- Ao adicionar um projeto, copie o bloco dele para `projects.en.js` e traduza só os textos
+  (mantenha slug, type, imagens e nomes de arquivo). Se faltar a versão em inglês, o site mostra o projeto em português.

@@ -17,6 +17,10 @@
   <meta property="og:image" content="https://caiodreyer.vercel.app/img/og.jpg">
   <meta property="og:url" content="https://caiodreyer.vercel.app/">
   <link rel="canonical" href="https://caiodreyer.vercel.app/">
+  <link rel="alternate" hreflang="pt-BR" href="https://caiodreyer.vercel.app/">
+  <link rel="alternate" hreflang="en" href="https://caiodreyer.vercel.app/en">
+  <link rel="alternate" hreflang="x-default" href="https://caiodreyer.vercel.app/">
+  <meta property="og:locale:alternate" content="en_US">
   <meta name="twitter:card" content="summary_large_image">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -26,15 +30,22 @@
   <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
-  <a class="skip" href="#view">Pular para o conteúdo</a>
+  <a class="skip" href="#view" data-i18n="skip">Pular para o conteúdo</a>
   <header class="site-header">
     <div class="wrap">
-      <a class="brand" href="#" aria-label="Caio Dreyer, início">Caio Dreyer</a>
-      <nav class="nav" aria-label="Principal">
-        <a class="u" href="#trabalhos">Trabalhos</a>
-        <a class="u" href="#sobre">Sobre</a>
-        <a class="u" href="#contato">Contato</a>
-      </nav>
+      <a class="brand" href="#" aria-label="Caio Dreyer, início" data-i18n-label="home">Caio Dreyer</a>
+      <div class="header-end">
+        <nav class="nav" aria-label="Principal" data-i18n-label="navLabel">
+          <a class="u" href="#trabalhos" data-i18n="nav.work">Trabalhos</a>
+          <a class="u" href="#sobre" data-i18n="nav.about">Sobre</a>
+          <a class="u" href="#contato" data-i18n="nav.contact">Contato</a>
+        </nav>
+        <div class="lang" role="group" aria-label="Idioma" data-i18n-label="langLabel">
+          <button type="button" class="lang-btn" data-lang="pt" lang="pt-BR" aria-pressed="true" title="Português">PT</button>
+          <span class="lang-sep" aria-hidden="true">/</span>
+          <button type="button" class="lang-btn" data-lang="en" lang="en" aria-pressed="false" title="English">EN</button>
+        </div>
+      </div>
     </div>
   </header>
 
@@ -43,7 +54,7 @@
   <footer class="site-footer">
     <div class="wrap">
       <a class="brand" href="#">Caio Dreyer</a>
-      <p>Design digital e UX/UI · Porto Alegre, Brasil</p>
+      <p data-i18n="footer">Design digital e UX/UI · Porto Alegre, Brasil</p>
       <p>© 2026</p>
     </div>
   </footer>
@@ -52,6 +63,8 @@
 
   <script src="content/site.js"></script>
   <script src="content/projects.js"></script>
+  <script src="content/site.en.js"></script>
+  <script src="content/projects.en.js"></script>
   <script src="assets/js/app.js"></script>
 </body>
 </html>

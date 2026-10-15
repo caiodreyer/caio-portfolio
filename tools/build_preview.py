@@ -11,7 +11,7 @@ OUT = ROOT / "preview" / "portfolio.html"
 
 html = (ROOT / "index.html").read_text(encoding="utf-8")
 css = (ROOT / "assets/css/styles.css").read_text(encoding="utf-8")
-js = "\n".join((ROOT / f).read_text(encoding="utf-8") for f in ("content/site.js", "content/projects.js", "assets/js/app.js"))
+js = "\n".join((ROOT / f).read_text(encoding="utf-8") for f in ("content/site.js", "content/projects.js", "content/site.en.js", "content/projects.en.js", "assets/js/app.js"))
 
 title = re.search(r"<title>.*?</title>", html, re.S).group(0)
 desc = re.search(r'<meta name="description"[^>]*>', html).group(0)

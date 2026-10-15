@@ -3,6 +3,8 @@
   ---------------------------------------------------------------
   Edite aqui nome, apresentação, sobre, percurso, contato e a página
   do Grupo Brio. Os projetos ficam em content/projects.js.
+  A versão em inglês fica em content/site.en.js, com os mesmos campos.
+  "ui" reúne os textos fixos da interface (menus, botões, rótulos).
 */
 window.SITE = {
   name: "Caio Dreyer",
@@ -55,6 +57,52 @@ window.SITE = {
       { label: "LinkedIn", value: "linkedin.com/in/caiodreyer", href: "https://www.linkedin.com/in/caiodreyer" },
       { label: "Behance", value: "behance.net/caiodreyer", href: "https://www.behance.net/caiodreyer" }
     ]
+  },
+
+  ui: {
+    lang: "pt-BR",
+    pageTitle: "Caio Dreyer Portfólio",
+    metaDescription: "Portfólio de Caio Dreyer, designer digital e UX/UI em Porto Alegre: landing pages, identidade visual, campanhas e direção de arte.",
+    skip: "Pular para o conteúdo",
+    home: "Caio Dreyer, início",
+    navLabel: "Principal",
+    nav: { work: "Trabalhos", about: "Sobre", contact: "Contato" },
+    langLabel: "Idioma",
+    footer: "Design digital e UX/UI · Porto Alegre, Brasil",
+    heroLabel: "Apresentação",
+    seeWork: "Ver trabalhos",
+    moreAbout: "Mais sobre mim",
+    selectedWork: "Trabalhos selecionados",
+    filterLabel: "Filtrar trabalhos",
+    all: "Todos",
+    types: { web: "UX/UI", grafico: "Design gráfico" },
+    experience: "Experiência",
+    education: "Formação",
+    tools: "Ferramentas",
+    languages: "Idiomas",
+    email: "E-mail",
+    base: "Base",
+    copy: "Copiar",
+    copied: "Copiado",
+    selected: "Selecionado",
+    back: "Trabalhos",
+    aboutProject: "Sobre o projeto",
+    summary: "Resumo do projeto",
+    nextProject: "Próximo projeto",
+    brioLink: "Projeto do Grupo Brio · todos os clientes",
+    brioEyebrow: "Experiência",
+    brioWork: "O trabalho",
+    clients: "Clientes",
+    brioCases: "Casos do Grupo Brio",
+    scrollRegion: "Página completa navegável",
+    scrollHint: "Role para navegar ↓",
+    carousel: "carrossel",
+    card: "card", cards: "cards", page: "página", pages: "páginas",
+    of: "de",
+    keys: "Use as setas do teclado para navegar.",
+    prevCard: "Card anterior", nextCard: "Próximo card",
+    prevPage: "Página anterior", nextPage: "Próxima página",
+    pageN: "Página"
   },
 
   brio: {

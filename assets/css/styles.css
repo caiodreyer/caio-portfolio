@@ -66,8 +66,14 @@ a:hover .arrow,button:hover .arrow{transform:translateX(4px)}
   -webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);
   padding-top:env(safe-area-inset-top,0px)}
 .site-header .wrap{display:flex;align-items:center;justify-content:space-between;gap:1rem;min-height:72px}
-.brand{font-family:var(--serif);font-style:italic;font-size:1.6rem;line-height:1}
+.brand{font-family:var(--serif);font-style:italic;font-size:1.6rem;line-height:1;white-space:nowrap}
 .nav{display:flex;gap:clamp(1rem,3vw,2.5rem)}
+.header-end{display:flex;align-items:center;gap:clamp(1rem,3vw,2.5rem)}
+.lang{display:flex;align-items:center;gap:.15rem;font-size:var(--t-sm);color:var(--muted)}
+.lang-btn{min-width:32px;min-height:44px;padding:0 .25rem;color:var(--muted);letter-spacing:.04em;transition:color .3s var(--ease)}
+.lang-btn:hover{color:var(--ink)}
+.lang-btn[aria-pressed="true"]{color:var(--ink);font-weight:500}
+.lang-sep{opacity:.5}
 .nav a{font-size:var(--t-sm);padding-block:.75rem}
 .nav a[aria-current="true"]::after{transform:scaleX(1)}
 
@@ -301,11 +307,22 @@ a.client:hover{padding-left:.5rem}
 /* ---------- Celular ---------- */
 @media (max-width:640px){
   .site-header .wrap{min-height:60px}
-  .brand{font-size:1.4rem}
-  .nav{gap:1rem}
+  .brand{font-size:1.3rem}
+  .nav{gap:.8rem}
+  .nav a{font-size:.875rem}
+  .header-end{gap:.6rem}
+  .lang-sep,.lang-btn[aria-pressed="true"]{display:none}
+  .lang-btn{min-width:28px;border:1px solid var(--line);border-radius:999px;min-height:30px;padding:0 .5rem;font-size:.75rem}
   .hero{min-height:min(78vh,620px)}
   .hero-row{flex-direction:column;align-items:flex-start}
   .intro-body{font-size:var(--t-md)}
   .about-col p{font-size:var(--t-md)}
   .work-head{align-items:flex-start;flex-direction:column}
+}
+
+/* Celulares muito estreitos: cabeçalho em duas linhas */
+@media (max-width:359px){
+  .site-header .wrap{flex-wrap:wrap;justify-content:center;row-gap:0;padding-block:.35rem}
+  .nav{gap:.7rem}
+  .nav a{font-size:.8rem;padding-block:.5rem}
 }
