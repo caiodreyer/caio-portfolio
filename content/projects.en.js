@@ -1050,7 +1050,7 @@ window.PROJECTS_EN = [
         "type": "stat",
         "value": "R$ 626K",
         "label": "in revenue with R$ 1,424 spent on ads",
-        "note": "Result of the May 50% off campaign for Fazenda do Rosa, whose visuals I created as Grupo Brio's only designer, in the same language as the carousels below. The agency turned the result into a case study on its own Instagram.",
+        "note": "Result of the May 50% off campaign for Fazenda do Rosa, whose visuals I created at Grupo Brio, in the same language as the carousels below. The agency turned the result into a case study on its own Instagram.",
         "link": {
           "href": "#grupo-brio-institucional",
           "label": "See the case as told by the agency"

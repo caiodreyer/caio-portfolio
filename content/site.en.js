@@ -32,7 +32,7 @@ window.SITE_EN = {
   },
 
   experience: [
-    { years: "2025 — present", role: "Digital and UX/UI designer", place: "Grupo Brio", text: "The agency's only designer: landing pages, institutional websites, social media, campaigns and digital materials for clients and for Brio itself.", link: { href: "#grupo-brio", label: "See clients" } },
+    { years: "2025 — present", role: "Digital and UX/UI designer", place: "Grupo Brio", text: "Visual design for more than 20 clients and brands: landing pages, institutional websites, social media, campaigns and digital materials, plus Brio's own communication.", link: { href: "#grupo-brio", label: "See clients" } },
     { years: "2025 — present", role: "AI video automation", place: "Independent project", text: "Python, PowerShell and FFmpeg scripts, developed with Claude as a programming partner, that automate steps of video production." },
     { years: "2024 — 2026", role: "Designer and social media", place: "Riki Imunizadora", text: "Social media pieces and seasonal campaigns, copywriting and content planning." },
     { years: "2020 — present", role: "Graphic and digital designer", place: "Freelance", text: "Visual identities and graphic materials for clients across industries." },
@@ -109,7 +109,7 @@ window.SITE_EN = {
     lede: "One agency, many brands at once, each with its own identity, audience and goal.",
     details: [["Period", "2025 — present"], ["Role", "Digital and UX/UI designer"], ["Deliverables", "Landing pages, social media, campaigns, eBooks"]],
     about: [
-      "At Grupo Brio I was the agency's only designer, responsible for the visual side of every client and of Brio's own communication.",
+      "At Grupo Brio I was responsible for the visual design of more than 20 clients and brands, as well as the agency's own communication.",
       "Each project started from the identity the client already had. The challenge was to bring that identity to digital without losing consistency, even with several deliveries in the same week."
     ],
     clients: [

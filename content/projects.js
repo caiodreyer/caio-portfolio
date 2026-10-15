@@ -1072,7 +1072,7 @@ window.PROJECTS = [
         "type": "stat",
         "value": "R$ 626 mil",
         "label": "de faturamento com R$ 1.424 investidos em mídia",
-        "note": "Resultado da campanha de 50% de maio para a Fazenda do Rosa, cuja parte visual eu criei como único designer do Grupo Brio, na mesma linguagem dos carrosséis abaixo. A agência transformou o resultado em case no próprio Instagram.",
+        "note": "Resultado da campanha de 50% de maio para a Fazenda do Rosa, cuja parte visual eu criei no Grupo Brio, na mesma linguagem dos carrosséis abaixo. A agência transformou o resultado em case no próprio Instagram.",
         "link": {
           "href": "#grupo-brio-institucional",
           "label": "Ver o case contado pela agência"

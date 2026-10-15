@@ -34,7 +34,7 @@ window.SITE = {
   },
 
   experience: [
-    { years: "2025 — hoje", role: "Designer digital e UX/UI", place: "Grupo Brio", text: "Único designer da agência: landing pages, sites institucionais, social media, campanhas e materiais digitais para clientes e para a própria Brio.", link: { href: "#grupo-brio", label: "Ver clientes" } },
+    { years: "2025 — hoje", role: "Designer digital e UX/UI", place: "Grupo Brio", text: "Parte visual de mais de 20 clientes e marcas: landing pages, sites institucionais, social media, campanhas e materiais digitais, além da comunicação da própria Brio.", link: { href: "#grupo-brio", label: "Ver clientes" } },
     { years: "2025 — hoje", role: "Automação de vídeo com IA", place: "Projeto independente", text: "Scripts em Python, PowerShell e FFmpeg, desenvolvidos com o Claude como parceiro de programação, que automatizam etapas da produção de vídeo." },
     { years: "2024 — 2026", role: "Designer e social media", place: "Riki Imunizadora", text: "Peças para redes e campanhas sazonais, redação e planejamento de pautas." },
     { years: "2020 — hoje", role: "Designer gráfico e digital", place: "Freelancer", text: "Identidades visuais e materiais gráficos para clientes de diversos setores." },
@@ -111,7 +111,7 @@ window.SITE = {
     lede: "Uma agência, muitas marcas ao mesmo tempo, cada uma com sua identidade, seu público e seu objetivo.",
     details: [["Período", "2025 — hoje"], ["Papel", "Designer digital e UX/UI"], ["Entregas", "Landing pages, social media, campanhas, eBooks"]],
     about: [
-      "No Grupo Brio fui o único designer da agência, responsável pela parte visual de todos os clientes e da comunicação da própria Brio.",
+      "No Grupo Brio fui responsável pela parte visual de mais de 20 clientes e marcas, além da comunicação da própria agência.",
       "Cada projeto partia da identidade que o cliente já tinha. O desafio era levar essa identidade para o digital sem perder consistência, mesmo com várias entregas na mesma semana."
     ],
     clients: [
