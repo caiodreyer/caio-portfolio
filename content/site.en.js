@@ -34,7 +34,7 @@ window.SITE_EN = {
   experience: [
     { years: "2025 — present", role: "Digital and UX/UI designer", place: "Grupo Brio", text: "The agency's only designer: landing pages, institutional websites, social media, campaigns and digital materials for clients and for Brio itself.", link: { href: "#grupo-brio", label: "See clients" } },
     { years: "2025 — present", role: "AI video automation", place: "Independent project", text: "Python, PowerShell and FFmpeg scripts, developed with Claude as a programming partner, that automate steps of video production." },
-    { years: "2024 — present", role: "Designer and social media", place: "Riki Imunizadora", text: "Social media pieces and seasonal campaigns, copywriting and content planning." },
+    { years: "2024 — 2026", role: "Designer and social media", place: "Riki Imunizadora", text: "Social media pieces and seasonal campaigns, copywriting and content planning." },
     { years: "2020 — present", role: "Graphic and digital designer", place: "Freelance", text: "Visual identities and graphic materials for clients across industries." },
     { years: "2020 — 2021", role: "Art director", place: "Co.De · ESPM", text: "Branding and art direction at ESPM's student communication and design agency." }
   ],

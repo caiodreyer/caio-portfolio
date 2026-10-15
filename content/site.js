@@ -36,7 +36,7 @@ window.SITE = {
   experience: [
     { years: "2025 — hoje", role: "Designer digital e UX/UI", place: "Grupo Brio", text: "Único designer da agência: landing pages, sites institucionais, social media, campanhas e materiais digitais para clientes e para a própria Brio.", link: { href: "#grupo-brio", label: "Ver clientes" } },
     { years: "2025 — hoje", role: "Automação de vídeo com IA", place: "Projeto independente", text: "Scripts em Python, PowerShell e FFmpeg, desenvolvidos com o Claude como parceiro de programação, que automatizam etapas da produção de vídeo." },
-    { years: "2024 — hoje", role: "Designer e social media", place: "Riki Imunizadora", text: "Peças para redes e campanhas sazonais, redação e planejamento de pautas." },
+    { years: "2024 — 2026", role: "Designer e social media", place: "Riki Imunizadora", text: "Peças para redes e campanhas sazonais, redação e planejamento de pautas." },
     { years: "2020 — hoje", role: "Designer gráfico e digital", place: "Freelancer", text: "Identidades visuais e materiais gráficos para clientes de diversos setores." },
     { years: "2020 — 2021", role: "Diretor de arte", place: "Co.De · ESPM", text: "Branding e direção de arte na agência de Comunicação e Design da ESPM." }
   ],
