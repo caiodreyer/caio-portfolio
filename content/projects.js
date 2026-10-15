@@ -1915,6 +1915,91 @@ window.PROJECTS = [
     ]
   },
   {
+    "slug": "riki-imunizadora",
+    "type": "grafico",
+    "discipline": "Social media",
+    "title": "Riki Imunizadora",
+    "year": "2024–26",
+    "brio": false,
+    "summary": "Posts educativos e sazonais para uma empresa de controle de pragas, com uma moldura de marca que se repete em cada peça.",
+    "cover": {
+      "src": "img/covers/riki.jpg",
+      "alt": "Um story e dois posts da Riki Imunizadora sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/heroes/riki.jpg",
+      "ratio": "2000/860",
+      "alt": "Posts sobre pombos, formigas, ratos e pragas no calor, lado a lado"
+    },
+    "lede": "Informação útil sobre pragas, em linguagem direta e com a marca sempre à vista.",
+    "intro": [
+      "A Riki Imunizadora é uma empresa de controle de pragas de Teutônia, RS. É um serviço que as pessoas costumam lembrar só na hora do problema, e o Instagram precisava manter a marca presente o ano todo, com conteúdos educativos sobre cupins, formigas, ratos, pombos e pulgas, além de datas da área."
+    ],
+    "details": [
+      [
+        "Período",
+        "2024 — 2026"
+      ],
+      [
+        "Cliente",
+        "Riki Imunizadora"
+      ],
+      [
+        "Formato",
+        "Freelance"
+      ],
+      [
+        "Local",
+        "Teutônia, RS"
+      ],
+      [
+        "Entregas",
+        "Posts e stories para Instagram"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "text",
+        "h": "Direção visual",
+        "p": [
+          "Todas as peças compartilham a mesma moldura: uma onda vinho no topo com o logotipo e um rodapé que divide o fundo creme dos contatos e o bloco vermelho do endereço. Com essa estrutura fixa, o feed fica reconhecível de longe e cada post funciona também como anúncio, com telefone e endereço sempre à vista.",
+          "No centro, a fotografia recebe um véu avermelhado que unifica imagens de origens muito diferentes. Os títulos alternam uma condensada em caixa alta e uma grotesca de contraste forte, e o texto de apoio usa pesos diferentes para destacar as palavras-chave."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "1/1",
+        "multi": true,
+        "dir": "img/riki/",
+        "files": [
+          "revoada",
+          "pombos",
+          "controlador",
+          "calor",
+          "ratos",
+          "pulgas"
+        ],
+        "label": "Posts para o feed",
+        "titles": [
+          "A revoada acontece em dias quentes e úmidos, típicos de setembro. Post sobre a revoada dos cupins.",
+          "Pombos: parecem inofensivos, mas são pragas urbanas.",
+          "Feliz Dia do Controlador de Pragas, 26 de setembro.",
+          "O calor chegou… e as pragas também! Desinsetização preventiva é o melhor caminho.",
+          "Ratos podem subir paredes? A resposta é: sim!",
+          "Se livrar das pulgas não é imediato."
+        ],
+        "cap": "Posts para o feed · 2024 — 2026."
+      },
+      {
+        "type": "image",
+        "src": "img/riki/story-vitrine.jpg",
+        "ratio": "2000/1200",
+        "alt": "Story Formigas na cozinha? Um sinal de alerta, com formigas sobre um pedaço de queijo",
+        "cap": "A mesma moldura adaptada ao formato stories."
+      }
+    ]
+  },
+  {
     "slug": "sunset-verano",
     "type": "grafico",
     "discipline": "Identidade visual",

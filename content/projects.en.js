@@ -1892,6 +1892,91 @@ window.PROJECTS_EN = [
     ]
   },
   {
+    "slug": "riki-imunizadora",
+    "type": "grafico",
+    "discipline": "Social media",
+    "title": "Riki Imunizadora",
+    "year": "2024–26",
+    "brio": false,
+    "summary": "Educational and seasonal posts for a pest control company, with a brand frame repeated on every piece.",
+    "cover": {
+      "src": "img/covers/riki.jpg",
+      "alt": "One story and two Riki Imunizadora posts on a neutral background"
+    },
+    "hero": {
+      "src": "img/heroes/riki.jpg",
+      "ratio": "2000/860",
+      "alt": "Posts about pigeons, ants, rats and pests in the heat, side by side"
+    },
+    "lede": "Useful information about pests, in plain language and with the brand always in view.",
+    "intro": [
+      "Riki Imunizadora is a pest control company based in Teutônia, RS, Brazil. It's a service people tend to remember only when there's a problem, so its Instagram had to keep the brand present all year round, with educational content about termites, ants, rats, pigeons and fleas, plus key dates for the industry."
+    ],
+    "details": [
+      [
+        "Period",
+        "2024 — 2026"
+      ],
+      [
+        "Client",
+        "Riki Imunizadora"
+      ],
+      [
+        "Format",
+        "Freelance"
+      ],
+      [
+        "Location",
+        "Teutônia, Brazil"
+      ],
+      [
+        "Deliverables",
+        "Instagram posts and stories"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "text",
+        "h": "Visual direction",
+        "p": [
+          "Every piece shares the same frame: a burgundy wave at the top with the logo and a footer that splits the cream contact area from the red address block. With this fixed structure, the feed is recognizable from afar and every post also works as an ad, with phone and address always in view.",
+          "In the middle, photography gets a reddish veil that unifies images from very different sources. Headlines alternate between a condensed all-caps face and a high-contrast grotesque, and supporting text uses different weights to highlight keywords."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "1/1",
+        "multi": true,
+        "dir": "img/riki/",
+        "files": [
+          "revoada",
+          "pombos",
+          "controlador",
+          "calor",
+          "ratos",
+          "pulgas"
+        ],
+        "label": "Feed posts",
+        "titles": [
+          "Swarming happens on hot, humid days, typical of September. Post about termite swarms.",
+          "Pigeons: they look harmless, but they're urban pests.",
+          "Happy Pest Controller Day, September 26.",
+          "The heat is here… and so are the pests! Preventive pest control is the best way.",
+          "Can rats climb walls? The answer is: yes!",
+          "Getting rid of fleas isn't immediate."
+        ],
+        "cap": "Feed posts · 2024 — 2026."
+      },
+      {
+        "type": "image",
+        "src": "img/riki/story-vitrine.jpg",
+        "ratio": "2000/1200",
+        "alt": "Story Ants in the kitchen? A warning sign, with ants on a piece of cheese",
+        "cap": "The same frame adapted to the stories format."
+      }
+    ]
+  },
+  {
     "slug": "sunset-verano",
     "type": "grafico",
     "discipline": "Visual identity",
