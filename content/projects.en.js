@@ -127,37 +127,37 @@ window.PROJECTS_EN = [
         "p": "The brand's midnight blue and petrol blue lead the page, and red appears only to flag myths and restrictions. A single typeface, in strongly contrasting weights, organizes the whole hierarchy.",
         "colors": [
           {
-            "name": "Midnight blue",
+            "name": "Deep Cove",
             "hex": "#050B2F",
             "use": "Headings, highlight bands and footer"
           },
           {
-            "name": "Petrol blue",
+            "name": "Bondi Blue",
             "hex": "#0097B2",
             "use": "Buttons, text highlights and underlines"
           },
           {
-            "name": "Ice blue",
+            "name": "Iceberg",
             "hex": "#DAEFF4",
             "use": "Section backgrounds"
           },
           {
-            "name": "Sage green",
+            "name": "Cutty Sark",
             "hex": "#4B7166",
             "use": "Diagnosis card"
           },
           {
-            "name": "Mist",
+            "name": "Athens Gray",
             "hex": "#F6F7F9",
             "use": "Information boxes"
           },
           {
-            "name": "Alert red",
+            "name": "Mojo",
             "hex": "#BD3B47",
             "use": "Myths and restrictions"
           },
           {
-            "name": "Blue gray",
+            "name": "Slate Gray",
             "hex": "#6B7F86",
             "use": "Supporting text"
           }
@@ -323,22 +323,22 @@ window.PROJECTS_EN = [
         "p": "Forest green carries the page, while coral orange is reserved for actions and the highlighted card. Three typefaces split clearly defined roles: the slab serif for headlines and cards, the geometric sans for section titles and another sans for body text and buttons.",
         "colors": [
           {
-            "name": "Forest green",
+            "name": "Stromboli",
             "hex": "#3B655B",
             "use": "Section backgrounds and cards"
           },
           {
-            "name": "Coral orange",
+            "name": "Flamingo",
             "hex": "#EC5127",
             "use": "Buttons, highlighted card and card titles"
           },
           {
-            "name": "Gray green",
+            "name": "Cutty Sark",
             "hex": "#5A7971",
             "use": "About the doctor section"
           },
           {
-            "name": "Off-white",
+            "name": "Snow Drift",
             "hex": "#F6F8F5",
             "use": "Light backgrounds and menu"
           },
@@ -348,12 +348,12 @@ window.PROJECTS_EN = [
             "use": "Cards on green"
           },
           {
-            "name": "Green graphite",
+            "name": "Cape Cod",
             "hex": "#3F504C",
             "use": "Headings on light backgrounds"
           },
           {
-            "name": "Green gray",
+            "name": "Blue Smoke",
             "hex": "#707D78",
             "use": "Supporting text"
           }
@@ -541,37 +541,37 @@ window.PROJECTS_EN = [
         "p": "A warm palette of coffee and sand gives the page the feel of a magazine. The serif is used for key headlines, while the sans handles the interface, section titles and body text.",
         "colors": [
           {
-            "name": "Coffee",
+            "name": "English Walnut",
             "hex": "#382922",
             "use": "Buttons, badge and footer"
           },
           {
-            "name": "Ink",
+            "name": "Zeus",
             "hex": "#241B16",
             "use": "Headings"
           },
           {
-            "name": "Terracotta",
+            "name": "Cement",
             "hex": "#8C6A61",
             "use": "Underlines and details"
           },
           {
-            "name": "Taupe",
+            "name": "Americano",
             "hex": "#82746D",
             "use": "Labels and supporting text"
           },
           {
-            "name": "Sand",
+            "name": "Desert Storm",
             "hex": "#F7F7F5",
             "use": "Page background"
           },
           {
-            "name": "Linen",
+            "name": "Pampas",
             "hex": "#F3F0EE",
             "use": "Icon backgrounds"
           },
           {
-            "name": "Gold",
+            "name": "Galliano",
             "hex": "#EAB40A",
             "use": "Ratings"
           }
@@ -746,27 +746,27 @@ window.PROJECTS_EN = [
         "p": "A few elements, well repeated: the brand's mint green in highlight sections, a single typeface and white cards with rounded corners.",
         "colors": [
           {
-            "name": "Mint green",
+            "name": "Jet Stream",
             "hex": "#BBD9D1",
             "use": "Highlight and contact sections"
           },
           {
-            "name": "Sage green",
+            "name": "Gulf Stream",
             "hex": "#82B8AB",
             "use": "Buttons"
           },
           {
-            "name": "Graphite",
+            "name": "Bunker",
             "hex": "#0B0E11",
             "use": "Headings"
           },
           {
-            "name": "Lead gray",
+            "name": "Abbey",
             "hex": "#4D5256",
             "use": "Body text"
           },
           {
-            "name": "Mist",
+            "name": "Athens Gray",
             "hex": "#F6F7F9",
             "use": "Page background"
           },

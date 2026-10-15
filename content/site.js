@@ -103,7 +103,6 @@ window.SITE = {
     prevCard: "Card anterior", nextCard: "Próximo card",
     prevPage: "Página anterior", nextPage: "Próxima página",
     dsColors: "Cores", dsType: "Tipografia", dsComponents: "Componentes",
-    dsNote: "Cores amostradas da página publicada; podem variar levemente em relação ao arquivo original. Componentes recortados da própria página.",
     pageN: "Página"
   },
 

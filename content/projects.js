@@ -149,37 +149,37 @@ window.PROJECTS = [
         "p": "O azul-noite e o azul-petróleo da marca conduzem a página, e o vermelho aparece só para sinalizar mitos e restrições. Uma única família tipográfica, em pesos bem contrastados, organiza toda a hierarquia.",
         "colors": [
           {
-            "name": "Azul-noite",
+            "name": "Deep Cove",
             "hex": "#050B2F",
             "use": "Títulos, faixas de destaque e rodapé"
           },
           {
-            "name": "Azul-petróleo",
+            "name": "Bondi Blue",
             "hex": "#0097B2",
             "use": "Botões, destaques no texto e sublinhados"
           },
           {
-            "name": "Azul-gelo",
+            "name": "Iceberg",
             "hex": "#DAEFF4",
             "use": "Fundo das seções"
           },
           {
-            "name": "Verde-sálvia",
+            "name": "Cutty Sark",
             "hex": "#4B7166",
             "use": "Card de diagnóstico"
           },
           {
-            "name": "Névoa",
+            "name": "Athens Gray",
             "hex": "#F6F7F9",
             "use": "Caixas de informação"
           },
           {
-            "name": "Vermelho-alerta",
+            "name": "Mojo",
             "hex": "#BD3B47",
             "use": "Mitos e restrições"
           },
           {
-            "name": "Cinza-azulado",
+            "name": "Slate Gray",
             "hex": "#6B7F86",
             "use": "Texto de apoio"
           }
@@ -345,37 +345,37 @@ window.PROJECTS = [
         "p": "O verde-floresta sustenta a página e o laranja-coral fica reservado às ações e ao card em destaque. Três famílias tipográficas dividem papéis bem definidos: a serifada para títulos e cards, a geométrica para as seções e a sans para textos e botões.",
         "colors": [
           {
-            "name": "Verde-floresta",
+            "name": "Stromboli",
             "hex": "#3B655B",
             "use": "Fundos de seção e cards"
           },
           {
-            "name": "Laranja-coral",
+            "name": "Flamingo",
             "hex": "#EC5127",
             "use": "Botões, card em destaque e títulos de cards"
           },
           {
-            "name": "Verde-cinza",
+            "name": "Cutty Sark",
             "hex": "#5A7971",
             "use": "Seção sobre o médico"
           },
           {
-            "name": "Off-white",
+            "name": "Snow Drift",
             "hex": "#F6F8F5",
             "use": "Fundos claros e menu"
           },
           {
-            "name": "Branco",
+            "name": "White",
             "hex": "#FFFFFF",
             "use": "Cards sobre o verde"
           },
           {
-            "name": "Grafite-verde",
+            "name": "Cape Cod",
             "hex": "#3F504C",
             "use": "Títulos sobre fundo claro"
           },
           {
-            "name": "Cinza-verde",
+            "name": "Blue Smoke",
             "hex": "#707D78",
             "use": "Texto de apoio"
           }
@@ -563,37 +563,37 @@ window.PROJECTS = [
         "p": "Uma paleta quente de café e areia dá à página o clima de uma revista. A serifa entra nos títulos de destaque e a sans cuida da interface, dos títulos de seção e dos textos.",
         "colors": [
           {
-            "name": "Café",
+            "name": "English Walnut",
             "hex": "#382922",
             "use": "Botões, selo e rodapé"
           },
           {
-            "name": "Tinta",
+            "name": "Zeus",
             "hex": "#241B16",
             "use": "Títulos"
           },
           {
-            "name": "Terracota",
+            "name": "Cement",
             "hex": "#8C6A61",
             "use": "Sublinhados e detalhes"
           },
           {
-            "name": "Taupe",
+            "name": "Americano",
             "hex": "#82746D",
             "use": "Rótulos e textos de apoio"
           },
           {
-            "name": "Areia",
+            "name": "Desert Storm",
             "hex": "#F7F7F5",
             "use": "Fundo da página"
           },
           {
-            "name": "Linho",
+            "name": "Pampas",
             "hex": "#F3F0EE",
             "use": "Fundo dos ícones"
           },
           {
-            "name": "Dourado",
+            "name": "Galliano",
             "hex": "#EAB40A",
             "use": "Avaliações"
           }
@@ -768,32 +768,32 @@ window.PROJECTS = [
         "p": "Poucos elementos, bem repetidos: o verde-menta da marca nas seções de destaque, uma única família tipográfica e cards brancos de cantos arredondados.",
         "colors": [
           {
-            "name": "Verde-menta",
+            "name": "Jet Stream",
             "hex": "#BBD9D1",
             "use": "Seções de destaque e contato"
           },
           {
-            "name": "Verde-sálvia",
+            "name": "Gulf Stream",
             "hex": "#82B8AB",
             "use": "Botões"
           },
           {
-            "name": "Grafite",
+            "name": "Bunker",
             "hex": "#0B0E11",
             "use": "Títulos"
           },
           {
-            "name": "Cinza-chumbo",
+            "name": "Abbey",
             "hex": "#4D5256",
             "use": "Texto corrido"
           },
           {
-            "name": "Névoa",
+            "name": "Athens Gray",
             "hex": "#F6F7F9",
             "use": "Fundo da página"
           },
           {
-            "name": "Branco",
+            "name": "White",
             "hex": "#FFFFFF",
             "use": "Cards"
           }

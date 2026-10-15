@@ -149,7 +149,7 @@
       <div class="ds-part"><h3>${esc(U.dsComponents)}</h3>
         <div class="comps">${b.components.map(c => `<figure class="comp${c.wide ? " wide" : ""}"><div class="comp-stage"><img src="${esc(c.src)}" alt="${esc(c.alt || c.label)}" loading="lazy" decoding="async"></div><figcaption>${esc(c.label)}</figcaption></figure>`).join("")}</div>
       </div>
-      <p class="ds-note">${esc(U.dsNote)}</p>
+      ${U.dsNote ? `<p class="ds-note">${esc(U.dsNote)}</p>` : ""}
     </section>`;
   }
 
