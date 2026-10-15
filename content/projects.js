@@ -25,6 +25,8 @@
                 deck  {dir, files|titles, ratio, multi, label, cap}  carrossel
                 stat  {value, label, note, link}  número em destaque
                 list  {h, items:[[k,v]]}      lista de pares
+                system{h, p, colors:[{name,hex,use}], fonts:[{family,gf,weights,use,sample}],
+                       components:[{src,label,wide}]}  design system extraído da página
 */
 window.PROJECTS = [
   {
@@ -141,6 +143,95 @@ window.PROJECTS = [
         "cap": "A página completa. Role dentro da janela para percorrer do primeiro mito ao agendamento."
       },
       {
+        "type": "system",
+        "id": "marins",
+        "h": "Um sistema azul que guia até a consulta",
+        "p": "O azul-noite e o azul-petróleo da marca conduzem a página, e o vermelho aparece só para sinalizar mitos e restrições. Uma única família tipográfica, em pesos bem contrastados, organiza toda a hierarquia.",
+        "colors": [
+          {
+            "name": "Azul-noite",
+            "hex": "#050B2F",
+            "use": "Títulos, faixas de destaque e rodapé"
+          },
+          {
+            "name": "Azul-petróleo",
+            "hex": "#0097B2",
+            "use": "Botões, destaques no texto e sublinhados"
+          },
+          {
+            "name": "Azul-gelo",
+            "hex": "#DAEFF4",
+            "use": "Fundo das seções"
+          },
+          {
+            "name": "Verde-sálvia",
+            "hex": "#4B7166",
+            "use": "Card de diagnóstico"
+          },
+          {
+            "name": "Névoa",
+            "hex": "#F6F7F9",
+            "use": "Caixas de informação"
+          },
+          {
+            "name": "Vermelho-alerta",
+            "hex": "#BD3B47",
+            "use": "Mitos e restrições"
+          },
+          {
+            "name": "Cinza-azulado",
+            "hex": "#6B7F86",
+            "use": "Texto de apoio"
+          }
+        ],
+        "fonts": [
+          {
+            "family": "Manrope",
+            "gf": "Manrope:wght@400;600;800",
+            "weights": "Regular, Semibold e Extrabold",
+            "use": "Títulos, textos e botões",
+            "sample": "Se “dieta da moda” regulasse biologia, você não estaria no efeito platô.",
+            "aa": 800,
+            "sw": 800
+          }
+        ],
+        "components": [
+          {
+            "src": "img/ds/marins-botao.jpg",
+            "label": "Botão principal"
+          },
+          {
+            "src": "img/ds/marins-titulo.jpg",
+            "label": "Título de seção com sublinhado"
+          },
+          {
+            "src": "img/ds/marins-card-mito.jpg",
+            "label": "Card de mito"
+          },
+          {
+            "src": "img/ds/marins-caixa-info.jpg",
+            "label": "Caixa de informação"
+          },
+          {
+            "src": "img/ds/marins-card-diagnostico.jpg",
+            "label": "Card de diagnóstico"
+          },
+          {
+            "src": "img/ds/marins-etapa.jpg",
+            "label": "Etapa do atendimento"
+          },
+          {
+            "src": "img/ds/marins-qualificacao.jpg",
+            "label": "Colunas de qualificação",
+            "wide": true
+          },
+          {
+            "src": "img/ds/marins-selo.jpg",
+            "label": "Selo de registro profissional"
+          }
+        ]
+      },
+      {
         "type": "text",
         "h": "Identidade e prova social",
         "p": [
@@ -246,6 +337,109 @@ window.PROJECTS = [
         "label": "Landing page · Dr. Fábio Pantaleão",
         "alt": "Landing page completa do Dr. Fábio Pantaleão: abertura, áreas de cuidado, relatos, sobre o médico, diferenciais, perguntas frequentes e contato",
         "cap": "A página completa. Role dentro da janela para navegar do início ao contato."
+      },
+      {
+        "type": "system",
+        "id": "fabio",
+        "h": "Verde para confiar, laranja para agir",
+        "p": "O verde-floresta sustenta a página e o laranja-coral fica reservado às ações e ao card em destaque. Três famílias tipográficas dividem papéis bem definidos: a serifada para títulos e cards, a geométrica para as seções e a sans para textos e botões.",
+        "colors": [
+          {
+            "name": "Verde-floresta",
+            "hex": "#3B655B",
+            "use": "Fundos de seção e cards"
+          },
+          {
+            "name": "Laranja-coral",
+            "hex": "#EC5127",
+            "use": "Botões, card em destaque e títulos de cards"
+          },
+          {
+            "name": "Verde-cinza",
+            "hex": "#5A7971",
+            "use": "Seção sobre o médico"
+          },
+          {
+            "name": "Off-white",
+            "hex": "#F6F8F5",
+            "use": "Fundos claros e menu"
+          },
+          {
+            "name": "Branco",
+            "hex": "#FFFFFF",
+            "use": "Cards sobre o verde"
+          },
+          {
+            "name": "Grafite-verde",
+            "hex": "#3F504C",
+            "use": "Títulos sobre fundo claro"
+          },
+          {
+            "name": "Cinza-verde",
+            "hex": "#707D78",
+            "use": "Texto de apoio"
+          }
+        ],
+        "fonts": [
+          {
+            "family": "Roboto Slab",
+            "gf": "Roboto+Slab:wght@300;400;700",
+            "fallback": "serif",
+            "weights": "Light, Regular e Bold",
+            "use": "Título de abertura, títulos e textos dos cards",
+            "sample": "Você sente a queda de energia, fadiga e libido?",
+            "aa": 400,
+            "sw": 300
+          },
+          {
+            "family": "Montserrat",
+            "gf": "Montserrat:wght@400",
+            "weights": "Regular",
+            "use": "Títulos de seção",
+            "sample": "Como posso te ajudar?",
+            "aa": 400,
+            "sw": 400
+          },
+          {
+            "family": "Poppins",
+            "gf": "Poppins:wght@400;600;700",
+            "weights": "Regular, Semibold e Bold",
+            "use": "Textos corridos e botões",
+            "sample": "Eu te convido a investigar a fundo a sua saúde hormonal.",
+            "aa": 600,
+            "sw": 400
+          }
+        ],
+        "components": [
+          {
+            "src": "img/ds/fabio-botao.jpg",
+            "label": "Botão de ação"
+          },
+          {
+            "src": "img/ds/fabio-titulo.jpg",
+            "label": "Título de seção"
+          },
+          {
+            "src": "img/ds/fabio-card-destaque.jpg",
+            "label": "Card em destaque"
+          },
+          {
+            "src": "img/ds/fabio-card-area.jpg",
+            "label": "Card de área de cuidado"
+          },
+          {
+            "src": "img/ds/fabio-depoimento.jpg",
+            "label": "Card de depoimento"
+          },
+          {
+            "src": "img/ds/fabio-diferencial.jpg",
+            "label": "Card de diferencial"
+          },
+          {
+            "src": "img/ds/fabio-faq.jpg",
+            "label": "Card de pergunta frequente"
+          }
+        ]
       },
       {
         "type": "text",
@@ -363,6 +557,101 @@ window.PROJECTS = [
         "cap": "A página completa. Role dentro da janela para navegar do início ao contato."
       },
       {
+        "type": "system",
+        "id": "alexandra",
+        "h": "Café, areia e uma serifa editorial",
+        "p": "Uma paleta quente de café e areia dá à página o clima de uma revista. A serifa entra nos títulos de destaque e a sans cuida da interface, dos títulos de seção e dos textos.",
+        "colors": [
+          {
+            "name": "Café",
+            "hex": "#382922",
+            "use": "Botões, selo e rodapé"
+          },
+          {
+            "name": "Tinta",
+            "hex": "#241B16",
+            "use": "Títulos"
+          },
+          {
+            "name": "Terracota",
+            "hex": "#8C6A61",
+            "use": "Sublinhados e detalhes"
+          },
+          {
+            "name": "Taupe",
+            "hex": "#82746D",
+            "use": "Rótulos e textos de apoio"
+          },
+          {
+            "name": "Areia",
+            "hex": "#F7F7F5",
+            "use": "Fundo da página"
+          },
+          {
+            "name": "Linho",
+            "hex": "#F3F0EE",
+            "use": "Fundo dos ícones"
+          },
+          {
+            "name": "Dourado",
+            "hex": "#EAB40A",
+            "use": "Avaliações"
+          }
+        ],
+        "fonts": [
+          {
+            "family": "PT Serif",
+            "gf": "PT+Serif:wght@400;700",
+            "fallback": "serif",
+            "weights": "Regular e Bold",
+            "use": "Títulos de destaque",
+            "sample": "Você sente que sua disposição diminuiu?",
+            "aa": 700,
+            "sw": 700
+          },
+          {
+            "family": "Manrope",
+            "gf": "Manrope:wght@400;600;700",
+            "weights": "Regular, Semibold e Bold",
+            "use": "Títulos de seção, textos, rótulos e botões",
+            "sample": "Ciência e cuidado em cada etapa da sua transformação",
+            "aa": 600,
+            "sw": 700
+          }
+        ],
+        "components": [
+          {
+            "src": "img/ds/alexandra-botao.jpg",
+            "label": "Botão principal"
+          },
+          {
+            "src": "img/ds/alexandra-titulo.jpg",
+            "label": "Rótulo, título de seção e sublinhado",
+            "wide": true
+          },
+          {
+            "src": "img/ds/alexandra-card-especialidade.jpg",
+            "label": "Card de especialidade"
+          },
+          {
+            "src": "img/ds/alexandra-depoimento.jpg",
+            "label": "Card de depoimento"
+          },
+          {
+            "src": "img/ds/alexandra-selo.jpg",
+            "label": "Selo de registro profissional"
+          },
+          {
+            "src": "img/ds/alexandra-diferencial.jpg",
+            "label": "Card de diferencial"
+          },
+          {
+            "src": "img/ds/alexandra-nota.jpg",
+            "label": "Nota no Google"
+          }
+        ]
+      },
+      {
         "type": "text",
         "h": "Linguagem visual",
         "p": [
@@ -471,6 +760,81 @@ window.PROJECTS = [
         "label": "Landing page · Dr. Cristiano Cruz",
         "alt": "Landing page completa do Dr. Cristiano Cruz: abertura, serviços, depoimentos, autoridade e experiência, diferenciais e contato",
         "cap": "A página completa. Role dentro da janela para acompanhar o percurso até o contato."
+      },
+      {
+        "type": "system",
+        "id": "cristiano",
+        "h": "Um sistema enxuto em verde-menta",
+        "p": "Poucos elementos, bem repetidos: o verde-menta da marca nas seções de destaque, uma única família tipográfica e cards brancos de cantos arredondados.",
+        "colors": [
+          {
+            "name": "Verde-menta",
+            "hex": "#BBD9D1",
+            "use": "Seções de destaque e contato"
+          },
+          {
+            "name": "Verde-sálvia",
+            "hex": "#82B8AB",
+            "use": "Botões"
+          },
+          {
+            "name": "Grafite",
+            "hex": "#0B0E11",
+            "use": "Títulos"
+          },
+          {
+            "name": "Cinza-chumbo",
+            "hex": "#4D5256",
+            "use": "Texto corrido"
+          },
+          {
+            "name": "Névoa",
+            "hex": "#F6F7F9",
+            "use": "Fundo da página"
+          },
+          {
+            "name": "Branco",
+            "hex": "#FFFFFF",
+            "use": "Cards"
+          }
+        ],
+        "fonts": [
+          {
+            "family": "Manrope",
+            "gf": "Manrope:wght@400;600;700",
+            "weights": "Regular, Semibold e Bold",
+            "use": "Títulos, textos e botões",
+            "sample": "Você se sente cansada, sem energia, com dores que parecem não ter fim?",
+            "aa": 700,
+            "sw": 700
+          }
+        ],
+        "components": [
+          {
+            "src": "img/ds/cristiano-botao.jpg",
+            "label": "Botão principal"
+          },
+          {
+            "src": "img/ds/cristiano-botao-secundario.jpg",
+            "label": "Botão sobre o verde-menta"
+          },
+          {
+            "src": "img/ds/cristiano-titulo.jpg",
+            "label": "Título de seção"
+          },
+          {
+            "src": "img/ds/cristiano-card-servico.jpg",
+            "label": "Card de serviço"
+          },
+          {
+            "src": "img/ds/cristiano-depoimento.jpg",
+            "label": "Card de depoimento"
+          },
+          {
+            "src": "img/ds/cristiano-diferencial.jpg",
+            "label": "Item de diferencial"
+          }
+        ]
       },
       {
         "type": "text",

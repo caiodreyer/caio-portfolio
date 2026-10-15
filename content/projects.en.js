@@ -121,6 +121,95 @@ window.PROJECTS_EN = [
         "cap": "The full page. Scroll inside the window to go from the first myth to booking."
       },
       {
+        "type": "system",
+        "id": "marins",
+        "h": "A blue system that leads to the appointment",
+        "p": "The brand's midnight blue and petrol blue lead the page, and red appears only to flag myths and restrictions. A single typeface, in strongly contrasting weights, organizes the whole hierarchy.",
+        "colors": [
+          {
+            "name": "Midnight blue",
+            "hex": "#050B2F",
+            "use": "Headings, highlight bands and footer"
+          },
+          {
+            "name": "Petrol blue",
+            "hex": "#0097B2",
+            "use": "Buttons, text highlights and underlines"
+          },
+          {
+            "name": "Ice blue",
+            "hex": "#DAEFF4",
+            "use": "Section backgrounds"
+          },
+          {
+            "name": "Sage green",
+            "hex": "#4B7166",
+            "use": "Diagnosis card"
+          },
+          {
+            "name": "Mist",
+            "hex": "#F6F7F9",
+            "use": "Information boxes"
+          },
+          {
+            "name": "Alert red",
+            "hex": "#BD3B47",
+            "use": "Myths and restrictions"
+          },
+          {
+            "name": "Blue gray",
+            "hex": "#6B7F86",
+            "use": "Supporting text"
+          }
+        ],
+        "fonts": [
+          {
+            "family": "Manrope",
+            "gf": "Manrope:wght@400;600;800",
+            "weights": "Regular, Semibold and Extrabold",
+            "use": "Headings, body text and buttons",
+            "sample": "If fad diets regulated biology, you wouldn't be stuck on a plateau.",
+            "aa": 800,
+            "sw": 800
+          }
+        ],
+        "components": [
+          {
+            "src": "img/ds/marins-botao.jpg",
+            "label": "Primary button"
+          },
+          {
+            "src": "img/ds/marins-titulo.jpg",
+            "label": "Section heading with underline"
+          },
+          {
+            "src": "img/ds/marins-card-mito.jpg",
+            "label": "Myth card"
+          },
+          {
+            "src": "img/ds/marins-caixa-info.jpg",
+            "label": "Information box"
+          },
+          {
+            "src": "img/ds/marins-card-diagnostico.jpg",
+            "label": "Diagnosis card"
+          },
+          {
+            "src": "img/ds/marins-etapa.jpg",
+            "label": "Care step"
+          },
+          {
+            "src": "img/ds/marins-qualificacao.jpg",
+            "label": "Qualification columns",
+            "wide": true
+          },
+          {
+            "src": "img/ds/marins-selo.jpg",
+            "label": "Professional registration badge"
+          }
+        ]
+      },
+      {
         "type": "text",
         "h": "Identity and social proof",
         "p": [
@@ -226,6 +315,109 @@ window.PROJECTS_EN = [
         "label": "Landing page · Dr. Fábio Pantaleão",
         "alt": "Dr. Fábio Pantaleão's full landing page: opening, care areas, testimonials, about the doctor, differentiators, FAQ and contact",
         "cap": "The full page. Scroll inside the window to go from the top to the contact section."
+      },
+      {
+        "type": "system",
+        "id": "fabio",
+        "h": "Green to trust, orange to act",
+        "p": "Forest green carries the page, while coral orange is reserved for actions and the highlighted card. Three typefaces split clearly defined roles: the slab serif for headlines and cards, the geometric sans for section titles and another sans for body text and buttons.",
+        "colors": [
+          {
+            "name": "Forest green",
+            "hex": "#3B655B",
+            "use": "Section backgrounds and cards"
+          },
+          {
+            "name": "Coral orange",
+            "hex": "#EC5127",
+            "use": "Buttons, highlighted card and card titles"
+          },
+          {
+            "name": "Gray green",
+            "hex": "#5A7971",
+            "use": "About the doctor section"
+          },
+          {
+            "name": "Off-white",
+            "hex": "#F6F8F5",
+            "use": "Light backgrounds and menu"
+          },
+          {
+            "name": "White",
+            "hex": "#FFFFFF",
+            "use": "Cards on green"
+          },
+          {
+            "name": "Green graphite",
+            "hex": "#3F504C",
+            "use": "Headings on light backgrounds"
+          },
+          {
+            "name": "Green gray",
+            "hex": "#707D78",
+            "use": "Supporting text"
+          }
+        ],
+        "fonts": [
+          {
+            "family": "Roboto Slab",
+            "gf": "Roboto+Slab:wght@300;400;700",
+            "fallback": "serif",
+            "weights": "Light, Regular and Bold",
+            "use": "Opening headline, card titles and text",
+            "sample": "Do you feel your energy, stamina and libido dropping?",
+            "aa": 400,
+            "sw": 300
+          },
+          {
+            "family": "Montserrat",
+            "gf": "Montserrat:wght@400",
+            "weights": "Regular",
+            "use": "Section titles",
+            "sample": "How can I help you?",
+            "aa": 400,
+            "sw": 400
+          },
+          {
+            "family": "Poppins",
+            "gf": "Poppins:wght@400;600;700",
+            "weights": "Regular, Semibold and Bold",
+            "use": "Body text and buttons",
+            "sample": "I invite you to look deeply into your hormonal health.",
+            "aa": 600,
+            "sw": 400
+          }
+        ],
+        "components": [
+          {
+            "src": "img/ds/fabio-botao.jpg",
+            "label": "Call-to-action button"
+          },
+          {
+            "src": "img/ds/fabio-titulo.jpg",
+            "label": "Section title"
+          },
+          {
+            "src": "img/ds/fabio-card-destaque.jpg",
+            "label": "Highlighted card"
+          },
+          {
+            "src": "img/ds/fabio-card-area.jpg",
+            "label": "Care area card"
+          },
+          {
+            "src": "img/ds/fabio-depoimento.jpg",
+            "label": "Testimonial card"
+          },
+          {
+            "src": "img/ds/fabio-diferencial.jpg",
+            "label": "Differentiator card"
+          },
+          {
+            "src": "img/ds/fabio-faq.jpg",
+            "label": "FAQ card"
+          }
+        ]
       },
       {
         "type": "text",
@@ -343,6 +535,101 @@ window.PROJECTS_EN = [
         "cap": "The full page. Scroll inside the window to go from the top to the contact section."
       },
       {
+        "type": "system",
+        "id": "alexandra",
+        "h": "Coffee, sand and an editorial serif",
+        "p": "A warm palette of coffee and sand gives the page the feel of a magazine. The serif is used for key headlines, while the sans handles the interface, section titles and body text.",
+        "colors": [
+          {
+            "name": "Coffee",
+            "hex": "#382922",
+            "use": "Buttons, badge and footer"
+          },
+          {
+            "name": "Ink",
+            "hex": "#241B16",
+            "use": "Headings"
+          },
+          {
+            "name": "Terracotta",
+            "hex": "#8C6A61",
+            "use": "Underlines and details"
+          },
+          {
+            "name": "Taupe",
+            "hex": "#82746D",
+            "use": "Labels and supporting text"
+          },
+          {
+            "name": "Sand",
+            "hex": "#F7F7F5",
+            "use": "Page background"
+          },
+          {
+            "name": "Linen",
+            "hex": "#F3F0EE",
+            "use": "Icon backgrounds"
+          },
+          {
+            "name": "Gold",
+            "hex": "#EAB40A",
+            "use": "Ratings"
+          }
+        ],
+        "fonts": [
+          {
+            "family": "PT Serif",
+            "gf": "PT+Serif:wght@400;700",
+            "fallback": "serif",
+            "weights": "Regular and Bold",
+            "use": "Key headlines",
+            "sample": "Do you feel your energy has dropped?",
+            "aa": 700,
+            "sw": 700
+          },
+          {
+            "family": "Manrope",
+            "gf": "Manrope:wght@400;600;700",
+            "weights": "Regular, Semibold and Bold",
+            "use": "Section titles, body text, labels and buttons",
+            "sample": "Science and care at every step of your transformation",
+            "aa": 600,
+            "sw": 700
+          }
+        ],
+        "components": [
+          {
+            "src": "img/ds/alexandra-botao.jpg",
+            "label": "Primary button"
+          },
+          {
+            "src": "img/ds/alexandra-titulo.jpg",
+            "label": "Label, section title and underline",
+            "wide": true
+          },
+          {
+            "src": "img/ds/alexandra-card-especialidade.jpg",
+            "label": "Specialty card"
+          },
+          {
+            "src": "img/ds/alexandra-depoimento.jpg",
+            "label": "Testimonial card"
+          },
+          {
+            "src": "img/ds/alexandra-selo.jpg",
+            "label": "Professional registration badge"
+          },
+          {
+            "src": "img/ds/alexandra-diferencial.jpg",
+            "label": "Differentiator card"
+          },
+          {
+            "src": "img/ds/alexandra-nota.jpg",
+            "label": "Google rating"
+          }
+        ]
+      },
+      {
         "type": "text",
         "h": "Visual language",
         "p": [
@@ -451,6 +738,81 @@ window.PROJECTS_EN = [
         "label": "Landing page · Dr. Cristiano Cruz",
         "alt": "Dr. Cristiano Cruz's full landing page: opening, services, testimonials, authority and experience, differentiators and contact",
         "cap": "The full page. Scroll inside the window to follow the path to the contact section."
+      },
+      {
+        "type": "system",
+        "id": "cristiano",
+        "h": "A lean system in mint green",
+        "p": "A few elements, well repeated: the brand's mint green in highlight sections, a single typeface and white cards with rounded corners.",
+        "colors": [
+          {
+            "name": "Mint green",
+            "hex": "#BBD9D1",
+            "use": "Highlight and contact sections"
+          },
+          {
+            "name": "Sage green",
+            "hex": "#82B8AB",
+            "use": "Buttons"
+          },
+          {
+            "name": "Graphite",
+            "hex": "#0B0E11",
+            "use": "Headings"
+          },
+          {
+            "name": "Lead gray",
+            "hex": "#4D5256",
+            "use": "Body text"
+          },
+          {
+            "name": "Mist",
+            "hex": "#F6F7F9",
+            "use": "Page background"
+          },
+          {
+            "name": "White",
+            "hex": "#FFFFFF",
+            "use": "Cards"
+          }
+        ],
+        "fonts": [
+          {
+            "family": "Manrope",
+            "gf": "Manrope:wght@400;600;700",
+            "weights": "Regular, Semibold and Bold",
+            "use": "Headings, body text and buttons",
+            "sample": "Do you feel tired, low on energy, with pain that never seems to end?",
+            "aa": 700,
+            "sw": 700
+          }
+        ],
+        "components": [
+          {
+            "src": "img/ds/cristiano-botao.jpg",
+            "label": "Primary button"
+          },
+          {
+            "src": "img/ds/cristiano-botao-secundario.jpg",
+            "label": "Button on mint green"
+          },
+          {
+            "src": "img/ds/cristiano-titulo.jpg",
+            "label": "Section title"
+          },
+          {
+            "src": "img/ds/cristiano-card-servico.jpg",
+            "label": "Service card"
+          },
+          {
+            "src": "img/ds/cristiano-depoimento.jpg",
+            "label": "Testimonial card"
+          },
+          {
+            "src": "img/ds/cristiano-diferencial.jpg",
+            "label": "Differentiator item"
+          }
+        ]
       },
       {
         "type": "text",

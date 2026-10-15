@@ -124,8 +124,38 @@
   const img = (o, cls = "") => `<img class="${cls}" src="${esc(o.src)}" alt="${esc(o.alt || "")}" loading="lazy" decoding="async"${o.ratio ? ` style="aspect-ratio:${esc(o.ratio)}"` : ""}>`;
   const cap = c => c ? `<figcaption>${esc(c)}</figcaption>` : "";
 
+  /* Carrega sob demanda as fontes usadas nos design systems (Google Fonts) */
+  const loadFonts = fonts => fonts.forEach(f => {
+    if (!f.gf) return;
+    const href = `https://fonts.googleapis.com/css2?family=${f.gf}&display=swap`;
+    if (!document.querySelector(`link[href="${href}"]`)) document.head.insertAdjacentHTML("beforeend", `<link rel="stylesheet" href="${href}">`);
+  });
+
+  function system(b) {
+    loadFonts(b.fonts || []);
+    const ff = f => `'${f.family}', ${f.fallback || "sans-serif"}`;
+    return `<section class="ds" data-reveal aria-labelledby="ds-${esc(b.id || "s")}">
+      <div class="ds-head"><span class="eyebrow">Design system</span><h2 id="ds-${esc(b.id || "s")}">${esc(b.h)}</h2>${b.p ? `<p>${esc(b.p)}</p>` : ""}</div>
+      <div class="ds-part"><h3>${esc(U.dsColors)}</h3>
+        <ul class="swatches">${b.colors.map(c => `<li><span class="sw" style="--c:${esc(c.hex)}"></span><b>${esc(c.name)}</b><code>${esc(c.hex)}</code><small>${esc(c.use)}</small></li>`).join("")}</ul>
+      </div>
+      <div class="ds-part"><h3>${esc(U.dsType)}</h3>
+        <div class="fonts">${b.fonts.map(f => `<div class="font">
+          <span class="aa" style="font-family:${esc(ff(f))};font-weight:${esc(f.aa || 600)}" aria-hidden="true">Aa</span>
+          <div class="font-info"><b>${esc(f.family)}</b><small>${esc(f.weights)}</small><p>${esc(f.use)}</p></div>
+          <p class="specimen" style="font-family:${esc(ff(f))};font-weight:${esc(f.sw || 600)}">${esc(f.sample)}</p>
+        </div>`).join("")}</div>
+      </div>
+      <div class="ds-part"><h3>${esc(U.dsComponents)}</h3>
+        <div class="comps">${b.components.map(c => `<figure class="comp${c.wide ? " wide" : ""}"><div class="comp-stage"><img src="${esc(c.src)}" alt="${esc(c.alt || c.label)}" loading="lazy" decoding="async"></div><figcaption>${esc(c.label)}</figcaption></figure>`).join("")}</div>
+      </div>
+      <p class="ds-note">${esc(U.dsNote)}</p>
+    </section>`;
+  }
+
   function block(b) {
     switch (b.type) {
+      case "system": return system(b);
       case "text": return `<div class="b-text" data-reveal><h2>${esc(b.h)}</h2><div class="body">${b.p.map(t => `<p>${esc(t)}</p>`).join("")}</div></div>`;
       case "list": return `<div class="b-text" data-reveal><h2>${esc(b.h)}</h2><div class="body"><ul class="pairs">${b.items.map(([k, v]) => `<li><b>${esc(k)}</b><span>${esc(v)}</span></li>`).join("")}</ul></div></div>`;
       case "image": return `<figure class="media" data-reveal>${img(b)}${cap(b.cap)}</figure>`;

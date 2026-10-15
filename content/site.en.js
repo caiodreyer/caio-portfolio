@@ -100,6 +100,8 @@ window.SITE_EN = {
     keys: "Use the arrow keys to navigate.",
     prevCard: "Previous card", nextCard: "Next card",
     prevPage: "Previous page", nextPage: "Next page",
+    dsColors: "Colors", dsType: "Typography", dsComponents: "Components",
+    dsNote: "Colors sampled from the published page; they may differ slightly from the original file. Components cropped from the page itself.",
     pageN: "Page"
   },
 
