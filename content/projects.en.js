@@ -1971,8 +1971,8 @@ window.PROJECTS_EN = [
         "type": "image",
         "src": "img/riki/story-vitrine.jpg",
         "ratio": "2000/1200",
-        "alt": "Story Ants in the kitchen? A warning sign, with ants on a piece of cheese",
-        "cap": "The same frame adapted to the stories format."
+        "alt": "Two stories side by side: Ants in the kitchen? A warning sign, and Even a small gap is enough for them!, about rats",
+        "cap": "Stories with the same frame, adapted to the vertical format."
       }
     ]
   },

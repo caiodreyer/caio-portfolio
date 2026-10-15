@@ -1994,8 +1994,8 @@ window.PROJECTS = [
         "type": "image",
         "src": "img/riki/story-vitrine.jpg",
         "ratio": "2000/1200",
-        "alt": "Story Formigas na cozinha? Um sinal de alerta, com formigas sobre um pedaço de queijo",
-        "cap": "A mesma moldura adaptada ao formato stories."
+        "alt": "Dois stories lado a lado: Formigas na cozinha? Um sinal de alerta, e Uma fresta já basta para eles!, sobre ratos",
+        "cap": "Stories com a mesma moldura, adaptada ao formato vertical."
       }
     ]
   },
