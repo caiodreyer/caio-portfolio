@@ -113,19 +113,19 @@ window.SITE_EN = {
       "Each project started from the identity the client already had. The challenge was to bring that identity to digital without losing consistency, even with several deliveries in the same week."
     ],
     clients: [
-      { name: "Dr. Marcelo Marins", sector: "Clinical weight loss", kind: "Landing page", year: "2026", case: "marcelo-marins" },
-      { name: "Dr. Fábio Pantaleão", sector: "Nutrology and hormonal health", kind: "Landing page", year: "2026", case: "fabio-pantaleao" },
-      { name: "Dr. Cristiano Cruz", sector: "Nutrology and orthopedics", kind: "Landing page", year: "2025", case: "cristiano-cruz" },
-      { name: "Dr. Alexandra Galhardo", sector: "Weight loss and longevity", kind: "Landing page", year: "2025", case: "alexandra-galhardo" },
-      { name: "Fazenda do Rosa", sector: "Guesthouse and events", kind: "Wedding proposal", year: "2026", case: "rosa-casamento" },
+      { name: "Dr. Marcelo Marins", sector: "Clinical weight loss", kind: "Landing page", year: "2025–26", case: "marcelo-marins" },
+      { name: "Dr. Fábio Pantaleão", sector: "Nutrology and hormonal health", kind: "Landing page", year: "2025–26", case: "fabio-pantaleao" },
+      { name: "Dr. Cristiano Cruz", sector: "Nutrology and orthopedics", kind: "Landing page", year: "2025–26", case: "cristiano-cruz" },
+      { name: "Dr. Alexandra Galhardo", sector: "Weight loss and longevity", kind: "Landing page", year: "2025–26", case: "alexandra-galhardo" },
+      { name: "Fazenda do Rosa", sector: "Guesthouse and events", kind: "Wedding proposal", year: "2025–26", case: "rosa-casamento" },
       { name: "Fazenda do Rosa", sector: "Guesthouse and events", kind: "Instagram campaigns", year: "2025–26", case: "rosa-campanhas" },
-      { name: "Atria Intervenção", sector: "Interventional radiology", kind: "Carousels and AI illustrations", year: "2026", case: "atria" },
-      { name: "Aragao Law", sector: "International law · USA", kind: "Instagram carousels", year: "2026", case: "aragao-law" },
-      { name: "Dr. Gabi Castello Branco", sector: "Endocrinology", kind: "Instagram carousels", year: "2025", case: "gabi-castello-branco" },
+      { name: "Atria Intervenção", sector: "Interventional radiology", kind: "Carousels and AI illustrations", year: "2025–26", case: "atria" },
+      { name: "Aragao Law", sector: "International law · USA", kind: "Instagram carousels", year: "2025–26", case: "aragao-law" },
+      { name: "Dr. Gabi Castello Branco", sector: "Endocrinology", kind: "Instagram carousels", year: "2025–26", case: "gabi-castello-branco" },
       { name: "Hospital Piltcher", sector: "Hospital · Pelotas, Brazil", kind: "Instagram campaigns", year: "2025–26", case: "hospital-piltcher" },
-      { name: "Dr. Otávio Piltcher", sector: "Otolaryngology", kind: "Instagram carousels", year: "2025", case: "otavio-piltcher" },
-      { name: "Núcleo GA", sector: "Preventive medicine and metabolic health", kind: "Instagram carousels", year: "2025", case: "nucleo-ga" },
-      { name: "Grupo Brio and BRIO Lab", sector: "The agency's own communication", kind: "Carousels and manifestos", year: "2025", case: "grupo-brio-institucional" }
+      { name: "Dr. Otávio Piltcher", sector: "Otolaryngology", kind: "Instagram carousels", year: "2025–26", case: "otavio-piltcher" },
+      { name: "Núcleo GA", sector: "Preventive medicine and metabolic health", kind: "Instagram carousels", year: "2025–26", case: "nucleo-ga" },
+      { name: "Grupo Brio and BRIO Lab", sector: "The agency's own communication", kind: "Carousels and manifestos", year: "2025–26", case: "grupo-brio-institucional" }
     ]
   }
 };

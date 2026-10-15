@@ -115,19 +115,19 @@ window.SITE = {
       "Cada projeto partia da identidade que o cliente já tinha. O desafio era levar essa identidade para o digital sem perder consistência, mesmo com várias entregas na mesma semana."
     ],
     clients: [
-      { name: "Dr. Marcelo Marins", sector: "Emagrecimento clínico", kind: "Landing page", year: "2026", case: "marcelo-marins" },
-      { name: "Dr. Fábio Pantaleão", sector: "Nutrologia e saúde hormonal", kind: "Landing page", year: "2026", case: "fabio-pantaleao" },
-      { name: "Dr. Cristiano Cruz", sector: "Nutrologia e Ortopedia", kind: "Landing page", year: "2025", case: "cristiano-cruz" },
-      { name: "Dra. Alexandra Galhardo", sector: "Emagrecimento e longevidade", kind: "Landing page", year: "2025", case: "alexandra-galhardo" },
-      { name: "Fazenda do Rosa", sector: "Pousada e eventos", kind: "Proposta de casamento", year: "2026", case: "rosa-casamento" },
+      { name: "Dr. Marcelo Marins", sector: "Emagrecimento clínico", kind: "Landing page", year: "2025–26", case: "marcelo-marins" },
+      { name: "Dr. Fábio Pantaleão", sector: "Nutrologia e saúde hormonal", kind: "Landing page", year: "2025–26", case: "fabio-pantaleao" },
+      { name: "Dr. Cristiano Cruz", sector: "Nutrologia e Ortopedia", kind: "Landing page", year: "2025–26", case: "cristiano-cruz" },
+      { name: "Dra. Alexandra Galhardo", sector: "Emagrecimento e longevidade", kind: "Landing page", year: "2025–26", case: "alexandra-galhardo" },
+      { name: "Fazenda do Rosa", sector: "Pousada e eventos", kind: "Proposta de casamento", year: "2025–26", case: "rosa-casamento" },
       { name: "Fazenda do Rosa", sector: "Pousada e eventos", kind: "Campanhas para Instagram", year: "2025–26", case: "rosa-campanhas" },
-      { name: "Atria Intervenção", sector: "Radiologia intervencionista", kind: "Carrosséis e ilustrações com IA", year: "2026", case: "atria" },
-      { name: "Aragao Law", sector: "Advocacia internacional · EUA", kind: "Carrosséis para Instagram", year: "2026", case: "aragao-law" },
-      { name: "Dra. Gabi Castello Branco", sector: "Endocrinologia", kind: "Carrosséis para Instagram", year: "2025", case: "gabi-castello-branco" },
+      { name: "Atria Intervenção", sector: "Radiologia intervencionista", kind: "Carrosséis e ilustrações com IA", year: "2025–26", case: "atria" },
+      { name: "Aragao Law", sector: "Advocacia internacional · EUA", kind: "Carrosséis para Instagram", year: "2025–26", case: "aragao-law" },
+      { name: "Dra. Gabi Castello Branco", sector: "Endocrinologia", kind: "Carrosséis para Instagram", year: "2025–26", case: "gabi-castello-branco" },
       { name: "Hospital Piltcher", sector: "Hospital · Pelotas, RS", kind: "Campanhas para Instagram", year: "2025–26", case: "hospital-piltcher" },
-      { name: "Dr. Otávio Piltcher", sector: "Otorrinolaringologia", kind: "Carrosséis para Instagram", year: "2025", case: "otavio-piltcher" },
-      { name: "Núcleo GA", sector: "Medicina preventiva e saúde metabólica", kind: "Carrosséis para Instagram", year: "2025", case: "nucleo-ga" },
-      { name: "Grupo Brio e BRIO Lab", sector: "Comunicação da própria agência", kind: "Carrosséis e manifestos", year: "2025", case: "grupo-brio-institucional" }
+      { name: "Dr. Otávio Piltcher", sector: "Otorrinolaringologia", kind: "Carrosséis para Instagram", year: "2025–26", case: "otavio-piltcher" },
+      { name: "Núcleo GA", sector: "Medicina preventiva e saúde metabólica", kind: "Carrosséis para Instagram", year: "2025–26", case: "nucleo-ga" },
+      { name: "Grupo Brio e BRIO Lab", sector: "Comunicação da própria agência", kind: "Carrosséis e manifestos", year: "2025–26", case: "grupo-brio-institucional" }
     ]
   }
 };

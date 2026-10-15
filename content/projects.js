@@ -35,7 +35,7 @@ window.PROJECTS = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Marcelo Marins",
-    "year": "2026",
+    "year": "2025–26",
     "brio": true,
     "summary": "Landing page para um médico de emagrecimento clínico que começa desmontando mitos e termina filtrando quem é o paciente certo.",
     "cover": {
@@ -53,8 +53,8 @@ window.PROJECTS = [
     ],
     "details": [
       [
-        "Ano",
-        "2026"
+        "Período",
+        "2025 — 2026"
       ],
       [
         "Cliente",
@@ -246,7 +246,7 @@ window.PROJECTS = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Fábio Pantaleão",
-    "year": "2026",
+    "year": "2025–26",
     "brio": true,
     "summary": "Landing page criada do zero, a partir da identidade do cliente, para captar novos pacientes de nutrologia e saúde hormonal.",
     "cover": {
@@ -265,8 +265,8 @@ window.PROJECTS = [
     ],
     "details": [
       [
-        "Data",
-        "Fevereiro de 2026"
+        "Período",
+        "2025 — 2026"
       ],
       [
         "Cliente",
@@ -464,7 +464,7 @@ window.PROJECTS = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dra. Alexandra Galhardo",
-    "year": "2025",
+    "year": "2025–26",
     "brio": true,
     "summary": "Landing page criada do zero, a partir da identidade da médica, para captar pacientes em busca de emagrecimento, saúde hormonal e longevidade.",
     "cover": {
@@ -483,8 +483,8 @@ window.PROJECTS = [
     ],
     "details": [
       [
-        "Data",
-        "2025"
+        "Período",
+        "2025 — 2026"
       ],
       [
         "Cliente",
@@ -674,7 +674,7 @@ window.PROJECTS = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Cristiano Cruz",
-    "year": "2025",
+    "year": "2025–26",
     "brio": true,
     "summary": "Landing page para um nutrólogo com experiência em Ortopedia, construída para transformar um diferencial técnico em novos pacientes.",
     "cover": {
@@ -693,8 +693,8 @@ window.PROJECTS = [
     ],
     "details": [
       [
-        "Data",
-        "2025"
+        "Período",
+        "2025 — 2026"
       ],
       [
         "Cliente",
@@ -867,7 +867,7 @@ window.PROJECTS = [
     "type": "grafico",
     "discipline": "Social media · Institucional",
     "title": "Grupo Brio",
-    "year": "2025",
+    "year": "2025–26",
     "brio": true,
     "summary": "Carrosséis e manifestos para o Instagram da agência, vendendo branding e posicionamento com ideias, referências e números reais.",
     "cover": {
@@ -885,8 +885,8 @@ window.PROJECTS = [
     ],
     "details": [
       [
-        "Ano",
-        "2025"
+        "Período",
+        "2025 — 2026"
       ],
       [
         "Cliente",
@@ -1049,7 +1049,7 @@ window.PROJECTS = [
     "details": [
       [
         "Período",
-        "Dez 2025 — Fev 2026"
+        "2025 — 2026"
       ],
       [
         "Cliente",
@@ -1148,7 +1148,7 @@ window.PROJECTS = [
     "type": "grafico",
     "discipline": "Social media · Ilustração com IA",
     "title": "Atria Intervenção",
-    "year": "2026",
+    "year": "2025–26",
     "brio": true,
     "summary": "Carrosséis editoriais que explicam procedimentos de radiologia intervencionista para pacientes.",
     "cover": {
@@ -1166,8 +1166,8 @@ window.PROJECTS = [
     ],
     "details": [
       [
-        "Ano",
-        "2026"
+        "Período",
+        "2025 — 2026"
       ],
       [
         "Cliente",
@@ -1251,7 +1251,7 @@ window.PROJECTS = [
     "type": "grafico",
     "discipline": "Design editorial",
     "title": "Fazenda do Rosa: proposta de casamento",
-    "year": "2026",
+    "year": "2025–26",
     "brio": true,
     "summary": "Apresentação comercial de 30 páginas para vender casamentos à beira-mar na Praia do Rosa, SC.",
     "cover": {
@@ -1270,8 +1270,8 @@ window.PROJECTS = [
     ],
     "details": [
       [
-        "Data",
-        "2026"
+        "Período",
+        "2025 — 2026"
       ],
       [
         "Cliente",
@@ -1336,7 +1336,7 @@ window.PROJECTS = [
     "type": "grafico",
     "discipline": "Social media",
     "title": "Aragao Law",
-    "year": "2026",
+    "year": "2025–26",
     "brio": true,
     "summary": "Conteúdo jurídico para brasileiros com patrimônio nos Estados Unidos, com a estética de uma revista de estilo de vida.",
     "cover": {
@@ -1354,8 +1354,8 @@ window.PROJECTS = [
     ],
     "details": [
       [
-        "Ano",
-        "2026"
+        "Período",
+        "2025 — 2026"
       ],
       [
         "Cliente",
@@ -1453,7 +1453,7 @@ window.PROJECTS = [
     "details": [
       [
         "Período",
-        "Ago 2025 — Mar 2026"
+        "2025 — 2026"
       ],
       [
         "Cliente",
@@ -1554,7 +1554,7 @@ window.PROJECTS = [
     "type": "grafico",
     "discipline": "Social media",
     "title": "Dr. Otávio Piltcher",
-    "year": "2025",
+    "year": "2025–26",
     "brio": true,
     "summary": "Carrosséis de posicionamento sobre escuta e representatividade na associação médica de otorrinolaringologia, com pinturas clássicas como metáfora.",
     "cover": {
@@ -1572,8 +1572,8 @@ window.PROJECTS = [
     ],
     "details": [
       [
-        "Ano",
-        "2025"
+        "Período",
+        "2025 — 2026"
       ],
       [
         "Cliente",
@@ -1662,7 +1662,7 @@ window.PROJECTS = [
     "type": "grafico",
     "discipline": "Social media",
     "title": "Dra. Gabi Castello Branco",
-    "year": "2025",
+    "year": "2025–26",
     "brio": true,
     "summary": "Carrosséis de endocrinologia que desmontam mitos sobre emagrecimento e tirzepatida, com a médica como rosto do conteúdo.",
     "cover": {
@@ -1681,7 +1681,7 @@ window.PROJECTS = [
     "details": [
       [
         "Período",
-        "Out — Dez 2025"
+        "2025 — 2026"
       ],
       [
         "Cliente",
@@ -1784,7 +1784,7 @@ window.PROJECTS = [
     "type": "grafico",
     "discipline": "Social media",
     "title": "Núcleo GA",
-    "year": "2025",
+    "year": "2025–26",
     "brio": true,
     "summary": "Carrosséis editoriais para uma clínica de medicina preventiva e saúde metabólica, com fotografia de cinema e uma serifa de revista.",
     "cover": {
@@ -1803,7 +1803,7 @@ window.PROJECTS = [
     "details": [
       [
         "Período",
-        "Set — Out 2025"
+        "2025 — 2026"
       ],
       [
         "Cliente",

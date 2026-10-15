@@ -12,7 +12,7 @@ window.PROJECTS_EN = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Marcelo Marins",
-    "year": "2026",
+    "year": "2025–26",
     "brio": true,
     "summary": "A landing page for a clinical weight-loss doctor that starts by debunking myths and ends by filtering for the right patient.",
     "cover": {
@@ -30,8 +30,8 @@ window.PROJECTS_EN = [
     ],
     "details": [
       [
-        "Year",
-        "2026"
+        "Period",
+        "2025 — 2026"
       ],
       [
         "Client",
@@ -223,7 +223,7 @@ window.PROJECTS_EN = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Fábio Pantaleão",
-    "year": "2026",
+    "year": "2025–26",
     "brio": true,
     "summary": "A landing page built from scratch, based on the client's identity, to bring in new nutrology and hormonal health patients.",
     "cover": {
@@ -242,8 +242,8 @@ window.PROJECTS_EN = [
     ],
     "details": [
       [
-        "Date",
-        "February 2026"
+        "Period",
+        "2025 — 2026"
       ],
       [
         "Client",
@@ -441,7 +441,7 @@ window.PROJECTS_EN = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Alexandra Galhardo",
-    "year": "2025",
+    "year": "2025–26",
     "brio": true,
     "summary": "A landing page built from scratch, based on the doctor's identity, to attract patients looking for weight loss, hormonal health and longevity.",
     "cover": {
@@ -460,8 +460,8 @@ window.PROJECTS_EN = [
     ],
     "details": [
       [
-        "Date",
-        "2025"
+        "Period",
+        "2025 — 2026"
       ],
       [
         "Client",
@@ -651,7 +651,7 @@ window.PROJECTS_EN = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Cristiano Cruz",
-    "year": "2025",
+    "year": "2025–26",
     "brio": true,
     "summary": "A landing page for a nutrologist with a background in orthopedics, built to turn a technical differentiator into new patients.",
     "cover": {
@@ -670,8 +670,8 @@ window.PROJECTS_EN = [
     ],
     "details": [
       [
-        "Date",
-        "2025"
+        "Period",
+        "2025 — 2026"
       ],
       [
         "Client",
@@ -844,7 +844,7 @@ window.PROJECTS_EN = [
     "type": "grafico",
     "discipline": "Social media · Institutional",
     "title": "Grupo Brio",
-    "year": "2025",
+    "year": "2025–26",
     "brio": true,
     "summary": "Carousels and manifestos for the agency's Instagram, selling branding and positioning with ideas, references and real numbers.",
     "cover": {
@@ -862,8 +862,8 @@ window.PROJECTS_EN = [
     ],
     "details": [
       [
-        "Year",
-        "2025"
+        "Period",
+        "2025 — 2026"
       ],
       [
         "Client",
@@ -1026,7 +1026,7 @@ window.PROJECTS_EN = [
     "details": [
       [
         "Period",
-        "Dec 2025 — Feb 2026"
+        "2025 — 2026"
       ],
       [
         "Client",
@@ -1125,7 +1125,7 @@ window.PROJECTS_EN = [
     "type": "grafico",
     "discipline": "Social media · AI illustration",
     "title": "Atria Intervenção",
-    "year": "2026",
+    "year": "2025–26",
     "brio": true,
     "summary": "Editorial carousels that explain interventional radiology procedures to patients.",
     "cover": {
@@ -1143,8 +1143,8 @@ window.PROJECTS_EN = [
     ],
     "details": [
       [
-        "Year",
-        "2026"
+        "Period",
+        "2025 — 2026"
       ],
       [
         "Client",
@@ -1228,7 +1228,7 @@ window.PROJECTS_EN = [
     "type": "grafico",
     "discipline": "Editorial design",
     "title": "Fazenda do Rosa: wedding proposal",
-    "year": "2026",
+    "year": "2025–26",
     "brio": true,
     "summary": "A 30-page sales presentation to sell beachfront weddings at Praia do Rosa, Brazil.",
     "cover": {
@@ -1247,8 +1247,8 @@ window.PROJECTS_EN = [
     ],
     "details": [
       [
-        "Date",
-        "2026"
+        "Period",
+        "2025 — 2026"
       ],
       [
         "Client",
@@ -1313,7 +1313,7 @@ window.PROJECTS_EN = [
     "type": "grafico",
     "discipline": "Social media",
     "title": "Aragao Law",
-    "year": "2026",
+    "year": "2025–26",
     "brio": true,
     "summary": "Legal content for Brazilians with assets in the United States, with the look of a lifestyle magazine.",
     "cover": {
@@ -1331,8 +1331,8 @@ window.PROJECTS_EN = [
     ],
     "details": [
       [
-        "Year",
-        "2026"
+        "Period",
+        "2025 — 2026"
       ],
       [
         "Client",
@@ -1430,7 +1430,7 @@ window.PROJECTS_EN = [
     "details": [
       [
         "Period",
-        "Aug 2025 — Mar 2026"
+        "2025 — 2026"
       ],
       [
         "Client",
@@ -1531,7 +1531,7 @@ window.PROJECTS_EN = [
     "type": "grafico",
     "discipline": "Social media",
     "title": "Dr. Otávio Piltcher",
-    "year": "2025",
+    "year": "2025–26",
     "brio": true,
     "summary": "Positioning carousels about listening and representation in the ear, nose and throat medical association, with classical paintings as a metaphor.",
     "cover": {
@@ -1549,8 +1549,8 @@ window.PROJECTS_EN = [
     ],
     "details": [
       [
-        "Year",
-        "2025"
+        "Period",
+        "2025 — 2026"
       ],
       [
         "Client",
@@ -1639,7 +1639,7 @@ window.PROJECTS_EN = [
     "type": "grafico",
     "discipline": "Social media",
     "title": "Dr. Gabi Castello Branco",
-    "year": "2025",
+    "year": "2025–26",
     "brio": true,
     "summary": "Endocrinology carousels that debunk myths about weight loss and tirzepatide, with the doctor as the face of the content.",
     "cover": {
@@ -1658,7 +1658,7 @@ window.PROJECTS_EN = [
     "details": [
       [
         "Period",
-        "Oct — Dec 2025"
+        "2025 — 2026"
       ],
       [
         "Client",
@@ -1761,7 +1761,7 @@ window.PROJECTS_EN = [
     "type": "grafico",
     "discipline": "Social media",
     "title": "Núcleo GA",
-    "year": "2025",
+    "year": "2025–26",
     "brio": true,
     "summary": "Editorial carousels for a preventive medicine and metabolic health clinic, with cinematic photography and a magazine serif.",
     "cover": {
@@ -1780,7 +1780,7 @@ window.PROJECTS_EN = [
     "details": [
       [
         "Period",
-        "Sep — Oct 2025"
+        "2025 — 2026"
       ],
       [
         "Client",
