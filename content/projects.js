@@ -3,7 +3,7 @@
   ---------------------------------------------------------------
   Cada item abaixo é um projeto. A ordem aqui é a ordem na página inicial:
   primeiro os de UX/UI (type "web"), depois os de design gráfico. Em cada grupo,
-  o destaque vem primeiro e o restante segue do mais recente para o mais antigo.
+  a ordem é a deste arquivo (definida pelo Caio).
 
   Campos principais
     slug        endereço da página (ex.: #marcelo-marins). Sem espaços nem acentos.
@@ -498,761 +498,6 @@ window.PROJECTS = [
     ]
   },
   {
-    "slug": "rosa-campanhas",
-    "type": "grafico",
-    "discipline": "Campanha digital",
-    "title": "Fazenda do Rosa: campanhas para Instagram",
-    "year": "2025–26",
-    "brio": true,
-    "summary": "Conteúdo para o Instagram de uma pousada à beira-mar, que vende primeiro a sensação de descanso e só depois a oferta.",
-    "cover": {
-      "src": "img/covers/rosa-campanhas.jpg",
-      "alt": "Quatro posts da Fazenda do Rosa em grade sobre fundo neutro"
-    },
-    "hero": {
-      "src": "img/heroes/rosa-campanhas.jpg",
-      "ratio": "2000/860",
-      "alt": "Um post de cada campanha lado a lado: Você não precisa de férias, Onde o pulso encontra a pausa e Troque a exaustão pela renovação"
-    },
-    "lede": "Carrosséis que vendem descanso começando pela sensação, e só depois pela oferta.",
-    "intro": [
-      "A Fazenda do Rosa é uma pousada à beira-mar na Praia do Rosa, em Imbituba, SC, a mesma da proposta de casamento. Quem procura a pousada busca uma pausa de verdade, e a comunicação precisava vender a experiência de estar lá antes de falar em preço, seja no posicionamento da marca, seja em datas como o Carnaval.",
-      "Os conteúdos seguem uma mesma linguagem: fotografia da região em tela cheia, a assinatura Fazenda do Rosa espaçada no topo como o cabeçalho de uma revista e textos em que o peso da fonte destaca as palavras que contam a história. No Carnaval, a caligrafia da marca entra no título."
-    ],
-    "details": [
-      [
-        "Período",
-        "Dez 2025 — Fev 2026"
-      ],
-      [
-        "Cliente",
-        "Fazenda do Rosa"
-      ],
-      [
-        "Feito no",
-        "Grupo Brio"
-      ],
-      [
-        "Entregas",
-        "Carrosséis para Instagram"
-      ],
-      [
-        "Formatos",
-        "4:5 e 1:1"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "stat",
-        "value": "R$ 626 mil",
-        "label": "de faturamento com R$ 1.424 investidos em mídia",
-        "note": "Resultado da campanha de 50% de maio para a Fazenda do Rosa, cuja parte visual eu criei como único designer do Grupo Brio, na mesma linguagem dos carrosséis abaixo. A agência transformou o resultado em case no próprio Instagram.",
-        "link": {
-          "href": "#grupo-brio-institucional",
-          "label": "Ver o case contado pela agência"
-        }
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/rosa-promo/",
-        "files": [
-          "ferias-1",
-          "ferias-2",
-          "ferias-3",
-          "ferias-4",
-          "ferias-5"
-        ],
-        "label": "Carrossel Você não precisa de férias",
-        "titles": [
-          "Você não precisa de férias. Você precisa se lembrar de quem você é.",
-          "O piloto automático assumiu o controle? Quando a vida vira um checklist, é hora de pausar.",
-          "Por que a viagem desbloqueia a alma: mudar de ambiente tira o cérebro do modo alerta.",
-          "O reencontro: na Fazenda, sem o ruído da cidade, você volta a escutar a sua intuição.",
-          "Volte para casa diferente. Está na hora desse reencontro? Link na bio."
-        ],
-        "cap": "Você não precisa de férias · Dezembro de 2025."
-      },
-      {
-        "type": "deck",
-        "ratio": "1/1",
-        "multi": true,
-        "dir": "img/rosa-promo/",
-        "files": [
-          "carnaval-a-1",
-          "carnaval-a-2",
-          "carnaval-a-3",
-          "carnaval-a-4"
-        ],
-        "label": "Carrossel Carnaval 2026, Onde o pulso encontra a pausa",
-        "titles": [
-          "Onde o pulso encontra a pausa. Carnaval 2026, Fazenda do Rosa.",
-          "De dia, a vibração do Maram. À noite, o refúgio da EcoSuíte.",
-          "Sua base estratégica para o feriado: 30% off nas EcoSuítes, mínimo de 3 diárias.",
-          "Últimas vagas. Garanta seu lugar no paraíso, reserve agora."
-        ],
-        "cap": "Carnaval 2026 · Onde o pulso encontra a pausa."
-      },
-      {
-        "type": "deck",
-        "ratio": "1/1",
-        "multi": true,
-        "dir": "img/rosa-promo/",
-        "files": [
-          "carnaval-b-1",
-          "carnaval-b-2",
-          "carnaval-b-3",
-          "carnaval-b-4"
-        ],
-        "label": "Carrossel Carnaval 2026, Comece o ano com a bateria no 100%",
-        "titles": [
-          "Comece o ano com a bateria no 100%. Carnaval 2026, Fazenda do Rosa.",
-          "Troque a exaustão pela renovação. Celebre no Maram e recarregue na EcoSuíte.",
-          "Condição exclusiva: 30% off nas EcoSuítes, mínimo de 3 diárias. O luxo de ter privacidade absoluta.",
-          "Poucas unidades disponíveis para fevereiro. Garanta seu reset no link."
-        ],
-        "cap": "Carnaval 2026 · Comece o ano com a bateria no 100%."
-      }
-    ]
-  },
-  {
-    "slug": "hospital-piltcher",
-    "type": "grafico",
-    "discipline": "Social media",
-    "title": "Hospital Piltcher",
-    "year": "2025–26",
-    "brio": true,
-    "summary": "Campanhas de saúde para o Instagram de um hospital em Pelotas, do Setembro Amarelo ao Dia da Mulher, cada uma com um tom próprio.",
-    "cover": {
-      "src": "img/covers/piltcher.jpg",
-      "alt": "Três capas de carrossel do Hospital Piltcher em grade sobre fundo neutro"
-    },
-    "hero": {
-      "src": "img/heroes/piltcher.jpg",
-      "ratio": "2000/860",
-      "alt": "Quatro cards lado a lado: Setembro é um convite, protetor solar todos os dias, Mas essa missão não se faz sozinha e Neste 8 de março"
-    },
-    "lede": "Datas do calendário da saúde transformadas em conversas próximas, sem perder a seriedade de um hospital.",
-    "intro": [
-      "O Hospital Piltcher fica em Pelotas, RS, e também assina a comunicação como Saúde Piltcher. O Instagram acompanha o calendário da saúde, com campanhas de conscientização e datas comemorativas, e fala ao mesmo tempo com pacientes e com a comunidade da cidade. O desafio era informar com responsabilidade e, ainda assim, aproximar o hospital das pessoas."
-    ],
-    "details": [
-      [
-        "Período",
-        "Ago 2025 — Mar 2026"
-      ],
-      [
-        "Cliente",
-        "Hospital Piltcher"
-      ],
-      [
-        "Feito no",
-        "Grupo Brio"
-      ],
-      [
-        "Local",
-        "Pelotas, RS"
-      ],
-      [
-        "Entregas",
-        "Carrosséis para Instagram"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "text",
-        "h": "Direção visual",
-        "p": [
-          "Os títulos usam uma tipografia condensada em caixa alta, com as palavras-chave em cor, o que dá ao conteúdo a força de um cartaz mesmo na tela do celular. A base é o azul e o verde-água da marca, e cada campanha ganha uma variação própria: verde-limão sobre paisagens ao entardecer no Setembro Amarelo, imagens de praia com textura de filme no verão e uma moldura de revista, com cabeçalho e barra de navegação, no Dia da Mulher.",
-          "No Dia da Mulher, a fotografia da própria equipe assume o centro da narrativa. Em vez de imagens genéricas, o carrossel mostra as pessoas que fazem o hospital funcionar, da responsável técnica às colaboradoras do dia a dia."
-        ]
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/piltcher/",
-        "files": [
-          "setembro-1",
-          "setembro-2",
-          "setembro-3",
-          "setembro-4",
-          "setembro-5",
-          "setembro-6"
-        ],
-        "label": "Carrossel Setembro Amarelo",
-        "titles": [
-          "Setembro é um convite: cuide da sua mente hoje, não só quando dói.",
-          "Contexto do Brasil: dados sobre ansiedade e depressão.",
-          "Falar sobre o que sente não é fraqueza. É coragem e o primeiro passo para reorganizar a vida.",
-          "Fique atento aos sinais. A prevenção está no dia a dia.",
-          "Em caso de crise, peça ajuda imediatamente. Ligue CVV 188.",
-          "Um caminho seguro começa com avaliação médica."
-        ],
-        "cap": "Setembro Amarelo · Setembro de 2025."
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/piltcher/",
-        "files": [
-          "verao-1",
-          "verao-2",
-          "verao-3",
-          "verao-4"
-        ],
-        "label": "Carrossel Verão e cuidado com a pele",
-        "titles": [
-          "Verão chegando: sua pele precisa mais do que bronze.",
-          "Use protetor solar com FPS 30 ou mais, todos os dias.",
-          "Hidrate a pele diariamente e observe o seu corpo.",
-          "Viva o verão com consciência: proteger é o novo bronze."
-        ],
-        "cap": "Verão e cuidado com a pele · Outubro de 2025."
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/piltcher/",
-        "files": [
-          "mulher-1",
-          "mulher-2",
-          "mulher-3",
-          "mulher-4",
-          "mulher-5"
-        ],
-        "label": "Carrossel Dia da Mulher",
-        "titles": [
-          "A força que pulsa no coração do Hospital Piltcher. Uma homenagem às mulheres que transformam medicina em cuidado real.",
-          "À frente da responsabilidade técnica, a Dra. Maira Guedes Piltcher.",
-          "Mas essa missão não se faz sozinha: médicas, enfermeiras, técnicas e administrativas.",
-          "Cuidar exige a sensibilidade de enxergar além do diagnóstico.",
-          "Neste 8 de março, a homenagem é para cada colaboradora e para a Dra. Maira."
-        ],
-        "cap": "Dia da Mulher · Março de 2026."
-      }
-    ]
-  },
-  {
-    "slug": "atria",
-    "type": "grafico",
-    "discipline": "Social media · Ilustração com IA",
-    "title": "Atria Intervenção",
-    "year": "2026",
-    "brio": true,
-    "summary": "Carrosséis editoriais que explicam procedimentos de radiologia intervencionista para pacientes.",
-    "cover": {
-      "src": "img/covers/atria.jpg",
-      "alt": "Quatro páginas dos carrosséis da Atria Intervenção em grade sobre fundo neutro"
-    },
-    "hero": {
-      "src": "img/heroes/atria.jpg",
-      "ratio": "2000/860",
-      "alt": "Quatro páginas lado a lado: mioma uterino, embolização uterina, crioablação e fechamento com a marca Atria"
-    },
-    "lede": "Temas médicos delicados contados com a calma e a clareza de uma revista.",
-    "intro": [
-      "A Atria Intervenção atua em Passo Fundo, RS, com radiologia intervencionista: tratamentos minimamente invasivos, guiados por imagem, que muitas vezes substituem uma cirurgia convencional. Boa parte do público nunca ouviu falar desses procedimentos, e chega até eles depois de um diagnóstico que já assusta."
-    ],
-    "details": [
-      [
-        "Ano",
-        "2026"
-      ],
-      [
-        "Cliente",
-        "Atria Intervenção"
-      ],
-      [
-        "Feito no",
-        "Grupo Brio"
-      ],
-      [
-        "Especialidade",
-        "Radiologia intervencionista"
-      ],
-      [
-        "Entregas",
-        "Carrosséis e ilustrações com IA"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "text",
-        "h": "Um carrossel que se lê como revista",
-        "p": [
-          "Em vez de posts soltos, os conteúdos seguem um sistema de páginas. Todo card tem o mesmo cabeçalho, com o nome da clínica de um lado e o lema Inovação e precisão do outro, e a numeração no rodapé. A leitura alterna entre fotografia em tela cheia e páginas de texto em azul, branco ou café, o que dá ritmo sem quebrar a unidade.",
-          "Os títulos usam uma serifa de alto contraste, misturando pesos leves e pesados para que a palavra principal salte da frase. O texto corrido fica em uma sans geométrica, e as informações que o paciente não pode perder ganham um fundo de cor, como um marca-texto."
-        ]
-      },
-      {
-        "type": "text",
-        "h": "Ilustrações com IA",
-        "p": [
-          "Para explicar o procedimento sem recorrer a imagens clínicas que poderiam assustar, criei as ilustrações com inteligência artificial, em um estilo de gravura antiga em preto e branco. O traço técnico remete aos livros de anatomia e passa seriedade, enquanto as etiquetas em azul da marca apontam exatamente o que o paciente precisa observar: o mioma, o cateter e o resultado depois do tratamento."
-        ]
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/atria/",
-        "files": [
-          "mioma-1",
-          "mioma-2",
-          "mioma-3",
-          "mioma-4",
-          "mioma-5"
-        ],
-        "label": "Carrossel Embolização uterina",
-        "titles": [
-          "Você foi informada de que a única solução para o seu mioma é a cirurgia? Existe algo que talvez ninguém tenha te contado.",
-          "O mioma uterino é um tumor benigno e uma das condições ginecológicas mais comuns. Existe uma alternativa minimamente invasiva: a embolização uterina.",
-          "A embolização uterina é feita pela Radiologia Intervencionista, sem cortes, sem anestesia geral e sem retirada do útero. Ilustração do procedimento.",
-          "A recuperação é mais rápida do que em cirurgias convencionais. Ilustração do mioma antes e depois do tratamento.",
-          "Conhecer todas as opções disponíveis é o que permite tomar a decisão mais adequada para o seu caso."
-        ],
-        "cap": "Embolização uterina."
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/atria/",
-        "files": [
-          "crio-1",
-          "crio-2",
-          "crio-3",
-          "crio-4"
-        ],
-        "label": "Carrossel Crioablação renal",
-        "titles": [
-          "Um novo recurso para o tratamento do câncer renal na região. Foto da equipe durante o procedimento.",
-          "Nem todo tumor renal precisa ser tratado da mesma forma. Casos em que a crioablação pode ser considerada.",
-          "O procedimento reuniu a experiência da Urologia e da Radiologia Intervencionista. Foto com a equipe identificada.",
-          "A crioablação por gás argônio amplia as alternativas de tratamento. Atria Intervenção: preservar a vida com inovação e precisão."
-        ],
-        "cap": "Crioablação renal."
-      }
-    ]
-  },
-  {
-    "slug": "aragao-law",
-    "type": "grafico",
-    "discipline": "Social media",
-    "title": "Aragao Law",
-    "year": "2026",
-    "brio": true,
-    "summary": "Conteúdo jurídico para brasileiros com patrimônio nos Estados Unidos, com a estética de uma revista de estilo de vida.",
-    "cover": {
-      "src": "img/covers/aragao.jpg",
-      "alt": "Quatro cards dos carrosséis da Aragao Law em grade sobre fundo neutro"
-    },
-    "hero": {
-      "src": "img/heroes/aragao.jpg",
-      "ratio": "2000/860",
-      "alt": "Quatro cards do carrossel sobre joint tenancy, com lancha, villa, título Quarenta por cento e fechamento"
-    },
-    "lede": "Direito internacional explicado com a elegância que o público dele espera.",
-    "intro": [
-      "A Aragao Law é um escritório de advocacia nos Estados Unidos, especializado em direito empresarial internacional e imigração. O público são brasileiros que investem, vivem ou planejam proteger patrimônio no país, pessoas acostumadas a marcas de alto padrão e pouco pacientes com conteúdo jurídico denso."
-    ],
-    "details": [
-      [
-        "Ano",
-        "2026"
-      ],
-      [
-        "Cliente",
-        "Aragao Law"
-      ],
-      [
-        "Feito no",
-        "Grupo Brio"
-      ],
-      [
-        "Área",
-        "Direito empresarial internacional e imigração"
-      ],
-      [
-        "Entregas",
-        "Carrosséis para Instagram"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "text",
-        "h": "Revista, não escritório",
-        "p": [
-          "A identidade visual foge do clichê de balança e martelo. A assinatura ARAGAO LAW aparece espaçada no topo, como o nome de uma revista, e a linha International Business Law & Immigration fecha cada card no rodapé. Os títulos usam uma serifa clássica que alterna romano e itálico, e a paleta fica entre um verde profundo e o off-white.",
-          "As imagens mostram o estilo de vida do público: lagos, lanchas, villas e cidades. Os layouts variam entre foto em tela cheia, foto emoldurada e divisão vertical entre imagem e texto, o que mantém o ritmo sem perder a unidade."
-        ]
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/aragao/",
-        "files": [
-          "joint-1",
-          "joint-2",
-          "joint-3",
-          "joint-4",
-          "joint-5",
-          "joint-6",
-          "joint-7"
-        ],
-        "label": "Carrossel Joint tenancy",
-        "titles": [
-          "Você comprou um imóvel nos EUA em joint tenancy achando que estava protegendo sua família. Pode ter criado uma exposição de 40%.",
-          "É comum ouvir que joint tenancy é uma forma simples e eficiente de proteger patrimônio nos EUA.",
-          "Joint tenancy não é instrumento de proteção patrimonial. É uma forma de titularidade.",
-          "Quarenta por cento. Isso não é proteção. É risco tributário.",
-          "A informação errada não vem da lei. Vem da generalização.",
-          "Existem instrumentos adequados: trust, LLC, estruturas societárias específicas.",
-          "Antes de seguir qualquer orientação, avalie o impacto na sua estrutura. Proteção internacional não é opinião. É técnica."
-        ],
-        "cap": "Joint tenancy."
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/aragao/",
-        "files": [
-          "imoveis-1",
-          "imoveis-2",
-          "imoveis-3"
-        ],
-        "label": "Carrossel Imóveis no Brasil e nos Estados Unidos",
-        "titles": [
-          "Que tipo de imóvel é possível comprar no Brasil e nos Estados Unidos em faixas de preços semelhantes? Uma comparação entre anúncios públicos.",
-          "Comparação: casa em Franco da Rocha, SP, por R$ 360.000 e casa em Chicago por US$ 325.000.",
-          "Comparação: casa em Franco da Rocha, SP, por R$ 360.000 e casa em Hobart, Indiana, por US$ 363.000."
-        ],
-        "cap": "Imóveis no Brasil e nos EUA."
-      }
-    ]
-  },
-  {
-    "slug": "rosa-casamento",
-    "type": "grafico",
-    "discipline": "Design editorial",
-    "title": "Fazenda do Rosa: proposta de casamento",
-    "year": "2026",
-    "brio": true,
-    "summary": "Apresentação comercial de 30 páginas para vender casamentos à beira-mar na Praia do Rosa, SC.",
-    "cover": {
-      "src": "img/covers/rosa-casamento.jpg",
-      "alt": "Páginas da proposta de casamento da Fazenda do Rosa dispostas sobre fundo neutro"
-    },
-    "hero": {
-      "src": "img/rosa-casamento/05.jpg",
-      "ratio": "16/9",
-      "alt": "Página da proposta com foto de uma cerimônia ao ar livre, com convidados e vista para o mar"
-    },
-    "lede": "Uma apresentação que faz o casal imaginar o próprio casamento à beira-mar antes mesmo da primeira visita.",
-    "intro": [
-      "Proposta comercial de casamento da Fazenda do Rosa, pousada à beira-mar na Praia do Rosa, em Imbituba, SC. A apresentação reúne espaços, gastronomia, experiências, formatos de hospedagem, serviços e depoimentos de clientes.",
-      "A diagramação é editorial: fotografias em página inteira, títulos em caligrafia e um verde-oliva que conversa com a paisagem da pousada. Desenvolvi o material durante meu trabalho no Grupo Brio."
-    ],
-    "details": [
-      [
-        "Data",
-        "2026"
-      ],
-      [
-        "Cliente",
-        "Fazenda do Rosa"
-      ],
-      [
-        "Feito no",
-        "Grupo Brio"
-      ],
-      [
-        "Entrega",
-        "Apresentação comercial, 30 páginas"
-      ],
-      [
-        "Local",
-        "Praia do Rosa, SC"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "deck",
-        "dir": "img/rosa-casamento/",
-        "label": "Proposta de casamento",
-        "cap": "A apresentação completa. Use as setas ou deslize para passar as páginas.",
-        "titles": [
-          "Capa",
-          "Apresentação da proposta",
-          "Casal na cerimônia",
-          "Formatos de casamento",
-          "Cerimônia ao ar livre",
-          "Detalhes do Casamento Maram",
-          "Salão decorado",
-          "Gastronomia Maram",
-          "Experiências com exclusividade",
-          "Experiências com pacotes adicionais",
-          "Dia do noivo",
-          "Brunch da noiva",
-          "Luau à beira-mar",
-          "Luau à noite",
-          "Formatos de hospedagem",
-          "Formato com exclusividade",
-          "Restaurante",
-          "Formato sem exclusividade",
-          "Hidromassagem com vista para o mar",
-          "Outras acomodações",
-          "Suíte decorada",
-          "Cabanas Praia e Mar",
-          "Cabanas Bem-Estar",
-          "Cabanas Jardim",
-          "Eco Suítes",
-          "Serviços inclusos",
-          "Noiva e convidada",
-          "Sugestões",
-          "Festa",
-          "Depoimentos de clientes"
-        ]
-      }
-    ]
-  },
-  {
-    "slug": "gabi-castello-branco",
-    "type": "grafico",
-    "discipline": "Social media",
-    "title": "Dra. Gabi Castello Branco",
-    "year": "2025",
-    "brio": true,
-    "summary": "Carrosséis de endocrinologia que desmontam mitos sobre emagrecimento e tirzepatida, com a médica como rosto do conteúdo.",
-    "cover": {
-      "src": "img/covers/gabi.jpg",
-      "alt": "Quatro cards dos carrosséis da Dra. Gabi Castello Branco em grade sobre fundo neutro"
-    },
-    "hero": {
-      "src": "img/heroes/gabi.jpg",
-      "ratio": "2000/860",
-      "alt": "Carrossel Tirzepatida e o risco, do card de abertura com a médica ao fechamento"
-    },
-    "lede": "Informação responsável sobre emagrecimento, com o rosto e a voz da médica do primeiro ao último card.",
-    "intro": [
-      "A Dra. Gabi Castello Branco é endocrinologista e usa o Instagram para falar de emagrecimento, metabolismo e uso de medicamentos como a tirzepatida. É um assunto em alta, em que a desinformação circula mais rápido que a orientação médica, e o conteúdo precisava ser atraente sem cair na mesma linguagem de promessa."
-    ],
-    "details": [
-      [
-        "Período",
-        "Out — Dez 2025"
-      ],
-      [
-        "Cliente",
-        "Dra. Gabi Castello Branco"
-      ],
-      [
-        "Feito no",
-        "Grupo Brio"
-      ],
-      [
-        "Especialidade",
-        "Endocrinologia"
-      ],
-      [
-        "Entregas",
-        "Carrosséis para Instagram"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "text",
-        "h": "Direção visual",
-        "p": [
-          "Todos os carrosséis começam e terminam com uma fotografia da médica, que funciona como promessa de credibilidade e como assinatura. Entre as fotos, os cards alternam um vinho profundo e um creme suave, com linhas finas que ondulam ao fundo.",
-          "Os títulos usam uma serifa alta, e a parte da frase que carrega a mensagem aparece em itálico negrito. Detalhes de navegação, como a indicação para arrastar e os pontos de progresso, mantêm a pessoa até o último card."
-        ]
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/gabi/",
-        "files": [
-          "verao-1",
-          "verao-2",
-          "verao-3",
-          "verao-4",
-          "verao-5",
-          "verao-6"
-        ],
-        "label": "Carrossel 3 meses até o verão",
-        "titles": [
-          "3 meses até o verão, e sim, dá tempo de mudar o jogo. Retrato da médica.",
-          "Primeiro ponto: álcool sabota o resultado.",
-          "Fome excessiva não é disciplina, é sinal de desequilíbrio. Crie um déficit calórico leve e sustentável.",
-          "Aumente a proteína, ela é sua aliada. Não é dieta da moda, é bioquímica a seu favor.",
-          "Quer render no treino e manter o metabolismo ativo? Inclua a musculação na rotina.",
-          "O plano não é sobre pressa. É sobre constância, equilíbrio e resultado duradouro. Retrato da médica."
-        ],
-        "cap": "3 meses até o verão · Outubro de 2025."
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/gabi/",
-        "files": [
-          "risco-1",
-          "risco-2",
-          "risco-3",
-          "risco-4",
-          "risco-5"
-        ],
-        "label": "Carrossel Tirzepatida e o risco",
-        "titles": [
-          "A tirzepatida funciona. Mas sozinha, ela também pode te colocar em risco. Retrato da médica.",
-          "A tirzepatida modula hormônios. Parece simples, mas não é.",
-          "Sem supervisão, os erros acontecem rápido. Diagrama circular com os principais riscos.",
-          "No consultório, o tratamento não começa na caneta, começa no diagnóstico.",
-          "A tirzepatida pode ser uma ferramenta poderosa. Sem orientação, pode ser um atalho perigoso. Retrato da médica."
-        ],
-        "cap": "Tirzepatida e o risco · Dezembro de 2025."
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/gabi/",
-        "files": [
-          "local-1",
-          "local-2",
-          "local-3",
-          "local-4",
-          "local-5"
-        ],
-        "label": "Carrossel O lugar da aplicação da tirzepatida",
-        "titles": [
-          "Você já ouviu que a tirzepatida aplicada na barriga funciona mais? Vamos direto ao ponto: isso não é verdade. Retrato da médica.",
-          "A tirzepatida é absorvida de forma sistêmica. Mudar a região não aumenta, não acelera e não melhora o resultado.",
-          "O que determina a eficácia não é onde você aplica.",
-          "A única razão real para alternar o local da aplicação é simples: conforto.",
-          "A forma como você aplica não muda o efeito. A forma como você é acompanhada, sim. Retrato da médica."
-        ],
-        "cap": "O lugar da aplicação da tirzepatida · Dezembro de 2025."
-      }
-    ]
-  },
-  {
-    "slug": "otavio-piltcher",
-    "type": "grafico",
-    "discipline": "Social media",
-    "title": "Dr. Otávio Piltcher",
-    "year": "2025",
-    "brio": true,
-    "summary": "Carrosséis de posicionamento sobre escuta e representatividade na associação médica de otorrinolaringologia, com pinturas clássicas como metáfora.",
-    "cover": {
-      "src": "img/covers/otavio.jpg",
-      "alt": "Quatro cards dos carrosséis do Dr. Otávio Piltcher em grade sobre fundo neutro"
-    },
-    "hero": {
-      "src": "img/heroes/otavio.jpg",
-      "ratio": "2000/860",
-      "alt": "Quatro cards do carrossel Poucos escutam de verdade, da Torre de Babel ao fechamento sobre escuta ativa"
-    },
-    "lede": "Pinturas clássicas para falar de um assunto atual: quem é ouvido dentro de uma associação médica.",
-    "intro": [
-      "O Dr. Otávio Piltcher é otorrinolaringologista e usa o Instagram para discutir o futuro da ABORL, a associação brasileira da especialidade. O público são outros médicos, que precisam ser convencidos com argumentos e não com promessas."
-    ],
-    "details": [
-      [
-        "Ano",
-        "2025"
-      ],
-      [
-        "Cliente",
-        "Dr. Otávio Piltcher"
-      ],
-      [
-        "Feito no",
-        "Grupo Brio"
-      ],
-      [
-        "Especialidade",
-        "Otorrinolaringologia"
-      ],
-      [
-        "Ferramentas",
-        "Figma e Brands Decoded"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "text",
-        "h": "A pintura como metáfora",
-        "p": [
-          "Para um assunto abstrato como representatividade, a escolha foi apoiar cada ideia em uma pintura clássica. A Torre de Babel abre o carrossel sobre escuta: todo mundo fala, poucos se entendem. Um filósofo pensativo questiona o que é ser representativo. Um homem com a mão em concha atrás da orelha encerra o tema da escuta ativa, que conversa diretamente com a especialidade do médico.",
-          "As obras em tons terrosos dão peso histórico à conversa, e o amarelo-mostarda aparece nas palavras-chave e em cards de fundo inteiro, criando pausas de respiro entre os blocos de texto mais densos."
-        ]
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/otavio/",
-        "files": [
-          "escuta-1",
-          "escuta-2",
-          "escuta-3",
-          "escuta-4",
-          "escuta-5",
-          "escuta-6",
-          "escuta-7"
-        ],
-        "label": "Carrossel Poucos escutam de verdade",
-        "titles": [
-          "Nossa associação virou Torre de Babel? Todo mundo fala, mas poucos escutam de verdade nas decisões coletivas.",
-          "Baby boomers, millennials e geração Z têm sotaques, ritmos e contribuições próprias. A paixão é comum. Falta escuta e senso de poder coletivo.",
-          "Concordo que a ABORL precise evoluir. Sem escuta estruturada, liderança vira ruído, desgaste, distância e desistência coletiva.",
-          "Como associação: teríamos perdido a escuta? A cura exige mais que discursos, exige escuta ativa com método.",
-          "Pelo menos metade silencia porque, sem escuta real, não se sente representada nas decisões coletivas.",
-          "Todo médico é também educador, na comunidade e na associação.",
-          "Representação legítima começa pela escuta ativa de quem vive a medicina."
-        ],
-        "cap": "Poucos escutam de verdade · Outubro de 2025."
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/otavio/",
-        "files": [
-          "representar-1",
-          "representar-2",
-          "representar-3",
-          "representar-4",
-          "representar-5",
-          "representar-6",
-          "representar-7",
-          "representar-8"
-        ],
-        "label": "Carrossel Ser representativo ou saber representar",
-        "titles": [
-          "Ser representativo ou saber representar: diferença? Aparência não substitui competência.",
-          "Ser representativo é parecer com o grupo. Saber representar é escutar, compreender, dialogar e agir por ele.",
-          "Pertencer não basta. Diversidade importa, porém exige diálogo, preparo, responsabilidade e entregas para resultados.",
-          "Simbolismo sem proposta não resolve problemas históricos.",
-          "Ser parecido não basta. É preciso saber representar com escuta, método e entrega de verdade.",
-          "Competência une. Aparência muitas vezes divide.",
-          "Quero uma ABORL que escute todas as vozes.",
-          "União não se decreta, constrói-se com respeito e entrega. Retrato do médico."
-        ],
-        "cap": "Ser representativo ou saber representar · Outubro de 2025."
-      }
-    ]
-  },
-  {
     "slug": "grupo-brio-institucional",
     "type": "grafico",
     "discipline": "Social media · Institucional",
@@ -1411,6 +656,761 @@ window.PROJECTS = [
           "Onde os bons profissionais se calam, a desinformação ganha voz."
         ],
         "cap": "Manifestos do BRIO Lab."
+      }
+    ]
+  },
+  {
+    "slug": "rosa-campanhas",
+    "type": "grafico",
+    "discipline": "Campanha digital",
+    "title": "Fazenda do Rosa: campanhas para Instagram",
+    "year": "2025–26",
+    "brio": true,
+    "summary": "Conteúdo para o Instagram de uma pousada à beira-mar, que vende primeiro a sensação de descanso e só depois a oferta.",
+    "cover": {
+      "src": "img/covers/rosa-campanhas.jpg",
+      "alt": "Quatro posts da Fazenda do Rosa em grade sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/heroes/rosa-campanhas.jpg",
+      "ratio": "2000/860",
+      "alt": "Um post de cada campanha lado a lado: Você não precisa de férias, Onde o pulso encontra a pausa e Troque a exaustão pela renovação"
+    },
+    "lede": "Carrosséis que vendem descanso começando pela sensação, e só depois pela oferta.",
+    "intro": [
+      "A Fazenda do Rosa é uma pousada à beira-mar na Praia do Rosa, em Imbituba, SC, a mesma da proposta de casamento. Quem procura a pousada busca uma pausa de verdade, e a comunicação precisava vender a experiência de estar lá antes de falar em preço, seja no posicionamento da marca, seja em datas como o Carnaval.",
+      "Os conteúdos seguem uma mesma linguagem: fotografia da região em tela cheia, a assinatura Fazenda do Rosa espaçada no topo como o cabeçalho de uma revista e textos em que o peso da fonte destaca as palavras que contam a história. No Carnaval, a caligrafia da marca entra no título."
+    ],
+    "details": [
+      [
+        "Período",
+        "Dez 2025 — Fev 2026"
+      ],
+      [
+        "Cliente",
+        "Fazenda do Rosa"
+      ],
+      [
+        "Feito no",
+        "Grupo Brio"
+      ],
+      [
+        "Entregas",
+        "Carrosséis para Instagram"
+      ],
+      [
+        "Formatos",
+        "4:5 e 1:1"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "stat",
+        "value": "R$ 626 mil",
+        "label": "de faturamento com R$ 1.424 investidos em mídia",
+        "note": "Resultado da campanha de 50% de maio para a Fazenda do Rosa, cuja parte visual eu criei como único designer do Grupo Brio, na mesma linguagem dos carrosséis abaixo. A agência transformou o resultado em case no próprio Instagram.",
+        "link": {
+          "href": "#grupo-brio-institucional",
+          "label": "Ver o case contado pela agência"
+        }
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/rosa-promo/",
+        "files": [
+          "ferias-1",
+          "ferias-2",
+          "ferias-3",
+          "ferias-4",
+          "ferias-5"
+        ],
+        "label": "Carrossel Você não precisa de férias",
+        "titles": [
+          "Você não precisa de férias. Você precisa se lembrar de quem você é.",
+          "O piloto automático assumiu o controle? Quando a vida vira um checklist, é hora de pausar.",
+          "Por que a viagem desbloqueia a alma: mudar de ambiente tira o cérebro do modo alerta.",
+          "O reencontro: na Fazenda, sem o ruído da cidade, você volta a escutar a sua intuição.",
+          "Volte para casa diferente. Está na hora desse reencontro? Link na bio."
+        ],
+        "cap": "Você não precisa de férias · Dezembro de 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "1/1",
+        "multi": true,
+        "dir": "img/rosa-promo/",
+        "files": [
+          "carnaval-a-1",
+          "carnaval-a-2",
+          "carnaval-a-3",
+          "carnaval-a-4"
+        ],
+        "label": "Carrossel Carnaval 2026, Onde o pulso encontra a pausa",
+        "titles": [
+          "Onde o pulso encontra a pausa. Carnaval 2026, Fazenda do Rosa.",
+          "De dia, a vibração do Maram. À noite, o refúgio da EcoSuíte.",
+          "Sua base estratégica para o feriado: 30% off nas EcoSuítes, mínimo de 3 diárias.",
+          "Últimas vagas. Garanta seu lugar no paraíso, reserve agora."
+        ],
+        "cap": "Carnaval 2026 · Onde o pulso encontra a pausa."
+      },
+      {
+        "type": "deck",
+        "ratio": "1/1",
+        "multi": true,
+        "dir": "img/rosa-promo/",
+        "files": [
+          "carnaval-b-1",
+          "carnaval-b-2",
+          "carnaval-b-3",
+          "carnaval-b-4"
+        ],
+        "label": "Carrossel Carnaval 2026, Comece o ano com a bateria no 100%",
+        "titles": [
+          "Comece o ano com a bateria no 100%. Carnaval 2026, Fazenda do Rosa.",
+          "Troque a exaustão pela renovação. Celebre no Maram e recarregue na EcoSuíte.",
+          "Condição exclusiva: 30% off nas EcoSuítes, mínimo de 3 diárias. O luxo de ter privacidade absoluta.",
+          "Poucas unidades disponíveis para fevereiro. Garanta seu reset no link."
+        ],
+        "cap": "Carnaval 2026 · Comece o ano com a bateria no 100%."
+      }
+    ]
+  },
+  {
+    "slug": "atria",
+    "type": "grafico",
+    "discipline": "Social media · Ilustração com IA",
+    "title": "Atria Intervenção",
+    "year": "2026",
+    "brio": true,
+    "summary": "Carrosséis editoriais que explicam procedimentos de radiologia intervencionista para pacientes.",
+    "cover": {
+      "src": "img/covers/atria.jpg",
+      "alt": "Quatro páginas dos carrosséis da Atria Intervenção em grade sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/heroes/atria.jpg",
+      "ratio": "2000/860",
+      "alt": "Quatro páginas lado a lado: mioma uterino, embolização uterina, crioablação e fechamento com a marca Atria"
+    },
+    "lede": "Temas médicos delicados contados com a calma e a clareza de uma revista.",
+    "intro": [
+      "A Atria Intervenção atua em Passo Fundo, RS, com radiologia intervencionista: tratamentos minimamente invasivos, guiados por imagem, que muitas vezes substituem uma cirurgia convencional. Boa parte do público nunca ouviu falar desses procedimentos, e chega até eles depois de um diagnóstico que já assusta."
+    ],
+    "details": [
+      [
+        "Ano",
+        "2026"
+      ],
+      [
+        "Cliente",
+        "Atria Intervenção"
+      ],
+      [
+        "Feito no",
+        "Grupo Brio"
+      ],
+      [
+        "Especialidade",
+        "Radiologia intervencionista"
+      ],
+      [
+        "Entregas",
+        "Carrosséis e ilustrações com IA"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "text",
+        "h": "Um carrossel que se lê como revista",
+        "p": [
+          "Em vez de posts soltos, os conteúdos seguem um sistema de páginas. Todo card tem o mesmo cabeçalho, com o nome da clínica de um lado e o lema Inovação e precisão do outro, e a numeração no rodapé. A leitura alterna entre fotografia em tela cheia e páginas de texto em azul, branco ou café, o que dá ritmo sem quebrar a unidade.",
+          "Os títulos usam uma serifa de alto contraste, misturando pesos leves e pesados para que a palavra principal salte da frase. O texto corrido fica em uma sans geométrica, e as informações que o paciente não pode perder ganham um fundo de cor, como um marca-texto."
+        ]
+      },
+      {
+        "type": "text",
+        "h": "Ilustrações com IA",
+        "p": [
+          "Para explicar o procedimento sem recorrer a imagens clínicas que poderiam assustar, criei as ilustrações com inteligência artificial, em um estilo de gravura antiga em preto e branco. O traço técnico remete aos livros de anatomia e passa seriedade, enquanto as etiquetas em azul da marca apontam exatamente o que o paciente precisa observar: o mioma, o cateter e o resultado depois do tratamento."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/atria/",
+        "files": [
+          "mioma-1",
+          "mioma-2",
+          "mioma-3",
+          "mioma-4",
+          "mioma-5"
+        ],
+        "label": "Carrossel Embolização uterina",
+        "titles": [
+          "Você foi informada de que a única solução para o seu mioma é a cirurgia? Existe algo que talvez ninguém tenha te contado.",
+          "O mioma uterino é um tumor benigno e uma das condições ginecológicas mais comuns. Existe uma alternativa minimamente invasiva: a embolização uterina.",
+          "A embolização uterina é feita pela Radiologia Intervencionista, sem cortes, sem anestesia geral e sem retirada do útero. Ilustração do procedimento.",
+          "A recuperação é mais rápida do que em cirurgias convencionais. Ilustração do mioma antes e depois do tratamento.",
+          "Conhecer todas as opções disponíveis é o que permite tomar a decisão mais adequada para o seu caso."
+        ],
+        "cap": "Embolização uterina."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/atria/",
+        "files": [
+          "crio-1",
+          "crio-2",
+          "crio-3",
+          "crio-4"
+        ],
+        "label": "Carrossel Crioablação renal",
+        "titles": [
+          "Um novo recurso para o tratamento do câncer renal na região. Foto da equipe durante o procedimento.",
+          "Nem todo tumor renal precisa ser tratado da mesma forma. Casos em que a crioablação pode ser considerada.",
+          "O procedimento reuniu a experiência da Urologia e da Radiologia Intervencionista. Foto com a equipe identificada.",
+          "A crioablação por gás argônio amplia as alternativas de tratamento. Atria Intervenção: preservar a vida com inovação e precisão."
+        ],
+        "cap": "Crioablação renal."
+      }
+    ]
+  },
+  {
+    "slug": "rosa-casamento",
+    "type": "grafico",
+    "discipline": "Design editorial",
+    "title": "Fazenda do Rosa: proposta de casamento",
+    "year": "2026",
+    "brio": true,
+    "summary": "Apresentação comercial de 30 páginas para vender casamentos à beira-mar na Praia do Rosa, SC.",
+    "cover": {
+      "src": "img/covers/rosa-casamento.jpg",
+      "alt": "Páginas da proposta de casamento da Fazenda do Rosa dispostas sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/rosa-casamento/05.jpg",
+      "ratio": "16/9",
+      "alt": "Página da proposta com foto de uma cerimônia ao ar livre, com convidados e vista para o mar"
+    },
+    "lede": "Uma apresentação que faz o casal imaginar o próprio casamento à beira-mar antes mesmo da primeira visita.",
+    "intro": [
+      "Proposta comercial de casamento da Fazenda do Rosa, pousada à beira-mar na Praia do Rosa, em Imbituba, SC. A apresentação reúne espaços, gastronomia, experiências, formatos de hospedagem, serviços e depoimentos de clientes.",
+      "A diagramação é editorial: fotografias em página inteira, títulos em caligrafia e um verde-oliva que conversa com a paisagem da pousada. Desenvolvi o material durante meu trabalho no Grupo Brio."
+    ],
+    "details": [
+      [
+        "Data",
+        "2026"
+      ],
+      [
+        "Cliente",
+        "Fazenda do Rosa"
+      ],
+      [
+        "Feito no",
+        "Grupo Brio"
+      ],
+      [
+        "Entrega",
+        "Apresentação comercial, 30 páginas"
+      ],
+      [
+        "Local",
+        "Praia do Rosa, SC"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "deck",
+        "dir": "img/rosa-casamento/",
+        "label": "Proposta de casamento",
+        "cap": "A apresentação completa. Use as setas ou deslize para passar as páginas.",
+        "titles": [
+          "Capa",
+          "Apresentação da proposta",
+          "Casal na cerimônia",
+          "Formatos de casamento",
+          "Cerimônia ao ar livre",
+          "Detalhes do Casamento Maram",
+          "Salão decorado",
+          "Gastronomia Maram",
+          "Experiências com exclusividade",
+          "Experiências com pacotes adicionais",
+          "Dia do noivo",
+          "Brunch da noiva",
+          "Luau à beira-mar",
+          "Luau à noite",
+          "Formatos de hospedagem",
+          "Formato com exclusividade",
+          "Restaurante",
+          "Formato sem exclusividade",
+          "Hidromassagem com vista para o mar",
+          "Outras acomodações",
+          "Suíte decorada",
+          "Cabanas Praia e Mar",
+          "Cabanas Bem-Estar",
+          "Cabanas Jardim",
+          "Eco Suítes",
+          "Serviços inclusos",
+          "Noiva e convidada",
+          "Sugestões",
+          "Festa",
+          "Depoimentos de clientes"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "aragao-law",
+    "type": "grafico",
+    "discipline": "Social media",
+    "title": "Aragao Law",
+    "year": "2026",
+    "brio": true,
+    "summary": "Conteúdo jurídico para brasileiros com patrimônio nos Estados Unidos, com a estética de uma revista de estilo de vida.",
+    "cover": {
+      "src": "img/covers/aragao.jpg",
+      "alt": "Quatro cards dos carrosséis da Aragao Law em grade sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/heroes/aragao.jpg",
+      "ratio": "2000/860",
+      "alt": "Quatro cards do carrossel sobre joint tenancy, com lancha, villa, título Quarenta por cento e fechamento"
+    },
+    "lede": "Direito internacional explicado com a elegância que o público dele espera.",
+    "intro": [
+      "A Aragao Law é um escritório de advocacia nos Estados Unidos, especializado em direito empresarial internacional e imigração. O público são brasileiros que investem, vivem ou planejam proteger patrimônio no país, pessoas acostumadas a marcas de alto padrão e pouco pacientes com conteúdo jurídico denso."
+    ],
+    "details": [
+      [
+        "Ano",
+        "2026"
+      ],
+      [
+        "Cliente",
+        "Aragao Law"
+      ],
+      [
+        "Feito no",
+        "Grupo Brio"
+      ],
+      [
+        "Área",
+        "Direito empresarial internacional e imigração"
+      ],
+      [
+        "Entregas",
+        "Carrosséis para Instagram"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "text",
+        "h": "Revista, não escritório",
+        "p": [
+          "A identidade visual foge do clichê de balança e martelo. A assinatura ARAGAO LAW aparece espaçada no topo, como o nome de uma revista, e a linha International Business Law & Immigration fecha cada card no rodapé. Os títulos usam uma serifa clássica que alterna romano e itálico, e a paleta fica entre um verde profundo e o off-white.",
+          "As imagens mostram o estilo de vida do público: lagos, lanchas, villas e cidades. Os layouts variam entre foto em tela cheia, foto emoldurada e divisão vertical entre imagem e texto, o que mantém o ritmo sem perder a unidade."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/aragao/",
+        "files": [
+          "joint-1",
+          "joint-2",
+          "joint-3",
+          "joint-4",
+          "joint-5",
+          "joint-6",
+          "joint-7"
+        ],
+        "label": "Carrossel Joint tenancy",
+        "titles": [
+          "Você comprou um imóvel nos EUA em joint tenancy achando que estava protegendo sua família. Pode ter criado uma exposição de 40%.",
+          "É comum ouvir que joint tenancy é uma forma simples e eficiente de proteger patrimônio nos EUA.",
+          "Joint tenancy não é instrumento de proteção patrimonial. É uma forma de titularidade.",
+          "Quarenta por cento. Isso não é proteção. É risco tributário.",
+          "A informação errada não vem da lei. Vem da generalização.",
+          "Existem instrumentos adequados: trust, LLC, estruturas societárias específicas.",
+          "Antes de seguir qualquer orientação, avalie o impacto na sua estrutura. Proteção internacional não é opinião. É técnica."
+        ],
+        "cap": "Joint tenancy."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/aragao/",
+        "files": [
+          "imoveis-1",
+          "imoveis-2",
+          "imoveis-3"
+        ],
+        "label": "Carrossel Imóveis no Brasil e nos Estados Unidos",
+        "titles": [
+          "Que tipo de imóvel é possível comprar no Brasil e nos Estados Unidos em faixas de preços semelhantes? Uma comparação entre anúncios públicos.",
+          "Comparação: casa em Franco da Rocha, SP, por R$ 360.000 e casa em Chicago por US$ 325.000.",
+          "Comparação: casa em Franco da Rocha, SP, por R$ 360.000 e casa em Hobart, Indiana, por US$ 363.000."
+        ],
+        "cap": "Imóveis no Brasil e nos EUA."
+      }
+    ]
+  },
+  {
+    "slug": "hospital-piltcher",
+    "type": "grafico",
+    "discipline": "Social media",
+    "title": "Hospital Piltcher",
+    "year": "2025–26",
+    "brio": true,
+    "summary": "Campanhas de saúde para o Instagram de um hospital em Pelotas, do Setembro Amarelo ao Dia da Mulher, cada uma com um tom próprio.",
+    "cover": {
+      "src": "img/covers/piltcher.jpg",
+      "alt": "Três capas de carrossel do Hospital Piltcher em grade sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/heroes/piltcher.jpg",
+      "ratio": "2000/860",
+      "alt": "Quatro cards lado a lado: Setembro é um convite, protetor solar todos os dias, Mas essa missão não se faz sozinha e Neste 8 de março"
+    },
+    "lede": "Datas do calendário da saúde transformadas em conversas próximas, sem perder a seriedade de um hospital.",
+    "intro": [
+      "O Hospital Piltcher fica em Pelotas, RS, e também assina a comunicação como Saúde Piltcher. O Instagram acompanha o calendário da saúde, com campanhas de conscientização e datas comemorativas, e fala ao mesmo tempo com pacientes e com a comunidade da cidade. O desafio era informar com responsabilidade e, ainda assim, aproximar o hospital das pessoas."
+    ],
+    "details": [
+      [
+        "Período",
+        "Ago 2025 — Mar 2026"
+      ],
+      [
+        "Cliente",
+        "Hospital Piltcher"
+      ],
+      [
+        "Feito no",
+        "Grupo Brio"
+      ],
+      [
+        "Local",
+        "Pelotas, RS"
+      ],
+      [
+        "Entregas",
+        "Carrosséis para Instagram"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "text",
+        "h": "Direção visual",
+        "p": [
+          "Os títulos usam uma tipografia condensada em caixa alta, com as palavras-chave em cor, o que dá ao conteúdo a força de um cartaz mesmo na tela do celular. A base é o azul e o verde-água da marca, e cada campanha ganha uma variação própria: verde-limão sobre paisagens ao entardecer no Setembro Amarelo, imagens de praia com textura de filme no verão e uma moldura de revista, com cabeçalho e barra de navegação, no Dia da Mulher.",
+          "No Dia da Mulher, a fotografia da própria equipe assume o centro da narrativa. Em vez de imagens genéricas, o carrossel mostra as pessoas que fazem o hospital funcionar, da responsável técnica às colaboradoras do dia a dia."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/piltcher/",
+        "files": [
+          "setembro-1",
+          "setembro-2",
+          "setembro-3",
+          "setembro-4",
+          "setembro-5",
+          "setembro-6"
+        ],
+        "label": "Carrossel Setembro Amarelo",
+        "titles": [
+          "Setembro é um convite: cuide da sua mente hoje, não só quando dói.",
+          "Contexto do Brasil: dados sobre ansiedade e depressão.",
+          "Falar sobre o que sente não é fraqueza. É coragem e o primeiro passo para reorganizar a vida.",
+          "Fique atento aos sinais. A prevenção está no dia a dia.",
+          "Em caso de crise, peça ajuda imediatamente. Ligue CVV 188.",
+          "Um caminho seguro começa com avaliação médica."
+        ],
+        "cap": "Setembro Amarelo · Setembro de 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/piltcher/",
+        "files": [
+          "verao-1",
+          "verao-2",
+          "verao-3",
+          "verao-4"
+        ],
+        "label": "Carrossel Verão e cuidado com a pele",
+        "titles": [
+          "Verão chegando: sua pele precisa mais do que bronze.",
+          "Use protetor solar com FPS 30 ou mais, todos os dias.",
+          "Hidrate a pele diariamente e observe o seu corpo.",
+          "Viva o verão com consciência: proteger é o novo bronze."
+        ],
+        "cap": "Verão e cuidado com a pele · Outubro de 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/piltcher/",
+        "files": [
+          "mulher-1",
+          "mulher-2",
+          "mulher-3",
+          "mulher-4",
+          "mulher-5"
+        ],
+        "label": "Carrossel Dia da Mulher",
+        "titles": [
+          "A força que pulsa no coração do Hospital Piltcher. Uma homenagem às mulheres que transformam medicina em cuidado real.",
+          "À frente da responsabilidade técnica, a Dra. Maira Guedes Piltcher.",
+          "Mas essa missão não se faz sozinha: médicas, enfermeiras, técnicas e administrativas.",
+          "Cuidar exige a sensibilidade de enxergar além do diagnóstico.",
+          "Neste 8 de março, a homenagem é para cada colaboradora e para a Dra. Maira."
+        ],
+        "cap": "Dia da Mulher · Março de 2026."
+      }
+    ]
+  },
+  {
+    "slug": "otavio-piltcher",
+    "type": "grafico",
+    "discipline": "Social media",
+    "title": "Dr. Otávio Piltcher",
+    "year": "2025",
+    "brio": true,
+    "summary": "Carrosséis de posicionamento sobre escuta e representatividade na associação médica de otorrinolaringologia, com pinturas clássicas como metáfora.",
+    "cover": {
+      "src": "img/covers/otavio.jpg",
+      "alt": "Quatro cards dos carrosséis do Dr. Otávio Piltcher em grade sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/heroes/otavio.jpg",
+      "ratio": "2000/860",
+      "alt": "Quatro cards do carrossel Poucos escutam de verdade, da Torre de Babel ao fechamento sobre escuta ativa"
+    },
+    "lede": "Pinturas clássicas para falar de um assunto atual: quem é ouvido dentro de uma associação médica.",
+    "intro": [
+      "O Dr. Otávio Piltcher é otorrinolaringologista e usa o Instagram para discutir o futuro da ABORL, a associação brasileira da especialidade. O público são outros médicos, que precisam ser convencidos com argumentos e não com promessas."
+    ],
+    "details": [
+      [
+        "Ano",
+        "2025"
+      ],
+      [
+        "Cliente",
+        "Dr. Otávio Piltcher"
+      ],
+      [
+        "Feito no",
+        "Grupo Brio"
+      ],
+      [
+        "Especialidade",
+        "Otorrinolaringologia"
+      ],
+      [
+        "Ferramentas",
+        "Figma e Brands Decoded"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "text",
+        "h": "A pintura como metáfora",
+        "p": [
+          "Para um assunto abstrato como representatividade, a escolha foi apoiar cada ideia em uma pintura clássica. A Torre de Babel abre o carrossel sobre escuta: todo mundo fala, poucos se entendem. Um filósofo pensativo questiona o que é ser representativo. Um homem com a mão em concha atrás da orelha encerra o tema da escuta ativa, que conversa diretamente com a especialidade do médico.",
+          "As obras em tons terrosos dão peso histórico à conversa, e o amarelo-mostarda aparece nas palavras-chave e em cards de fundo inteiro, criando pausas de respiro entre os blocos de texto mais densos."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/otavio/",
+        "files": [
+          "escuta-1",
+          "escuta-2",
+          "escuta-3",
+          "escuta-4",
+          "escuta-5",
+          "escuta-6",
+          "escuta-7"
+        ],
+        "label": "Carrossel Poucos escutam de verdade",
+        "titles": [
+          "Nossa associação virou Torre de Babel? Todo mundo fala, mas poucos escutam de verdade nas decisões coletivas.",
+          "Baby boomers, millennials e geração Z têm sotaques, ritmos e contribuições próprias. A paixão é comum. Falta escuta e senso de poder coletivo.",
+          "Concordo que a ABORL precise evoluir. Sem escuta estruturada, liderança vira ruído, desgaste, distância e desistência coletiva.",
+          "Como associação: teríamos perdido a escuta? A cura exige mais que discursos, exige escuta ativa com método.",
+          "Pelo menos metade silencia porque, sem escuta real, não se sente representada nas decisões coletivas.",
+          "Todo médico é também educador, na comunidade e na associação.",
+          "Representação legítima começa pela escuta ativa de quem vive a medicina."
+        ],
+        "cap": "Poucos escutam de verdade · Outubro de 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/otavio/",
+        "files": [
+          "representar-1",
+          "representar-2",
+          "representar-3",
+          "representar-4",
+          "representar-5",
+          "representar-6",
+          "representar-7",
+          "representar-8"
+        ],
+        "label": "Carrossel Ser representativo ou saber representar",
+        "titles": [
+          "Ser representativo ou saber representar: diferença? Aparência não substitui competência.",
+          "Ser representativo é parecer com o grupo. Saber representar é escutar, compreender, dialogar e agir por ele.",
+          "Pertencer não basta. Diversidade importa, porém exige diálogo, preparo, responsabilidade e entregas para resultados.",
+          "Simbolismo sem proposta não resolve problemas históricos.",
+          "Ser parecido não basta. É preciso saber representar com escuta, método e entrega de verdade.",
+          "Competência une. Aparência muitas vezes divide.",
+          "Quero uma ABORL que escute todas as vozes.",
+          "União não se decreta, constrói-se com respeito e entrega. Retrato do médico."
+        ],
+        "cap": "Ser representativo ou saber representar · Outubro de 2025."
+      }
+    ]
+  },
+  {
+    "slug": "gabi-castello-branco",
+    "type": "grafico",
+    "discipline": "Social media",
+    "title": "Dra. Gabi Castello Branco",
+    "year": "2025",
+    "brio": true,
+    "summary": "Carrosséis de endocrinologia que desmontam mitos sobre emagrecimento e tirzepatida, com a médica como rosto do conteúdo.",
+    "cover": {
+      "src": "img/covers/gabi.jpg",
+      "alt": "Quatro cards dos carrosséis da Dra. Gabi Castello Branco em grade sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/heroes/gabi.jpg",
+      "ratio": "2000/860",
+      "alt": "Carrossel Tirzepatida e o risco, do card de abertura com a médica ao fechamento"
+    },
+    "lede": "Informação responsável sobre emagrecimento, com o rosto e a voz da médica do primeiro ao último card.",
+    "intro": [
+      "A Dra. Gabi Castello Branco é endocrinologista e usa o Instagram para falar de emagrecimento, metabolismo e uso de medicamentos como a tirzepatida. É um assunto em alta, em que a desinformação circula mais rápido que a orientação médica, e o conteúdo precisava ser atraente sem cair na mesma linguagem de promessa."
+    ],
+    "details": [
+      [
+        "Período",
+        "Out — Dez 2025"
+      ],
+      [
+        "Cliente",
+        "Dra. Gabi Castello Branco"
+      ],
+      [
+        "Feito no",
+        "Grupo Brio"
+      ],
+      [
+        "Especialidade",
+        "Endocrinologia"
+      ],
+      [
+        "Entregas",
+        "Carrosséis para Instagram"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "text",
+        "h": "Direção visual",
+        "p": [
+          "Todos os carrosséis começam e terminam com uma fotografia da médica, que funciona como promessa de credibilidade e como assinatura. Entre as fotos, os cards alternam um vinho profundo e um creme suave, com linhas finas que ondulam ao fundo.",
+          "Os títulos usam uma serifa alta, e a parte da frase que carrega a mensagem aparece em itálico negrito. Detalhes de navegação, como a indicação para arrastar e os pontos de progresso, mantêm a pessoa até o último card."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/gabi/",
+        "files": [
+          "verao-1",
+          "verao-2",
+          "verao-3",
+          "verao-4",
+          "verao-5",
+          "verao-6"
+        ],
+        "label": "Carrossel 3 meses até o verão",
+        "titles": [
+          "3 meses até o verão, e sim, dá tempo de mudar o jogo. Retrato da médica.",
+          "Primeiro ponto: álcool sabota o resultado.",
+          "Fome excessiva não é disciplina, é sinal de desequilíbrio. Crie um déficit calórico leve e sustentável.",
+          "Aumente a proteína, ela é sua aliada. Não é dieta da moda, é bioquímica a seu favor.",
+          "Quer render no treino e manter o metabolismo ativo? Inclua a musculação na rotina.",
+          "O plano não é sobre pressa. É sobre constância, equilíbrio e resultado duradouro. Retrato da médica."
+        ],
+        "cap": "3 meses até o verão · Outubro de 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/gabi/",
+        "files": [
+          "risco-1",
+          "risco-2",
+          "risco-3",
+          "risco-4",
+          "risco-5"
+        ],
+        "label": "Carrossel Tirzepatida e o risco",
+        "titles": [
+          "A tirzepatida funciona. Mas sozinha, ela também pode te colocar em risco. Retrato da médica.",
+          "A tirzepatida modula hormônios. Parece simples, mas não é.",
+          "Sem supervisão, os erros acontecem rápido. Diagrama circular com os principais riscos.",
+          "No consultório, o tratamento não começa na caneta, começa no diagnóstico.",
+          "A tirzepatida pode ser uma ferramenta poderosa. Sem orientação, pode ser um atalho perigoso. Retrato da médica."
+        ],
+        "cap": "Tirzepatida e o risco · Dezembro de 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/gabi/",
+        "files": [
+          "local-1",
+          "local-2",
+          "local-3",
+          "local-4",
+          "local-5"
+        ],
+        "label": "Carrossel O lugar da aplicação da tirzepatida",
+        "titles": [
+          "Você já ouviu que a tirzepatida aplicada na barriga funciona mais? Vamos direto ao ponto: isso não é verdade. Retrato da médica.",
+          "A tirzepatida é absorvida de forma sistêmica. Mudar a região não aumenta, não acelera e não melhora o resultado.",
+          "O que determina a eficácia não é onde você aplica.",
+          "A única razão real para alternar o local da aplicação é simples: conforto.",
+          "A forma como você aplica não muda o efeito. A forma como você é acompanhada, sim. Retrato da médica."
+        ],
+        "cap": "O lugar da aplicação da tirzepatida · Dezembro de 2025."
       }
     ]
   },
