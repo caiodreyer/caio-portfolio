@@ -35,7 +35,7 @@ window.PROJECTS = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Marcelo Marins",
-    "year": "2025–26",
+    "year": "2026",
     "brio": true,
     "summary": "Landing page para um médico de emagrecimento clínico que começa desmontando mitos e termina filtrando quem é o paciente certo.",
     "cover": {
@@ -53,8 +53,8 @@ window.PROJECTS = [
     ],
     "details": [
       [
-        "Período",
-        "2025 — 2026"
+        "Ano",
+        "2026"
       ],
       [
         "Cliente",
@@ -246,7 +246,7 @@ window.PROJECTS = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Fábio Pantaleão",
-    "year": "2025–26",
+    "year": "2026",
     "brio": true,
     "summary": "Landing page criada do zero, a partir da identidade do cliente, para captar novos pacientes de nutrologia e saúde hormonal.",
     "cover": {
@@ -261,12 +261,12 @@ window.PROJECTS = [
     "lede": "Uma página que parte dos sintomas que o paciente reconhece e o conduz, bloco a bloco, até o agendamento.",
     "intro": [
       "O Dr. Fábio Pantaleão atende em São José do Rio Preto, SP, com foco em nutrologia e suporte hormonal. Ele precisava de um canal digital que trouxesse novos pacientes para o consultório, e a landing page foi criada para cumprir esse papel.",
-      "Desenvolvi o projeto em fevereiro de 2026, durante meu trabalho no Grupo Brio. A página nasceu do zero, com um objetivo central: transformar a visita de alguém que suspeita de um desequilíbrio hormonal em uma consulta de avaliação agendada."
+      "Desenvolvi o projeto em 2026, durante meu trabalho no Grupo Brio. A página nasceu do zero, com um objetivo central: transformar a visita de alguém que suspeita de um desequilíbrio hormonal em uma consulta de avaliação agendada."
     ],
     "details": [
       [
-        "Período",
-        "2025 — 2026"
+        "Ano",
+        "2026"
       ],
       [
         "Cliente",
@@ -464,7 +464,7 @@ window.PROJECTS = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dra. Alexandra Galhardo",
-    "year": "2025–26",
+    "year": "2025",
     "brio": true,
     "summary": "Landing page criada do zero, a partir da identidade da médica, para captar pacientes em busca de emagrecimento, saúde hormonal e longevidade.",
     "cover": {
@@ -483,8 +483,8 @@ window.PROJECTS = [
     ],
     "details": [
       [
-        "Período",
-        "2025 — 2026"
+        "Ano",
+        "2025"
       ],
       [
         "Cliente",
@@ -674,7 +674,7 @@ window.PROJECTS = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Cristiano Cruz",
-    "year": "2025–26",
+    "year": "2025",
     "brio": true,
     "summary": "Landing page para um nutrólogo com experiência em Ortopedia, construída para transformar um diferencial técnico em novos pacientes.",
     "cover": {
@@ -693,8 +693,8 @@ window.PROJECTS = [
     ],
     "details": [
       [
-        "Período",
-        "2025 — 2026"
+        "Ano",
+        "2025"
       ],
       [
         "Cliente",

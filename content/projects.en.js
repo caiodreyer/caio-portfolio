@@ -12,7 +12,7 @@ window.PROJECTS_EN = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Marcelo Marins",
-    "year": "2025–26",
+    "year": "2026",
     "brio": true,
     "summary": "A landing page for a clinical weight-loss doctor that starts by debunking myths and ends by filtering for the right patient.",
     "cover": {
@@ -30,8 +30,8 @@ window.PROJECTS_EN = [
     ],
     "details": [
       [
-        "Period",
-        "2025 — 2026"
+        "Year",
+        "2026"
       ],
       [
         "Client",
@@ -223,7 +223,7 @@ window.PROJECTS_EN = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Fábio Pantaleão",
-    "year": "2025–26",
+    "year": "2026",
     "brio": true,
     "summary": "A landing page built from scratch, based on the client's identity, to bring in new nutrology and hormonal health patients.",
     "cover": {
@@ -238,12 +238,12 @@ window.PROJECTS_EN = [
     "lede": "A page that starts from symptoms the patient recognizes and guides them, block by block, to booking.",
     "intro": [
       "Dr. Fábio Pantaleão practices in São José do Rio Preto, SP, Brazil, focusing on nutrology and hormonal support. He needed a digital channel to bring new patients to his practice, and the landing page was created to do exactly that.",
-      "I developed the project in February 2026, while working at Grupo Brio. The page was built from scratch with one central goal: turning a visit from someone who suspects a hormonal imbalance into a booked assessment."
+      "I developed the project in 2026, while working at Grupo Brio. The page was built from scratch with one central goal: turning a visit from someone who suspects a hormonal imbalance into a booked assessment."
     ],
     "details": [
       [
-        "Period",
-        "2025 — 2026"
+        "Year",
+        "2026"
       ],
       [
         "Client",
@@ -441,7 +441,7 @@ window.PROJECTS_EN = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Alexandra Galhardo",
-    "year": "2025–26",
+    "year": "2025",
     "brio": true,
     "summary": "A landing page built from scratch, based on the doctor's identity, to attract patients looking for weight loss, hormonal health and longevity.",
     "cover": {
@@ -460,8 +460,8 @@ window.PROJECTS_EN = [
     ],
     "details": [
       [
-        "Period",
-        "2025 — 2026"
+        "Year",
+        "2025"
       ],
       [
         "Client",
@@ -651,7 +651,7 @@ window.PROJECTS_EN = [
     "type": "web",
     "discipline": "Landing page",
     "title": "Dr. Cristiano Cruz",
-    "year": "2025–26",
+    "year": "2025",
     "brio": true,
     "summary": "A landing page for a nutrologist with a background in orthopedics, built to turn a technical differentiator into new patients.",
     "cover": {
@@ -670,8 +670,8 @@ window.PROJECTS_EN = [
     ],
     "details": [
       [
-        "Period",
-        "2025 — 2026"
+        "Year",
+        "2025"
       ],
       [
         "Client",

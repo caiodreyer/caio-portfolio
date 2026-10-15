@@ -115,10 +115,10 @@ window.SITE = {
       "Cada projeto partia da identidade que o cliente já tinha. O desafio era levar essa identidade para o digital sem perder consistência, mesmo com várias entregas na mesma semana."
     ],
     clients: [
-      { name: "Dr. Marcelo Marins", sector: "Emagrecimento clínico", kind: "Landing page", year: "2025–26", case: "marcelo-marins" },
-      { name: "Dr. Fábio Pantaleão", sector: "Nutrologia e saúde hormonal", kind: "Landing page", year: "2025–26", case: "fabio-pantaleao" },
-      { name: "Dr. Cristiano Cruz", sector: "Nutrologia e Ortopedia", kind: "Landing page", year: "2025–26", case: "cristiano-cruz" },
-      { name: "Dra. Alexandra Galhardo", sector: "Emagrecimento e longevidade", kind: "Landing page", year: "2025–26", case: "alexandra-galhardo" },
+      { name: "Dr. Marcelo Marins", sector: "Emagrecimento clínico", kind: "Landing page", year: "2026", case: "marcelo-marins" },
+      { name: "Dr. Fábio Pantaleão", sector: "Nutrologia e saúde hormonal", kind: "Landing page", year: "2026", case: "fabio-pantaleao" },
+      { name: "Dr. Cristiano Cruz", sector: "Nutrologia e Ortopedia", kind: "Landing page", year: "2025", case: "cristiano-cruz" },
+      { name: "Dra. Alexandra Galhardo", sector: "Emagrecimento e longevidade", kind: "Landing page", year: "2025", case: "alexandra-galhardo" },
       { name: "Fazenda do Rosa", sector: "Pousada e eventos", kind: "Proposta de casamento", year: "2025–26", case: "rosa-casamento" },
       { name: "Fazenda do Rosa", sector: "Pousada e eventos", kind: "Campanhas para Instagram", year: "2025–26", case: "rosa-campanhas" },
       { name: "Atria Intervenção", sector: "Radiologia intervencionista", kind: "Carrosséis e ilustrações com IA", year: "2025–26", case: "atria" },
