@@ -1,11 +1,13 @@
 /*
   PROJETOS DO PORTFÓLIO
   ---------------------------------------------------------------
-  Cada item abaixo é um projeto. A ordem aqui é a ordem na página inicial.
+  Cada item abaixo é um projeto. A ordem aqui é a ordem na página inicial:
+  primeiro os de UX/UI (type "web"), depois os de design gráfico. Em cada grupo,
+  o destaque vem primeiro e o restante segue do mais recente para o mais antigo.
 
   Campos principais
     slug        endereço da página (ex.: #marcelo-marins). Sem espaços nem acentos.
-    type        "web" ou "grafico" (define o filtro e o formato da página)
+    type        "web" (seção UX/UI) ou "grafico" (seção Design gráfico)
     discipline  categoria curta exibida no card
     title, year, summary (texto do card), lede (frase de abertura do caso)
     brio        true se foi feito no Grupo Brio
@@ -148,222 +150,6 @@ window.PROJECTS = [
     ]
   },
   {
-    "slug": "sunset-verano",
-    "type": "grafico",
-    "discipline": "Identidade visual",
-    "title": "Verano Sunset 23: Abertura do Verão",
-    "year": "2023",
-    "brio": false,
-    "summary": "Identidade visual para a festa de abertura do verão em Estrela, RS, aplicada do Instagram ao letreiro que o público assinou.",
-    "cover": {
-      "src": "img/covers/verano.jpg",
-      "alt": "Painel de lambes coloridos do Verano Sunset montado ao ar livre, entre árvores"
-    },
-    "hero": {
-      "src": "img/verano-abertura.jpg",
-      "ratio": "1370/771",
-      "alt": "Área externa do evento ao entardecer, com o letreiro em forma de V e o logotipo Verano Sunset"
-    },
-    "lede": "Um universo de cores quentes, sóis em explosão e tipografia de impacto para fazer de uma festa de verão uma experiência com cara própria.",
-    "intro": [
-      "O Verano Sunset 23 marcou a abertura do verão em Estrela, RS, com música ao vivo em um sítio ao ar livre, do fim da tarde até a noite. A festa precisava de uma identidade que a separasse dos outros eventos da temporada e que acompanhasse o público do primeiro post no Instagram até a última música.",
-      "Desenvolvi o projeto em parceria com a designer Vitória Simon. Juntos, criamos a marca e todas as peças que levaram essa marca para o espaço físico."
-    ],
-    "details": [
-      [
-        "Ano",
-        "2023"
-      ],
-      [
-        "Local",
-        "Estrela, RS"
-      ],
-      [
-        "Parceria",
-        "Vitória Simon"
-      ],
-      [
-        "Projeto",
-        "Identidade visual"
-      ],
-      [
-        "Entregas",
-        "Lambes, letreiro, pulseiras, cardápio, redes sociais"
-      ]
-    ],
-    "link": {
-      "href": "https://www.behance.net/gallery/187626997/Verano-Sunset-23-Abertura-do-Verao-Identidade-Visual",
-      "label": "Ver projeto no Behance"
-    },
-    "blocks": [
-      {
-        "type": "list",
-        "h": "O que a identidade precisava provocar",
-        "items": [
-          [
-            "Pertencimento",
-            "Fazer o público querer fazer parte daquela experiência."
-          ],
-          [
-            "Exclusividade",
-            "Mostrar que não se tratava de apenas mais um evento na agenda."
-          ],
-          [
-            "Impacto visual",
-            "Ser reconhecida de longe e despertar curiosidade logo no primeiro contato."
-          ],
-          [
-            "Personalidade",
-            "Construir um universo visual próprio e fácil de lembrar."
-          ],
-          [
-            "Energia e movimento",
-            "Traduzir a intensidade da música e da experiência ao vivo."
-          ],
-          [
-            "Fuga da rotina",
-            "Sugerir uma realidade paralela, livre e fora do comum."
-          ],
-          [
-            "Consistência",
-            "Ligar toda a comunicação, dos materiais digitais à experiência presencial."
-          ]
-        ]
-      },
-      {
-        "type": "text",
-        "h": "Linguagem visual",
-        "p": [
-          "A resposta veio em cores quentes e saturadas, com rosa, laranja, amarelo e um lilás pontual que remetem ao pôr do sol. Os títulos usam uma tipografia pesada, de inspiração retrô, com sombra deslocada, e dividem espaço com sóis em explosão, estrelas, raios, coqueiros e ondas que atravessam as composições.",
-          "Frases curtas e brincalhonas, como \"Vem pra Verano\" e \"Azar é verano\", dão voz à marca. O conjunto cria uma linguagem em movimento constante, que traduz a energia do som ao vivo e convida o público a sair da rotina."
-        ]
-      },
-      {
-        "type": "pair",
-        "items": [
-          {
-            "src": "img/verano-lambes.jpg",
-            "ratio": "1211/771",
-            "alt": "Cinco lambes da identidade Verano Sunset em rosa, laranja, amarelo e lilás"
-          },
-          {
-            "src": "img/verano-painel.jpg",
-            "ratio": "1211/771",
-            "alt": "Painel formado pelos lambes, decorado com folhagens, montado no evento"
-          }
-        ],
-        "cap": "Os lambes funcionam como módulos e, lado a lado, formam o painel do evento."
-      },
-      {
-        "type": "text",
-        "h": "Do papel para o espaço",
-        "p": [
-          "Os lambes foram pensados como peças modulares. Combinados, formam um grande painel que virou cenário de fotos e pano de fundo do palco. Espalhados por pilares e paredes, eles marcam o caminho do público pelo sítio e mantêm a identidade sempre à vista."
-        ]
-      },
-      {
-        "type": "image",
-        "src": "img/verano-lambes-uso.jpg",
-        "ratio": "1211/771",
-        "alt": "Lambes colados em um pilar e público posando em frente ao painel",
-        "cap": "O painel de lambes como cenário de fotos."
-      },
-      {
-        "type": "text",
-        "h": "Um letreiro para assinar",
-        "p": [
-          "A peça mais marcante do espaço foi uma grande letra V, projetada em 3D com 1,6 metro de altura antes de ser produzida em marcenaria. Ilustrada com coqueiros, flamingos e abacaxis, ela deixava espaço em branco de propósito.",
-          "Ao longo da noite, o público escreveu seus nomes no letreiro e o transformou em um registro coletivo da festa. A peça deixou de ser só decoração e virou parte da experiência, o que respondia diretamente ao desejo de pertencimento."
-        ]
-      },
-      {
-        "type": "pair",
-        "items": [
-          {
-            "src": "img/verano-estrutura.jpg",
-            "ratio": "1211/771",
-            "alt": "Projeto 3D do letreiro em V com medidas e a peça em produção na marcenaria"
-          },
-          {
-            "src": "img/verano-letreiro.jpg",
-            "ratio": "1211/771",
-            "alt": "Letreiro em V assinado pelo público à noite e uma convidada escrevendo nele"
-          }
-        ],
-        "cap": "Do projeto 3D ao letreiro assinado pelo público."
-      },
-      {
-        "type": "text",
-        "h": "Os detalhes também comunicam",
-        "p": [
-          "As pulseiras diferenciam o público maior e menor de idade sem perder o visual da festa. Já o cardápio aplica a marca sobre uma fotografia em tons dourados, com títulos manuscritos que dão ao bar um ar mais sofisticado."
-        ]
-      },
-      {
-        "type": "pair",
-        "items": [
-          {
-            "src": "img/verano-pulseiras.jpg",
-            "ratio": "1211/771",
-            "alt": "Arte das pulseiras de identificação para menores e maiores de 18 anos"
-          },
-          {
-            "src": "img/verano-pulseiras-uso.jpg",
-            "ratio": "1211/771",
-            "alt": "Pulseiras do Verano Sunset nos pulsos de convidados"
-          }
-        ],
-        "cap": "Pulseiras de identificação."
-      },
-      {
-        "type": "pair",
-        "items": [
-          {
-            "src": "img/verano-cardapio.jpg",
-            "ratio": "1211/771",
-            "alt": "Arte do cardápio do bar com o logotipo Verano Sunset"
-          },
-          {
-            "src": "img/verano-cardapio-mockup.jpg",
-            "ratio": "925/771",
-            "alt": "Cardápios impressos fixados em uma parede"
-          }
-        ],
-        "cap": "Cardápio do bar."
-      },
-      {
-        "type": "text",
-        "h": "No digital",
-        "p": [
-          "No Instagram, a identidade conduziu toda a comunicação, do save the date ao anúncio das atrações e à página de venda de ingressos. Os posts usam a mesma paleta e a mesma tipografia das peças físicas. Assim, quem chegava ao evento reconhecia na hora o universo que já tinha visto no celular."
-        ]
-      },
-      {
-        "type": "image",
-        "src": "img/verano-instagram.jpg",
-        "ratio": "1211/771",
-        "alt": "Três telas do Instagram do evento: save the date, anúncio das atrações e perfil",
-        "cap": "Save the date, anúncio das atrações e perfil do evento."
-      },
-      {
-        "type": "pair",
-        "items": [
-          {
-            "src": "img/verano-celulares.jpg",
-            "ratio": "1158/771",
-            "alt": "Vários celulares exibindo os posts do evento sobre fundo laranja"
-          },
-          {
-            "src": "img/verano-ingressos.jpg",
-            "ratio": "1027/771",
-            "alt": "Notebook exibindo a página de venda de ingressos do evento"
-          }
-        ],
-        "cap": "Posts e página de ingressos com a mesma linguagem."
-      }
-    ]
-  },
-  {
     "slug": "fabio-pantaleao",
     "type": "web",
     "discipline": "Landing page",
@@ -479,168 +265,6 @@ window.PROJECTS = [
     ]
   },
   {
-    "slug": "grupo-brio-institucional",
-    "type": "grafico",
-    "discipline": "Social media · Institucional",
-    "title": "Grupo Brio: conteúdo da própria agência",
-    "year": "2025",
-    "brio": true,
-    "summary": "Carrosséis e manifestos para o Instagram da agência, vendendo branding e posicionamento com ideias, referências e números reais.",
-    "cover": {
-      "src": "img/covers/brio.jpg",
-      "alt": "Quatro peças do Grupo Brio e do BRIO Lab em grade sobre fundo neutro"
-    },
-    "hero": {
-      "src": "img/heroes/brio.jpg",
-      "ratio": "2000/860",
-      "alt": "Quatro peças lado a lado: capa sobre reconhecimento de marca, card de engenharia cognitiva, card do case com faturamento de 626 mil reais e manifesto do BRIO Lab"
-    },
-    "lede": "Quando o cliente é a própria agência, o conteúdo precisa provar na prática o que ela vende.",
-    "intro": [
-      "Além de atender clientes, criei conteúdo para o Instagram do próprio Grupo Brio. A tarefa era diferente: em vez de vender um produto, era preciso vender um jeito de pensar marcas. Cada peça tinha de mostrar, na própria execução, o padrão de qualidade que a agência promete."
-    ],
-    "details": [
-      [
-        "Ano",
-        "2025"
-      ],
-      [
-        "Cliente",
-        "Grupo Brio e BRIO Lab"
-      ],
-      [
-        "Tipo",
-        "Comunicação institucional"
-      ],
-      [
-        "Entregas",
-        "Carrosséis e manifestos para Instagram"
-      ],
-      [
-        "Formato",
-        "4:5"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "text",
-        "h": "Direção visual",
-        "p": [
-          "Os carrosséis de autoridade combinam fotografia cinematográfica, pintura clássica e ícones que o público reconhece na hora. O roxo e o verde-limão marcam as palavras-chave, e a serifa itálica aparece nos momentos de virada do argumento.",
-          "Um dos carrosséis conta como case a campanha que criei para a Fazenda do Rosa, que somou R$ 626 mil em faturamento com R$ 1.424 investidos em mídia."
-        ]
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/brio/",
-        "files": [
-          "marca-1",
-          "marca-2",
-          "marca-3",
-          "marca-4",
-          "marca-5",
-          "marca-6",
-          "marca-7",
-          "marca-8",
-          "marca-9"
-        ],
-        "label": "Carrossel Reconhecimento de marca",
-        "titles": [
-          "Reconhecimento de marca não acontece por acaso e nunca aconteceu.",
-          "Narrativas consistentes, repetição estratégica e diferenciação simbólica.",
-          "Por trás de toda marca memorável existe uma arquitetura precisa, construída com método e intenção.",
-          "Não acontece por acaso ou de forma orgânica.",
-          "Engenharia cognitiva: marcas se tornam familiares porque ocupam a mente com frequência.",
-          "Marcas com identidade visual forte são vistas como confiáveis, únicas e legítimas.",
-          "Esse símbolo não precisa ser complexo, mas precisa ser facilmente notado.",
-          "No fim, o que o mercado chama de reconhecimento é um choque entre familiaridade, coerência e simbologia.",
-          "Reconhecimento é uma construção invisível. Não é questão de viralizar, é questão de posicionamento."
-        ],
-        "cap": "Reconhecimento de marca · Setembro de 2025."
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/brio/",
-        "files": [
-          "case-1",
-          "case-2",
-          "case-3",
-          "case-4",
-          "case-5",
-          "case-6",
-          "case-7",
-          "case-8"
-        ],
-        "label": "Carrossel Case Fazenda do Rosa",
-        "titles": [
-          "De R$ 1.500 para R$ 626 mil: o case real de uma pousada em SC.",
-          "Sabíamos que, se fôssemos direto ao ponto com o desconto, viraríamos só mais um post perdido no feed.",
-          "No papel, parecia só mais uma promoção de 50% de desconto em hospedagens.",
-          "Vendíamos uma experiência, não uma diária.",
-          "A urgência virou real.",
-          "Utilizar o tráfego pago foi apenas apoio. O valor veio do orgânico.",
-          "Foi um case de marca: faturamento de R$ 626 mil com R$ 1.424 investidos em mídia.",
-          "Sua marca tem valor, mas ainda não comunica isso com alma? Talvez o próximo case seja o seu."
-        ],
-        "cap": "Case Fazenda do Rosa · Setembro de 2025."
-      },
-      {
-        "type": "text",
-        "h": "Três capas para o mesmo case",
-        "p": [
-          "O case foi publicado com três capas diferentes, todas com o mesmo título sobre fotografias distintas do mar. Cada imagem dá um tom à mesma mensagem: a onda em formação sugere força, a arrebentação sugere impacto e o horizonte calmo sugere descanso. Assim, o conteúdo voltou ao feed mais de uma vez sem parecer repetido."
-        ]
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/brio/",
-        "files": [
-          "capa-1",
-          "capa-2",
-          "capa-3"
-        ],
-        "label": "Três versões de capa do case",
-        "titles": [
-          "Versão de capa com onda em formação.",
-          "Versão de capa com onda arrebentando.",
-          "Versão de capa com mar calmo e ilha no horizonte."
-        ],
-        "cap": "As três capas publicadas para o mesmo case."
-      },
-      {
-        "type": "text",
-        "h": "BRIO Lab",
-        "p": [
-          "Para o BRIO Lab, a frente criativa da agência, criei peças únicas em tom de manifesto. Uma serifa clássica sustenta a frase, e uma palavra-chave ganha destaque, seja em caligrafia, como em Brio e excelência, seja em itálico pesado verde-limão, como em desinformação. As imagens surreais, entre uma armadura de cristal e dois reis num tabuleiro de xadrez, dão à marca um ar de galeria de arte."
-        ]
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/brio/",
-        "files": [
-          "lab-1",
-          "lab-2",
-          "lab-3"
-        ],
-        "label": "Manifestos BRIO Lab",
-        "titles": [
-          "Tudo teremos se tivermos Brio.",
-          "Nossa missão é fazer com que a excelência ocupe o seu devido espaço.",
-          "Onde os bons profissionais se calam, a desinformação ganha voz."
-        ],
-        "cap": "Manifestos do BRIO Lab."
-      }
-    ]
-  },
-  {
     "slug": "alexandra-galhardo",
     "type": "web",
     "discipline": "Landing page",
@@ -752,207 +376,6 @@ window.PROJECTS = [
         "ratio": "1320/820",
         "alt": "Seção sobre a médica, com retrato e selo do registro profissional",
         "cap": "Retrato e registro profissional no mesmo elemento."
-      }
-    ]
-  },
-  {
-    "slug": "atria",
-    "type": "grafico",
-    "discipline": "Social media · Ilustração com IA",
-    "title": "Atria Intervenção",
-    "year": "2026",
-    "brio": true,
-    "summary": "Carrosséis editoriais que explicam procedimentos de radiologia intervencionista para pacientes.",
-    "cover": {
-      "src": "img/covers/atria.jpg",
-      "alt": "Quatro páginas dos carrosséis da Atria Intervenção em grade sobre fundo neutro"
-    },
-    "hero": {
-      "src": "img/heroes/atria.jpg",
-      "ratio": "2000/860",
-      "alt": "Quatro páginas lado a lado: mioma uterino, embolização uterina, crioablação e fechamento com a marca Atria"
-    },
-    "lede": "Temas médicos delicados contados com a calma e a clareza de uma revista.",
-    "intro": [
-      "A Atria Intervenção atua em Passo Fundo, RS, com radiologia intervencionista: tratamentos minimamente invasivos, guiados por imagem, que muitas vezes substituem uma cirurgia convencional. Boa parte do público nunca ouviu falar desses procedimentos, e chega até eles depois de um diagnóstico que já assusta."
-    ],
-    "details": [
-      [
-        "Ano",
-        "2026"
-      ],
-      [
-        "Cliente",
-        "Atria Intervenção"
-      ],
-      [
-        "Feito no",
-        "Grupo Brio"
-      ],
-      [
-        "Especialidade",
-        "Radiologia intervencionista"
-      ],
-      [
-        "Entregas",
-        "Carrosséis e ilustrações com IA"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "text",
-        "h": "Um carrossel que se lê como revista",
-        "p": [
-          "Em vez de posts soltos, os conteúdos seguem um sistema de páginas. Todo card tem o mesmo cabeçalho, com o nome da clínica de um lado e o lema Inovação e precisão do outro, e a numeração no rodapé. A leitura alterna entre fotografia em tela cheia e páginas de texto em azul, branco ou café, o que dá ritmo sem quebrar a unidade.",
-          "Os títulos usam uma serifa de alto contraste, misturando pesos leves e pesados para que a palavra principal salte da frase. O texto corrido fica em uma sans geométrica, e as informações que o paciente não pode perder ganham um fundo de cor, como um marca-texto."
-        ]
-      },
-      {
-        "type": "text",
-        "h": "Ilustrações com IA",
-        "p": [
-          "Para explicar o procedimento sem recorrer a imagens clínicas que poderiam assustar, criei as ilustrações com inteligência artificial, em um estilo de gravura antiga em preto e branco. O traço técnico remete aos livros de anatomia e passa seriedade, enquanto as etiquetas em azul da marca apontam exatamente o que o paciente precisa observar: o mioma, o cateter e o resultado depois do tratamento."
-        ]
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/atria/",
-        "files": [
-          "mioma-1",
-          "mioma-2",
-          "mioma-3",
-          "mioma-4",
-          "mioma-5"
-        ],
-        "label": "Carrossel Embolização uterina",
-        "titles": [
-          "Você foi informada de que a única solução para o seu mioma é a cirurgia? Existe algo que talvez ninguém tenha te contado.",
-          "O mioma uterino é um tumor benigno e uma das condições ginecológicas mais comuns. Existe uma alternativa minimamente invasiva: a embolização uterina.",
-          "A embolização uterina é feita pela Radiologia Intervencionista, sem cortes, sem anestesia geral e sem retirada do útero. Ilustração do procedimento.",
-          "A recuperação é mais rápida do que em cirurgias convencionais. Ilustração do mioma antes e depois do tratamento.",
-          "Conhecer todas as opções disponíveis é o que permite tomar a decisão mais adequada para o seu caso."
-        ],
-        "cap": "Embolização uterina."
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/atria/",
-        "files": [
-          "crio-1",
-          "crio-2",
-          "crio-3",
-          "crio-4"
-        ],
-        "label": "Carrossel Crioablação renal",
-        "titles": [
-          "Um novo recurso para o tratamento do câncer renal na região. Foto da equipe durante o procedimento.",
-          "Nem todo tumor renal precisa ser tratado da mesma forma. Casos em que a crioablação pode ser considerada.",
-          "O procedimento reuniu a experiência da Urologia e da Radiologia Intervencionista. Foto com a equipe identificada.",
-          "A crioablação por gás argônio amplia as alternativas de tratamento. Atria Intervenção: preservar a vida com inovação e precisão."
-        ],
-        "cap": "Crioablação renal."
-      }
-    ]
-  },
-  {
-    "slug": "aragao-law",
-    "type": "grafico",
-    "discipline": "Social media",
-    "title": "Aragao Law",
-    "year": "2026",
-    "brio": true,
-    "summary": "Conteúdo jurídico para brasileiros com patrimônio nos Estados Unidos, com a estética de uma revista de estilo de vida.",
-    "cover": {
-      "src": "img/covers/aragao.jpg",
-      "alt": "Quatro cards dos carrosséis da Aragao Law em grade sobre fundo neutro"
-    },
-    "hero": {
-      "src": "img/heroes/aragao.jpg",
-      "ratio": "2000/860",
-      "alt": "Quatro cards do carrossel sobre joint tenancy, com lancha, villa, título Quarenta por cento e fechamento"
-    },
-    "lede": "Direito internacional explicado com a elegância que o público dele espera.",
-    "intro": [
-      "A Aragao Law é um escritório de advocacia nos Estados Unidos, especializado em direito empresarial internacional e imigração. O público são brasileiros que investem, vivem ou planejam proteger patrimônio no país, pessoas acostumadas a marcas de alto padrão e pouco pacientes com conteúdo jurídico denso."
-    ],
-    "details": [
-      [
-        "Ano",
-        "2026"
-      ],
-      [
-        "Cliente",
-        "Aragao Law"
-      ],
-      [
-        "Feito no",
-        "Grupo Brio"
-      ],
-      [
-        "Área",
-        "Direito empresarial internacional e imigração"
-      ],
-      [
-        "Entregas",
-        "Carrosséis para Instagram"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "text",
-        "h": "Revista, não escritório",
-        "p": [
-          "A identidade visual foge do clichê de balança e martelo. A assinatura ARAGAO LAW aparece espaçada no topo, como o nome de uma revista, e a linha International Business Law & Immigration fecha cada card no rodapé. Os títulos usam uma serifa clássica que alterna romano e itálico, e a paleta fica entre um verde profundo e o off-white.",
-          "As imagens mostram o estilo de vida do público: lagos, lanchas, villas e cidades. Os layouts variam entre foto em tela cheia, foto emoldurada e divisão vertical entre imagem e texto, o que mantém o ritmo sem perder a unidade."
-        ]
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/aragao/",
-        "files": [
-          "joint-1",
-          "joint-2",
-          "joint-3",
-          "joint-4",
-          "joint-5",
-          "joint-6",
-          "joint-7"
-        ],
-        "label": "Carrossel Joint tenancy",
-        "titles": [
-          "Você comprou um imóvel nos EUA em joint tenancy achando que estava protegendo sua família. Pode ter criado uma exposição de 40%.",
-          "É comum ouvir que joint tenancy é uma forma simples e eficiente de proteger patrimônio nos EUA.",
-          "Joint tenancy não é instrumento de proteção patrimonial. É uma forma de titularidade.",
-          "Quarenta por cento. Isso não é proteção. É risco tributário.",
-          "A informação errada não vem da lei. Vem da generalização.",
-          "Existem instrumentos adequados: trust, LLC, estruturas societárias específicas.",
-          "Antes de seguir qualquer orientação, avalie o impacto na sua estrutura. Proteção internacional não é opinião. É técnica."
-        ],
-        "cap": "Joint tenancy."
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/aragao/",
-        "files": [
-          "imoveis-1",
-          "imoveis-2",
-          "imoveis-3"
-        ],
-        "label": "Carrossel Imóveis no Brasil e nos Estados Unidos",
-        "titles": [
-          "Que tipo de imóvel é possível comprar no Brasil e nos Estados Unidos em faixas de preços semelhantes? Uma comparação entre anúncios públicos.",
-          "Comparação: casa em Franco da Rocha, SP, por R$ 360.000 e casa em Chicago por US$ 325.000.",
-          "Comparação: casa em Franco da Rocha, SP, por R$ 360.000 e casa em Hobart, Indiana, por US$ 363.000."
-        ],
-        "cap": "Imóveis no Brasil e nos EUA."
       }
     ]
   },
@@ -1194,6 +617,412 @@ window.PROJECTS = [
     ]
   },
   {
+    "slug": "hospital-piltcher",
+    "type": "grafico",
+    "discipline": "Social media",
+    "title": "Hospital Piltcher",
+    "year": "2025–26",
+    "brio": true,
+    "summary": "Campanhas de saúde para o Instagram de um hospital em Pelotas, do Setembro Amarelo ao Dia da Mulher, cada uma com um tom próprio.",
+    "cover": {
+      "src": "img/covers/piltcher.jpg",
+      "alt": "Três capas de carrossel do Hospital Piltcher em grade sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/heroes/piltcher.jpg",
+      "ratio": "2000/860",
+      "alt": "Quatro cards lado a lado: Setembro é um convite, protetor solar todos os dias, Mas essa missão não se faz sozinha e Neste 8 de março"
+    },
+    "lede": "Datas do calendário da saúde transformadas em conversas próximas, sem perder a seriedade de um hospital.",
+    "intro": [
+      "O Hospital Piltcher fica em Pelotas, RS, e também assina a comunicação como Saúde Piltcher. O Instagram acompanha o calendário da saúde, com campanhas de conscientização e datas comemorativas, e fala ao mesmo tempo com pacientes e com a comunidade da cidade. O desafio era informar com responsabilidade e, ainda assim, aproximar o hospital das pessoas."
+    ],
+    "details": [
+      [
+        "Período",
+        "Ago 2025 — Mar 2026"
+      ],
+      [
+        "Cliente",
+        "Hospital Piltcher"
+      ],
+      [
+        "Feito no",
+        "Grupo Brio"
+      ],
+      [
+        "Local",
+        "Pelotas, RS"
+      ],
+      [
+        "Entregas",
+        "Carrosséis para Instagram"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "text",
+        "h": "Direção visual",
+        "p": [
+          "Os títulos usam uma tipografia condensada em caixa alta, com as palavras-chave em cor, o que dá ao conteúdo a força de um cartaz mesmo na tela do celular. A base é o azul e o verde-água da marca, e cada campanha ganha uma variação própria: verde-limão sobre paisagens ao entardecer no Setembro Amarelo, imagens de praia com textura de filme no verão e uma moldura de revista, com cabeçalho e barra de navegação, no Dia da Mulher.",
+          "No Dia da Mulher, a fotografia da própria equipe assume o centro da narrativa. Em vez de imagens genéricas, o carrossel mostra as pessoas que fazem o hospital funcionar, da responsável técnica às colaboradoras do dia a dia."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/piltcher/",
+        "files": [
+          "setembro-1",
+          "setembro-2",
+          "setembro-3",
+          "setembro-4",
+          "setembro-5",
+          "setembro-6"
+        ],
+        "label": "Carrossel Setembro Amarelo",
+        "titles": [
+          "Setembro é um convite: cuide da sua mente hoje, não só quando dói.",
+          "Contexto do Brasil: dados sobre ansiedade e depressão.",
+          "Falar sobre o que sente não é fraqueza. É coragem e o primeiro passo para reorganizar a vida.",
+          "Fique atento aos sinais. A prevenção está no dia a dia.",
+          "Em caso de crise, peça ajuda imediatamente. Ligue CVV 188.",
+          "Um caminho seguro começa com avaliação médica."
+        ],
+        "cap": "Setembro Amarelo · Setembro de 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/piltcher/",
+        "files": [
+          "verao-1",
+          "verao-2",
+          "verao-3",
+          "verao-4"
+        ],
+        "label": "Carrossel Verão e cuidado com a pele",
+        "titles": [
+          "Verão chegando: sua pele precisa mais do que bronze.",
+          "Use protetor solar com FPS 30 ou mais, todos os dias.",
+          "Hidrate a pele diariamente e observe o seu corpo.",
+          "Viva o verão com consciência: proteger é o novo bronze."
+        ],
+        "cap": "Verão e cuidado com a pele · Outubro de 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/piltcher/",
+        "files": [
+          "mulher-1",
+          "mulher-2",
+          "mulher-3",
+          "mulher-4",
+          "mulher-5"
+        ],
+        "label": "Carrossel Dia da Mulher",
+        "titles": [
+          "A força que pulsa no coração do Hospital Piltcher. Uma homenagem às mulheres que transformam medicina em cuidado real.",
+          "À frente da responsabilidade técnica, a Dra. Maira Guedes Piltcher.",
+          "Mas essa missão não se faz sozinha: médicas, enfermeiras, técnicas e administrativas.",
+          "Cuidar exige a sensibilidade de enxergar além do diagnóstico.",
+          "Neste 8 de março, a homenagem é para cada colaboradora e para a Dra. Maira."
+        ],
+        "cap": "Dia da Mulher · Março de 2026."
+      }
+    ]
+  },
+  {
+    "slug": "atria",
+    "type": "grafico",
+    "discipline": "Social media · Ilustração com IA",
+    "title": "Atria Intervenção",
+    "year": "2026",
+    "brio": true,
+    "summary": "Carrosséis editoriais que explicam procedimentos de radiologia intervencionista para pacientes.",
+    "cover": {
+      "src": "img/covers/atria.jpg",
+      "alt": "Quatro páginas dos carrosséis da Atria Intervenção em grade sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/heroes/atria.jpg",
+      "ratio": "2000/860",
+      "alt": "Quatro páginas lado a lado: mioma uterino, embolização uterina, crioablação e fechamento com a marca Atria"
+    },
+    "lede": "Temas médicos delicados contados com a calma e a clareza de uma revista.",
+    "intro": [
+      "A Atria Intervenção atua em Passo Fundo, RS, com radiologia intervencionista: tratamentos minimamente invasivos, guiados por imagem, que muitas vezes substituem uma cirurgia convencional. Boa parte do público nunca ouviu falar desses procedimentos, e chega até eles depois de um diagnóstico que já assusta."
+    ],
+    "details": [
+      [
+        "Ano",
+        "2026"
+      ],
+      [
+        "Cliente",
+        "Atria Intervenção"
+      ],
+      [
+        "Feito no",
+        "Grupo Brio"
+      ],
+      [
+        "Especialidade",
+        "Radiologia intervencionista"
+      ],
+      [
+        "Entregas",
+        "Carrosséis e ilustrações com IA"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "text",
+        "h": "Um carrossel que se lê como revista",
+        "p": [
+          "Em vez de posts soltos, os conteúdos seguem um sistema de páginas. Todo card tem o mesmo cabeçalho, com o nome da clínica de um lado e o lema Inovação e precisão do outro, e a numeração no rodapé. A leitura alterna entre fotografia em tela cheia e páginas de texto em azul, branco ou café, o que dá ritmo sem quebrar a unidade.",
+          "Os títulos usam uma serifa de alto contraste, misturando pesos leves e pesados para que a palavra principal salte da frase. O texto corrido fica em uma sans geométrica, e as informações que o paciente não pode perder ganham um fundo de cor, como um marca-texto."
+        ]
+      },
+      {
+        "type": "text",
+        "h": "Ilustrações com IA",
+        "p": [
+          "Para explicar o procedimento sem recorrer a imagens clínicas que poderiam assustar, criei as ilustrações com inteligência artificial, em um estilo de gravura antiga em preto e branco. O traço técnico remete aos livros de anatomia e passa seriedade, enquanto as etiquetas em azul da marca apontam exatamente o que o paciente precisa observar: o mioma, o cateter e o resultado depois do tratamento."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/atria/",
+        "files": [
+          "mioma-1",
+          "mioma-2",
+          "mioma-3",
+          "mioma-4",
+          "mioma-5"
+        ],
+        "label": "Carrossel Embolização uterina",
+        "titles": [
+          "Você foi informada de que a única solução para o seu mioma é a cirurgia? Existe algo que talvez ninguém tenha te contado.",
+          "O mioma uterino é um tumor benigno e uma das condições ginecológicas mais comuns. Existe uma alternativa minimamente invasiva: a embolização uterina.",
+          "A embolização uterina é feita pela Radiologia Intervencionista, sem cortes, sem anestesia geral e sem retirada do útero. Ilustração do procedimento.",
+          "A recuperação é mais rápida do que em cirurgias convencionais. Ilustração do mioma antes e depois do tratamento.",
+          "Conhecer todas as opções disponíveis é o que permite tomar a decisão mais adequada para o seu caso."
+        ],
+        "cap": "Embolização uterina."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/atria/",
+        "files": [
+          "crio-1",
+          "crio-2",
+          "crio-3",
+          "crio-4"
+        ],
+        "label": "Carrossel Crioablação renal",
+        "titles": [
+          "Um novo recurso para o tratamento do câncer renal na região. Foto da equipe durante o procedimento.",
+          "Nem todo tumor renal precisa ser tratado da mesma forma. Casos em que a crioablação pode ser considerada.",
+          "O procedimento reuniu a experiência da Urologia e da Radiologia Intervencionista. Foto com a equipe identificada.",
+          "A crioablação por gás argônio amplia as alternativas de tratamento. Atria Intervenção: preservar a vida com inovação e precisão."
+        ],
+        "cap": "Crioablação renal."
+      }
+    ]
+  },
+  {
+    "slug": "aragao-law",
+    "type": "grafico",
+    "discipline": "Social media",
+    "title": "Aragao Law",
+    "year": "2026",
+    "brio": true,
+    "summary": "Conteúdo jurídico para brasileiros com patrimônio nos Estados Unidos, com a estética de uma revista de estilo de vida.",
+    "cover": {
+      "src": "img/covers/aragao.jpg",
+      "alt": "Quatro cards dos carrosséis da Aragao Law em grade sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/heroes/aragao.jpg",
+      "ratio": "2000/860",
+      "alt": "Quatro cards do carrossel sobre joint tenancy, com lancha, villa, título Quarenta por cento e fechamento"
+    },
+    "lede": "Direito internacional explicado com a elegância que o público dele espera.",
+    "intro": [
+      "A Aragao Law é um escritório de advocacia nos Estados Unidos, especializado em direito empresarial internacional e imigração. O público são brasileiros que investem, vivem ou planejam proteger patrimônio no país, pessoas acostumadas a marcas de alto padrão e pouco pacientes com conteúdo jurídico denso."
+    ],
+    "details": [
+      [
+        "Ano",
+        "2026"
+      ],
+      [
+        "Cliente",
+        "Aragao Law"
+      ],
+      [
+        "Feito no",
+        "Grupo Brio"
+      ],
+      [
+        "Área",
+        "Direito empresarial internacional e imigração"
+      ],
+      [
+        "Entregas",
+        "Carrosséis para Instagram"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "text",
+        "h": "Revista, não escritório",
+        "p": [
+          "A identidade visual foge do clichê de balança e martelo. A assinatura ARAGAO LAW aparece espaçada no topo, como o nome de uma revista, e a linha International Business Law & Immigration fecha cada card no rodapé. Os títulos usam uma serifa clássica que alterna romano e itálico, e a paleta fica entre um verde profundo e o off-white.",
+          "As imagens mostram o estilo de vida do público: lagos, lanchas, villas e cidades. Os layouts variam entre foto em tela cheia, foto emoldurada e divisão vertical entre imagem e texto, o que mantém o ritmo sem perder a unidade."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/aragao/",
+        "files": [
+          "joint-1",
+          "joint-2",
+          "joint-3",
+          "joint-4",
+          "joint-5",
+          "joint-6",
+          "joint-7"
+        ],
+        "label": "Carrossel Joint tenancy",
+        "titles": [
+          "Você comprou um imóvel nos EUA em joint tenancy achando que estava protegendo sua família. Pode ter criado uma exposição de 40%.",
+          "É comum ouvir que joint tenancy é uma forma simples e eficiente de proteger patrimônio nos EUA.",
+          "Joint tenancy não é instrumento de proteção patrimonial. É uma forma de titularidade.",
+          "Quarenta por cento. Isso não é proteção. É risco tributário.",
+          "A informação errada não vem da lei. Vem da generalização.",
+          "Existem instrumentos adequados: trust, LLC, estruturas societárias específicas.",
+          "Antes de seguir qualquer orientação, avalie o impacto na sua estrutura. Proteção internacional não é opinião. É técnica."
+        ],
+        "cap": "Joint tenancy."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/aragao/",
+        "files": [
+          "imoveis-1",
+          "imoveis-2",
+          "imoveis-3"
+        ],
+        "label": "Carrossel Imóveis no Brasil e nos Estados Unidos",
+        "titles": [
+          "Que tipo de imóvel é possível comprar no Brasil e nos Estados Unidos em faixas de preços semelhantes? Uma comparação entre anúncios públicos.",
+          "Comparação: casa em Franco da Rocha, SP, por R$ 360.000 e casa em Chicago por US$ 325.000.",
+          "Comparação: casa em Franco da Rocha, SP, por R$ 360.000 e casa em Hobart, Indiana, por US$ 363.000."
+        ],
+        "cap": "Imóveis no Brasil e nos EUA."
+      }
+    ]
+  },
+  {
+    "slug": "rosa-casamento",
+    "type": "grafico",
+    "discipline": "Design editorial",
+    "title": "Fazenda do Rosa: proposta de casamento",
+    "year": "2026",
+    "brio": true,
+    "summary": "Apresentação comercial de 30 páginas para vender casamentos à beira-mar na Praia do Rosa, SC.",
+    "cover": {
+      "src": "img/covers/rosa-casamento.jpg",
+      "alt": "Páginas da proposta de casamento da Fazenda do Rosa dispostas sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/rosa-casamento/05.jpg",
+      "ratio": "16/9",
+      "alt": "Página da proposta com foto de uma cerimônia ao ar livre, com convidados e vista para o mar"
+    },
+    "lede": "Uma apresentação que faz o casal imaginar o próprio casamento à beira-mar antes mesmo da primeira visita.",
+    "intro": [
+      "Proposta comercial de casamento da Fazenda do Rosa, pousada à beira-mar na Praia do Rosa, em Imbituba, SC. A apresentação reúne espaços, gastronomia, experiências, formatos de hospedagem, serviços e depoimentos de clientes.",
+      "A diagramação é editorial: fotografias em página inteira, títulos em caligrafia e um verde-oliva que conversa com a paisagem da pousada. Desenvolvi o material durante meu trabalho no Grupo Brio."
+    ],
+    "details": [
+      [
+        "Data",
+        "2026"
+      ],
+      [
+        "Cliente",
+        "Fazenda do Rosa"
+      ],
+      [
+        "Feito no",
+        "Grupo Brio"
+      ],
+      [
+        "Entrega",
+        "Apresentação comercial, 30 páginas"
+      ],
+      [
+        "Local",
+        "Praia do Rosa, SC"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "deck",
+        "dir": "img/rosa-casamento/",
+        "label": "Proposta de casamento",
+        "cap": "A apresentação completa. Use as setas ou deslize para passar as páginas.",
+        "titles": [
+          "Capa",
+          "Apresentação da proposta",
+          "Casal na cerimônia",
+          "Formatos de casamento",
+          "Cerimônia ao ar livre",
+          "Detalhes do Casamento Maram",
+          "Salão decorado",
+          "Gastronomia Maram",
+          "Experiências com exclusividade",
+          "Experiências com pacotes adicionais",
+          "Dia do noivo",
+          "Brunch da noiva",
+          "Luau à beira-mar",
+          "Luau à noite",
+          "Formatos de hospedagem",
+          "Formato com exclusividade",
+          "Restaurante",
+          "Formato sem exclusividade",
+          "Hidromassagem com vista para o mar",
+          "Outras acomodações",
+          "Suíte decorada",
+          "Cabanas Praia e Mar",
+          "Cabanas Bem-Estar",
+          "Cabanas Jardim",
+          "Eco Suítes",
+          "Serviços inclusos",
+          "Noiva e convidada",
+          "Sugestões",
+          "Festa",
+          "Depoimentos de clientes"
+        ]
+      }
+    ]
+  },
+  {
     "slug": "gabi-castello-branco",
     "type": "grafico",
     "discipline": "Social media",
@@ -1316,46 +1145,154 @@ window.PROJECTS = [
     ]
   },
   {
-    "slug": "hospital-piltcher",
+    "slug": "otavio-piltcher",
     "type": "grafico",
     "discipline": "Social media",
-    "title": "Hospital Piltcher",
-    "year": "2025–26",
+    "title": "Dr. Otávio Piltcher",
+    "year": "2025",
     "brio": true,
-    "summary": "Campanhas de saúde para o Instagram de um hospital em Pelotas, do Setembro Amarelo ao Dia da Mulher, cada uma com um tom próprio.",
+    "summary": "Carrosséis de posicionamento sobre escuta e representatividade na associação médica de otorrinolaringologia, com pinturas clássicas como metáfora.",
     "cover": {
-      "src": "img/covers/piltcher.jpg",
-      "alt": "Três capas de carrossel do Hospital Piltcher em grade sobre fundo neutro"
+      "src": "img/covers/otavio.jpg",
+      "alt": "Quatro cards dos carrosséis do Dr. Otávio Piltcher em grade sobre fundo neutro"
     },
     "hero": {
-      "src": "img/heroes/piltcher.jpg",
+      "src": "img/heroes/otavio.jpg",
       "ratio": "2000/860",
-      "alt": "Quatro cards lado a lado: Setembro é um convite, protetor solar todos os dias, Mas essa missão não se faz sozinha e Neste 8 de março"
+      "alt": "Quatro cards do carrossel Poucos escutam de verdade, da Torre de Babel ao fechamento sobre escuta ativa"
     },
-    "lede": "Datas do calendário da saúde transformadas em conversas próximas, sem perder a seriedade de um hospital.",
+    "lede": "Pinturas clássicas para falar de um assunto atual: quem é ouvido dentro de uma associação médica.",
     "intro": [
-      "O Hospital Piltcher fica em Pelotas, RS, e também assina a comunicação como Saúde Piltcher. O Instagram acompanha o calendário da saúde, com campanhas de conscientização e datas comemorativas, e fala ao mesmo tempo com pacientes e com a comunidade da cidade. O desafio era informar com responsabilidade e, ainda assim, aproximar o hospital das pessoas."
+      "O Dr. Otávio Piltcher é otorrinolaringologista e usa o Instagram para discutir o futuro da ABORL, a associação brasileira da especialidade. O público são outros médicos, que precisam ser convencidos com argumentos e não com promessas."
     ],
     "details": [
       [
-        "Período",
-        "Ago 2025 — Mar 2026"
+        "Ano",
+        "2025"
       ],
       [
         "Cliente",
-        "Hospital Piltcher"
+        "Dr. Otávio Piltcher"
       ],
       [
         "Feito no",
         "Grupo Brio"
       ],
       [
-        "Local",
-        "Pelotas, RS"
+        "Especialidade",
+        "Otorrinolaringologia"
+      ],
+      [
+        "Ferramentas",
+        "Figma e Brands Decoded"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "text",
+        "h": "A pintura como metáfora",
+        "p": [
+          "Para um assunto abstrato como representatividade, a escolha foi apoiar cada ideia em uma pintura clássica. A Torre de Babel abre o carrossel sobre escuta: todo mundo fala, poucos se entendem. Um filósofo pensativo questiona o que é ser representativo. Um homem com a mão em concha atrás da orelha encerra o tema da escuta ativa, que conversa diretamente com a especialidade do médico.",
+          "As obras em tons terrosos dão peso histórico à conversa, e o amarelo-mostarda aparece nas palavras-chave e em cards de fundo inteiro, criando pausas de respiro entre os blocos de texto mais densos."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/otavio/",
+        "files": [
+          "escuta-1",
+          "escuta-2",
+          "escuta-3",
+          "escuta-4",
+          "escuta-5",
+          "escuta-6",
+          "escuta-7"
+        ],
+        "label": "Carrossel Poucos escutam de verdade",
+        "titles": [
+          "Nossa associação virou Torre de Babel? Todo mundo fala, mas poucos escutam de verdade nas decisões coletivas.",
+          "Baby boomers, millennials e geração Z têm sotaques, ritmos e contribuições próprias. A paixão é comum. Falta escuta e senso de poder coletivo.",
+          "Concordo que a ABORL precise evoluir. Sem escuta estruturada, liderança vira ruído, desgaste, distância e desistência coletiva.",
+          "Como associação: teríamos perdido a escuta? A cura exige mais que discursos, exige escuta ativa com método.",
+          "Pelo menos metade silencia porque, sem escuta real, não se sente representada nas decisões coletivas.",
+          "Todo médico é também educador, na comunidade e na associação.",
+          "Representação legítima começa pela escuta ativa de quem vive a medicina."
+        ],
+        "cap": "Poucos escutam de verdade · Outubro de 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/otavio/",
+        "files": [
+          "representar-1",
+          "representar-2",
+          "representar-3",
+          "representar-4",
+          "representar-5",
+          "representar-6",
+          "representar-7",
+          "representar-8"
+        ],
+        "label": "Carrossel Ser representativo ou saber representar",
+        "titles": [
+          "Ser representativo ou saber representar: diferença? Aparência não substitui competência.",
+          "Ser representativo é parecer com o grupo. Saber representar é escutar, compreender, dialogar e agir por ele.",
+          "Pertencer não basta. Diversidade importa, porém exige diálogo, preparo, responsabilidade e entregas para resultados.",
+          "Simbolismo sem proposta não resolve problemas históricos.",
+          "Ser parecido não basta. É preciso saber representar com escuta, método e entrega de verdade.",
+          "Competência une. Aparência muitas vezes divide.",
+          "Quero uma ABORL que escute todas as vozes.",
+          "União não se decreta, constrói-se com respeito e entrega. Retrato do médico."
+        ],
+        "cap": "Ser representativo ou saber representar · Outubro de 2025."
+      }
+    ]
+  },
+  {
+    "slug": "grupo-brio-institucional",
+    "type": "grafico",
+    "discipline": "Social media · Institucional",
+    "title": "Grupo Brio: conteúdo da própria agência",
+    "year": "2025",
+    "brio": true,
+    "summary": "Carrosséis e manifestos para o Instagram da agência, vendendo branding e posicionamento com ideias, referências e números reais.",
+    "cover": {
+      "src": "img/covers/brio.jpg",
+      "alt": "Quatro peças do Grupo Brio e do BRIO Lab em grade sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/heroes/brio.jpg",
+      "ratio": "2000/860",
+      "alt": "Quatro peças lado a lado: capa sobre reconhecimento de marca, card de engenharia cognitiva, card do case com faturamento de 626 mil reais e manifesto do BRIO Lab"
+    },
+    "lede": "Quando o cliente é a própria agência, o conteúdo precisa provar na prática o que ela vende.",
+    "intro": [
+      "Além de atender clientes, criei conteúdo para o Instagram do próprio Grupo Brio. A tarefa era diferente: em vez de vender um produto, era preciso vender um jeito de pensar marcas. Cada peça tinha de mostrar, na própria execução, o padrão de qualidade que a agência promete."
+    ],
+    "details": [
+      [
+        "Ano",
+        "2025"
+      ],
+      [
+        "Cliente",
+        "Grupo Brio e BRIO Lab"
+      ],
+      [
+        "Tipo",
+        "Comunicação institucional"
       ],
       [
         "Entregas",
-        "Carrosséis para Instagram"
+        "Carrosséis e manifestos para Instagram"
+      ],
+      [
+        "Formato",
+        "4:5"
       ]
     ],
     "blocks": [
@@ -1363,75 +1300,333 @@ window.PROJECTS = [
         "type": "text",
         "h": "Direção visual",
         "p": [
-          "Os títulos usam uma tipografia condensada em caixa alta, com as palavras-chave em cor, o que dá ao conteúdo a força de um cartaz mesmo na tela do celular. A base é o azul e o verde-água da marca, e cada campanha ganha uma variação própria: verde-limão sobre paisagens ao entardecer no Setembro Amarelo, imagens de praia com textura de filme no verão e uma moldura de revista, com cabeçalho e barra de navegação, no Dia da Mulher.",
-          "No Dia da Mulher, a fotografia da própria equipe assume o centro da narrativa. Em vez de imagens genéricas, o carrossel mostra as pessoas que fazem o hospital funcionar, da responsável técnica às colaboradoras do dia a dia."
+          "Os carrosséis de autoridade combinam fotografia cinematográfica, pintura clássica e ícones que o público reconhece na hora. O roxo e o verde-limão marcam as palavras-chave, e a serifa itálica aparece nos momentos de virada do argumento.",
+          "Um dos carrosséis conta como case a campanha que criei para a Fazenda do Rosa, que somou R$ 626 mil em faturamento com R$ 1.424 investidos em mídia."
         ]
       },
       {
         "type": "deck",
         "ratio": "4/5",
         "multi": true,
-        "dir": "img/piltcher/",
+        "dir": "img/brio/",
         "files": [
-          "setembro-1",
-          "setembro-2",
-          "setembro-3",
-          "setembro-4",
-          "setembro-5",
-          "setembro-6"
+          "marca-1",
+          "marca-2",
+          "marca-3",
+          "marca-4",
+          "marca-5",
+          "marca-6",
+          "marca-7",
+          "marca-8",
+          "marca-9"
         ],
-        "label": "Carrossel Setembro Amarelo",
+        "label": "Carrossel Reconhecimento de marca",
         "titles": [
-          "Setembro é um convite: cuide da sua mente hoje, não só quando dói.",
-          "Contexto do Brasil: dados sobre ansiedade e depressão.",
-          "Falar sobre o que sente não é fraqueza. É coragem e o primeiro passo para reorganizar a vida.",
-          "Fique atento aos sinais. A prevenção está no dia a dia.",
-          "Em caso de crise, peça ajuda imediatamente. Ligue CVV 188.",
-          "Um caminho seguro começa com avaliação médica."
+          "Reconhecimento de marca não acontece por acaso e nunca aconteceu.",
+          "Narrativas consistentes, repetição estratégica e diferenciação simbólica.",
+          "Por trás de toda marca memorável existe uma arquitetura precisa, construída com método e intenção.",
+          "Não acontece por acaso ou de forma orgânica.",
+          "Engenharia cognitiva: marcas se tornam familiares porque ocupam a mente com frequência.",
+          "Marcas com identidade visual forte são vistas como confiáveis, únicas e legítimas.",
+          "Esse símbolo não precisa ser complexo, mas precisa ser facilmente notado.",
+          "No fim, o que o mercado chama de reconhecimento é um choque entre familiaridade, coerência e simbologia.",
+          "Reconhecimento é uma construção invisível. Não é questão de viralizar, é questão de posicionamento."
         ],
-        "cap": "Setembro Amarelo · Setembro de 2025."
+        "cap": "Reconhecimento de marca · Setembro de 2025."
       },
       {
         "type": "deck",
         "ratio": "4/5",
         "multi": true,
-        "dir": "img/piltcher/",
+        "dir": "img/brio/",
         "files": [
-          "verao-1",
-          "verao-2",
-          "verao-3",
-          "verao-4"
+          "case-1",
+          "case-2",
+          "case-3",
+          "case-4",
+          "case-5",
+          "case-6",
+          "case-7",
+          "case-8"
         ],
-        "label": "Carrossel Verão e cuidado com a pele",
+        "label": "Carrossel Case Fazenda do Rosa",
         "titles": [
-          "Verão chegando: sua pele precisa mais do que bronze.",
-          "Use protetor solar com FPS 30 ou mais, todos os dias.",
-          "Hidrate a pele diariamente e observe o seu corpo.",
-          "Viva o verão com consciência: proteger é o novo bronze."
+          "De R$ 1.500 para R$ 626 mil: o case real de uma pousada em SC.",
+          "Sabíamos que, se fôssemos direto ao ponto com o desconto, viraríamos só mais um post perdido no feed.",
+          "No papel, parecia só mais uma promoção de 50% de desconto em hospedagens.",
+          "Vendíamos uma experiência, não uma diária.",
+          "A urgência virou real.",
+          "Utilizar o tráfego pago foi apenas apoio. O valor veio do orgânico.",
+          "Foi um case de marca: faturamento de R$ 626 mil com R$ 1.424 investidos em mídia.",
+          "Sua marca tem valor, mas ainda não comunica isso com alma? Talvez o próximo case seja o seu."
         ],
-        "cap": "Verão e cuidado com a pele · Outubro de 2025."
+        "cap": "Case Fazenda do Rosa · Setembro de 2025."
+      },
+      {
+        "type": "text",
+        "h": "Três capas para o mesmo case",
+        "p": [
+          "O case foi publicado com três capas diferentes, todas com o mesmo título sobre fotografias distintas do mar. Cada imagem dá um tom à mesma mensagem: a onda em formação sugere força, a arrebentação sugere impacto e o horizonte calmo sugere descanso. Assim, o conteúdo voltou ao feed mais de uma vez sem parecer repetido."
+        ]
       },
       {
         "type": "deck",
         "ratio": "4/5",
         "multi": true,
-        "dir": "img/piltcher/",
+        "dir": "img/brio/",
         "files": [
-          "mulher-1",
-          "mulher-2",
-          "mulher-3",
-          "mulher-4",
-          "mulher-5"
+          "capa-1",
+          "capa-2",
+          "capa-3"
         ],
-        "label": "Carrossel Dia da Mulher",
+        "label": "Três versões de capa do case",
         "titles": [
-          "A força que pulsa no coração do Hospital Piltcher. Uma homenagem às mulheres que transformam medicina em cuidado real.",
-          "À frente da responsabilidade técnica, a Dra. Maira Guedes Piltcher.",
-          "Mas essa missão não se faz sozinha: médicas, enfermeiras, técnicas e administrativas.",
-          "Cuidar exige a sensibilidade de enxergar além do diagnóstico.",
-          "Neste 8 de março, a homenagem é para cada colaboradora e para a Dra. Maira."
+          "Versão de capa com onda em formação.",
+          "Versão de capa com onda arrebentando.",
+          "Versão de capa com mar calmo e ilha no horizonte."
         ],
-        "cap": "Dia da Mulher · Março de 2026."
+        "cap": "As três capas publicadas para o mesmo case."
+      },
+      {
+        "type": "text",
+        "h": "BRIO Lab",
+        "p": [
+          "Para o BRIO Lab, a frente criativa da agência, criei peças únicas em tom de manifesto. Uma serifa clássica sustenta a frase, e uma palavra-chave ganha destaque, seja em caligrafia, como em Brio e excelência, seja em itálico pesado verde-limão, como em desinformação. As imagens surreais, entre uma armadura de cristal e dois reis num tabuleiro de xadrez, dão à marca um ar de galeria de arte."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/brio/",
+        "files": [
+          "lab-1",
+          "lab-2",
+          "lab-3"
+        ],
+        "label": "Manifestos BRIO Lab",
+        "titles": [
+          "Tudo teremos se tivermos Brio.",
+          "Nossa missão é fazer com que a excelência ocupe o seu devido espaço.",
+          "Onde os bons profissionais se calam, a desinformação ganha voz."
+        ],
+        "cap": "Manifestos do BRIO Lab."
+      }
+    ]
+  },
+  {
+    "slug": "sunset-verano",
+    "type": "grafico",
+    "discipline": "Identidade visual",
+    "title": "Verano Sunset 23: Abertura do Verão",
+    "year": "2023",
+    "brio": false,
+    "summary": "Identidade visual para a festa de abertura do verão em Estrela, RS, aplicada do Instagram ao letreiro que o público assinou.",
+    "cover": {
+      "src": "img/covers/verano.jpg",
+      "alt": "Painel de lambes coloridos do Verano Sunset montado ao ar livre, entre árvores"
+    },
+    "hero": {
+      "src": "img/verano-abertura.jpg",
+      "ratio": "1370/771",
+      "alt": "Área externa do evento ao entardecer, com o letreiro em forma de V e o logotipo Verano Sunset"
+    },
+    "lede": "Um universo de cores quentes, sóis em explosão e tipografia de impacto para fazer de uma festa de verão uma experiência com cara própria.",
+    "intro": [
+      "O Verano Sunset 23 marcou a abertura do verão em Estrela, RS, com música ao vivo em um sítio ao ar livre, do fim da tarde até a noite. A festa precisava de uma identidade que a separasse dos outros eventos da temporada e que acompanhasse o público do primeiro post no Instagram até a última música.",
+      "Desenvolvi o projeto em parceria com a designer Vitória Simon. Juntos, criamos a marca e todas as peças que levaram essa marca para o espaço físico."
+    ],
+    "details": [
+      [
+        "Ano",
+        "2023"
+      ],
+      [
+        "Local",
+        "Estrela, RS"
+      ],
+      [
+        "Parceria",
+        "Vitória Simon"
+      ],
+      [
+        "Projeto",
+        "Identidade visual"
+      ],
+      [
+        "Entregas",
+        "Lambes, letreiro, pulseiras, cardápio, redes sociais"
+      ]
+    ],
+    "link": {
+      "href": "https://www.behance.net/gallery/187626997/Verano-Sunset-23-Abertura-do-Verao-Identidade-Visual",
+      "label": "Ver projeto no Behance"
+    },
+    "blocks": [
+      {
+        "type": "list",
+        "h": "O que a identidade precisava provocar",
+        "items": [
+          [
+            "Pertencimento",
+            "Fazer o público querer fazer parte daquela experiência."
+          ],
+          [
+            "Exclusividade",
+            "Mostrar que não se tratava de apenas mais um evento na agenda."
+          ],
+          [
+            "Impacto visual",
+            "Ser reconhecida de longe e despertar curiosidade logo no primeiro contato."
+          ],
+          [
+            "Personalidade",
+            "Construir um universo visual próprio e fácil de lembrar."
+          ],
+          [
+            "Energia e movimento",
+            "Traduzir a intensidade da música e da experiência ao vivo."
+          ],
+          [
+            "Fuga da rotina",
+            "Sugerir uma realidade paralela, livre e fora do comum."
+          ],
+          [
+            "Consistência",
+            "Ligar toda a comunicação, dos materiais digitais à experiência presencial."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "h": "Linguagem visual",
+        "p": [
+          "A resposta veio em cores quentes e saturadas, com rosa, laranja, amarelo e um lilás pontual que remetem ao pôr do sol. Os títulos usam uma tipografia pesada, de inspiração retrô, com sombra deslocada, e dividem espaço com sóis em explosão, estrelas, raios, coqueiros e ondas que atravessam as composições.",
+          "Frases curtas e brincalhonas, como \"Vem pra Verano\" e \"Azar é verano\", dão voz à marca. O conjunto cria uma linguagem em movimento constante, que traduz a energia do som ao vivo e convida o público a sair da rotina."
+        ]
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "img/verano-lambes.jpg",
+            "ratio": "1211/771",
+            "alt": "Cinco lambes da identidade Verano Sunset em rosa, laranja, amarelo e lilás"
+          },
+          {
+            "src": "img/verano-painel.jpg",
+            "ratio": "1211/771",
+            "alt": "Painel formado pelos lambes, decorado com folhagens, montado no evento"
+          }
+        ],
+        "cap": "Os lambes funcionam como módulos e, lado a lado, formam o painel do evento."
+      },
+      {
+        "type": "text",
+        "h": "Do papel para o espaço",
+        "p": [
+          "Os lambes foram pensados como peças modulares. Combinados, formam um grande painel que virou cenário de fotos e pano de fundo do palco. Espalhados por pilares e paredes, eles marcam o caminho do público pelo sítio e mantêm a identidade sempre à vista."
+        ]
+      },
+      {
+        "type": "image",
+        "src": "img/verano-lambes-uso.jpg",
+        "ratio": "1211/771",
+        "alt": "Lambes colados em um pilar e público posando em frente ao painel",
+        "cap": "O painel de lambes como cenário de fotos."
+      },
+      {
+        "type": "text",
+        "h": "Um letreiro para assinar",
+        "p": [
+          "A peça mais marcante do espaço foi uma grande letra V, projetada em 3D com 1,6 metro de altura antes de ser produzida em marcenaria. Ilustrada com coqueiros, flamingos e abacaxis, ela deixava espaço em branco de propósito.",
+          "Ao longo da noite, o público escreveu seus nomes no letreiro e o transformou em um registro coletivo da festa. A peça deixou de ser só decoração e virou parte da experiência, o que respondia diretamente ao desejo de pertencimento."
+        ]
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "img/verano-estrutura.jpg",
+            "ratio": "1211/771",
+            "alt": "Projeto 3D do letreiro em V com medidas e a peça em produção na marcenaria"
+          },
+          {
+            "src": "img/verano-letreiro.jpg",
+            "ratio": "1211/771",
+            "alt": "Letreiro em V assinado pelo público à noite e uma convidada escrevendo nele"
+          }
+        ],
+        "cap": "Do projeto 3D ao letreiro assinado pelo público."
+      },
+      {
+        "type": "text",
+        "h": "Os detalhes também comunicam",
+        "p": [
+          "As pulseiras diferenciam o público maior e menor de idade sem perder o visual da festa. Já o cardápio aplica a marca sobre uma fotografia em tons dourados, com títulos manuscritos que dão ao bar um ar mais sofisticado."
+        ]
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "img/verano-pulseiras.jpg",
+            "ratio": "1211/771",
+            "alt": "Arte das pulseiras de identificação para menores e maiores de 18 anos"
+          },
+          {
+            "src": "img/verano-pulseiras-uso.jpg",
+            "ratio": "1211/771",
+            "alt": "Pulseiras do Verano Sunset nos pulsos de convidados"
+          }
+        ],
+        "cap": "Pulseiras de identificação."
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "img/verano-cardapio.jpg",
+            "ratio": "1211/771",
+            "alt": "Arte do cardápio do bar com o logotipo Verano Sunset"
+          },
+          {
+            "src": "img/verano-cardapio-mockup.jpg",
+            "ratio": "925/771",
+            "alt": "Cardápios impressos fixados em uma parede"
+          }
+        ],
+        "cap": "Cardápio do bar."
+      },
+      {
+        "type": "text",
+        "h": "No digital",
+        "p": [
+          "No Instagram, a identidade conduziu toda a comunicação, do save the date ao anúncio das atrações e à página de venda de ingressos. Os posts usam a mesma paleta e a mesma tipografia das peças físicas. Assim, quem chegava ao evento reconhecia na hora o universo que já tinha visto no celular."
+        ]
+      },
+      {
+        "type": "image",
+        "src": "img/verano-instagram.jpg",
+        "ratio": "1211/771",
+        "alt": "Três telas do Instagram do evento: save the date, anúncio das atrações e perfil",
+        "cap": "Save the date, anúncio das atrações e perfil do evento."
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "img/verano-celulares.jpg",
+            "ratio": "1158/771",
+            "alt": "Vários celulares exibindo os posts do evento sobre fundo laranja"
+          },
+          {
+            "src": "img/verano-ingressos.jpg",
+            "ratio": "1027/771",
+            "alt": "Notebook exibindo a página de venda de ingressos do evento"
+          }
+        ],
+        "cap": "Posts e página de ingressos com a mesma linguagem."
       }
     ]
   },
@@ -1596,199 +1791,6 @@ window.PROJECTS = [
             "Redação",
             "Leticia Forigo"
           ]
-        ]
-      }
-    ]
-  },
-  {
-    "slug": "otavio-piltcher",
-    "type": "grafico",
-    "discipline": "Social media",
-    "title": "Dr. Otávio Piltcher",
-    "year": "2025",
-    "brio": true,
-    "summary": "Carrosséis de posicionamento sobre escuta e representatividade na associação médica de otorrinolaringologia, com pinturas clássicas como metáfora.",
-    "cover": {
-      "src": "img/covers/otavio.jpg",
-      "alt": "Quatro cards dos carrosséis do Dr. Otávio Piltcher em grade sobre fundo neutro"
-    },
-    "hero": {
-      "src": "img/heroes/otavio.jpg",
-      "ratio": "2000/860",
-      "alt": "Quatro cards do carrossel Poucos escutam de verdade, da Torre de Babel ao fechamento sobre escuta ativa"
-    },
-    "lede": "Pinturas clássicas para falar de um assunto atual: quem é ouvido dentro de uma associação médica.",
-    "intro": [
-      "O Dr. Otávio Piltcher é otorrinolaringologista e usa o Instagram para discutir o futuro da ABORL, a associação brasileira da especialidade. O público são outros médicos, que precisam ser convencidos com argumentos e não com promessas."
-    ],
-    "details": [
-      [
-        "Ano",
-        "2025"
-      ],
-      [
-        "Cliente",
-        "Dr. Otávio Piltcher"
-      ],
-      [
-        "Feito no",
-        "Grupo Brio"
-      ],
-      [
-        "Especialidade",
-        "Otorrinolaringologia"
-      ],
-      [
-        "Ferramentas",
-        "Figma e Brands Decoded"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "text",
-        "h": "A pintura como metáfora",
-        "p": [
-          "Para um assunto abstrato como representatividade, a escolha foi apoiar cada ideia em uma pintura clássica. A Torre de Babel abre o carrossel sobre escuta: todo mundo fala, poucos se entendem. Um filósofo pensativo questiona o que é ser representativo. Um homem com a mão em concha atrás da orelha encerra o tema da escuta ativa, que conversa diretamente com a especialidade do médico.",
-          "As obras em tons terrosos dão peso histórico à conversa, e o amarelo-mostarda aparece nas palavras-chave e em cards de fundo inteiro, criando pausas de respiro entre os blocos de texto mais densos."
-        ]
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/otavio/",
-        "files": [
-          "escuta-1",
-          "escuta-2",
-          "escuta-3",
-          "escuta-4",
-          "escuta-5",
-          "escuta-6",
-          "escuta-7"
-        ],
-        "label": "Carrossel Poucos escutam de verdade",
-        "titles": [
-          "Nossa associação virou Torre de Babel? Todo mundo fala, mas poucos escutam de verdade nas decisões coletivas.",
-          "Baby boomers, millennials e geração Z têm sotaques, ritmos e contribuições próprias. A paixão é comum. Falta escuta e senso de poder coletivo.",
-          "Concordo que a ABORL precise evoluir. Sem escuta estruturada, liderança vira ruído, desgaste, distância e desistência coletiva.",
-          "Como associação: teríamos perdido a escuta? A cura exige mais que discursos, exige escuta ativa com método.",
-          "Pelo menos metade silencia porque, sem escuta real, não se sente representada nas decisões coletivas.",
-          "Todo médico é também educador, na comunidade e na associação.",
-          "Representação legítima começa pela escuta ativa de quem vive a medicina."
-        ],
-        "cap": "Poucos escutam de verdade · Outubro de 2025."
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/otavio/",
-        "files": [
-          "representar-1",
-          "representar-2",
-          "representar-3",
-          "representar-4",
-          "representar-5",
-          "representar-6",
-          "representar-7",
-          "representar-8"
-        ],
-        "label": "Carrossel Ser representativo ou saber representar",
-        "titles": [
-          "Ser representativo ou saber representar: diferença? Aparência não substitui competência.",
-          "Ser representativo é parecer com o grupo. Saber representar é escutar, compreender, dialogar e agir por ele.",
-          "Pertencer não basta. Diversidade importa, porém exige diálogo, preparo, responsabilidade e entregas para resultados.",
-          "Simbolismo sem proposta não resolve problemas históricos.",
-          "Ser parecido não basta. É preciso saber representar com escuta, método e entrega de verdade.",
-          "Competência une. Aparência muitas vezes divide.",
-          "Quero uma ABORL que escute todas as vozes.",
-          "União não se decreta, constrói-se com respeito e entrega. Retrato do médico."
-        ],
-        "cap": "Ser representativo ou saber representar · Outubro de 2025."
-      }
-    ]
-  },
-  {
-    "slug": "rosa-casamento",
-    "type": "grafico",
-    "discipline": "Design editorial",
-    "title": "Fazenda do Rosa: proposta de casamento",
-    "year": "2026",
-    "brio": true,
-    "summary": "Apresentação comercial de 30 páginas para vender casamentos à beira-mar na Praia do Rosa, SC.",
-    "cover": {
-      "src": "img/covers/rosa-casamento.jpg",
-      "alt": "Páginas da proposta de casamento da Fazenda do Rosa dispostas sobre fundo neutro"
-    },
-    "hero": {
-      "src": "img/rosa-casamento/05.jpg",
-      "ratio": "16/9",
-      "alt": "Página da proposta com foto de uma cerimônia ao ar livre, com convidados e vista para o mar"
-    },
-    "lede": "Uma apresentação que faz o casal imaginar o próprio casamento à beira-mar antes mesmo da primeira visita.",
-    "intro": [
-      "Proposta comercial de casamento da Fazenda do Rosa, pousada à beira-mar na Praia do Rosa, em Imbituba, SC. A apresentação reúne espaços, gastronomia, experiências, formatos de hospedagem, serviços e depoimentos de clientes.",
-      "A diagramação é editorial: fotografias em página inteira, títulos em caligrafia e um verde-oliva que conversa com a paisagem da pousada. Desenvolvi o material durante meu trabalho no Grupo Brio."
-    ],
-    "details": [
-      [
-        "Data",
-        "2026"
-      ],
-      [
-        "Cliente",
-        "Fazenda do Rosa"
-      ],
-      [
-        "Feito no",
-        "Grupo Brio"
-      ],
-      [
-        "Entrega",
-        "Apresentação comercial, 30 páginas"
-      ],
-      [
-        "Local",
-        "Praia do Rosa, SC"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "deck",
-        "dir": "img/rosa-casamento/",
-        "label": "Proposta de casamento",
-        "cap": "A apresentação completa. Use as setas ou deslize para passar as páginas.",
-        "titles": [
-          "Capa",
-          "Apresentação da proposta",
-          "Casal na cerimônia",
-          "Formatos de casamento",
-          "Cerimônia ao ar livre",
-          "Detalhes do Casamento Maram",
-          "Salão decorado",
-          "Gastronomia Maram",
-          "Experiências com exclusividade",
-          "Experiências com pacotes adicionais",
-          "Dia do noivo",
-          "Brunch da noiva",
-          "Luau à beira-mar",
-          "Luau à noite",
-          "Formatos de hospedagem",
-          "Formato com exclusividade",
-          "Restaurante",
-          "Formato sem exclusividade",
-          "Hidromassagem com vista para o mar",
-          "Outras acomodações",
-          "Suíte decorada",
-          "Cabanas Praia e Mar",
-          "Cabanas Bem-Estar",
-          "Cabanas Jardim",
-          "Eco Suítes",
-          "Serviços inclusos",
-          "Noiva e convidada",
-          "Sugestões",
-          "Festa",
-          "Depoimentos de clientes"
         ]
       }
     ]

@@ -10,7 +10,7 @@
   const $ = (s, el = document) => el.querySelector(s);
   const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   const reduce = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
-  const TYPE = { web: "Web", grafico: "Design gráfico" };
+  const TYPE = { web: "UX/UI", grafico: "Design gráfico" };
   const view = $("#view");
   let filter = "todos", current = null, lastSlug = null;
 
@@ -26,6 +26,13 @@
     </a>`;
 
   const count = t => P.filter(p => t === "todos" || p.type === t).length;
+
+  /* Trabalhos agrupados por seção (UX/UI primeiro, depois Design gráfico) */
+  const groups = f => (f === "todos" ? Object.keys(TYPE) : [f]).map(k => `
+    <div class="work-group" aria-labelledby="g-${k}">
+      <h3 class="group-title" id="g-${k}">${esc(TYPE[k])}<sup>${count(k)}</sup></h3>
+      <div class="grid">${P.filter(p => p.type === k).map(card).join("")}</div>
+    </div>`).join("");
 
   /* ---------- Início ---------- */
   function home() {
@@ -51,7 +58,7 @@
           ${["todos", "web", "grafico"].map(t => `<button type="button" class="chip" data-filter="${t}" aria-pressed="${t === filter}">${t === "todos" ? "Todos" : TYPE[t]}<span>${count(t)}</span></button>`).join("")}
         </div>
       </div>
-      <div class="grid" id="grid">${P.filter(p => filter === "todos" || p.type === filter).map(card).join("")}</div>
+      <div class="work-groups" id="grid">${groups(filter)}</div>
     </div></section>
 
     <div class="band" data-reveal>${tex("g3")}<p>${esc(S.divider)}</p></div>
@@ -194,7 +201,7 @@
       filter = btn.dataset.filter;
       const run = () => {
         view.querySelectorAll("[data-filter]").forEach(b => b.setAttribute("aria-pressed", b === btn));
-        $("#grid").innerHTML = P.filter(p => filter === "todos" || p.type === filter).map(card).join("");
+        $("#grid").innerHTML = groups(filter);
       };
       document.startViewTransition && !reduce() ? document.startViewTransition(run) : run();
     }));

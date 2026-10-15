@@ -105,6 +105,9 @@ a:hover .arrow,button:hover .arrow{transform:translateX(4px)}
 .chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--paper)}
 .chip span{font-variant-numeric:tabular-nums;opacity:.6;margin-left:.35rem}
 
+.work-group+.work-group{margin-top:var(--section)}
+.group-title{font-size:var(--t-xl);padding-bottom:clamp(1.5rem,3vw,2.5rem);margin-bottom:clamp(2rem,4vw,3rem);border-bottom:1px solid var(--line)}
+.group-title sup{font-size:var(--t-sm);color:var(--muted);vertical-align:super;margin-left:.3rem;font-variant-numeric:tabular-nums}
 .grid{display:grid;grid-template-columns:minmax(0,1fr);gap:clamp(3rem,6vw,5rem) var(--gap)}
 @media (min-width:760px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}
   .grid .card:nth-child(even){margin-top:clamp(3rem,8vw,7rem)}

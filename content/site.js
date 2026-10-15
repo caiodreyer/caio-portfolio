@@ -14,8 +14,8 @@ window.SITE = {
     eyebrow: "Olá, eu sou o Caio",
     statement: "Designer digital e UX/UI. Crio sites, marcas e conteúdos que fazem uma ideia chegar inteira até quem precisa dela.",
     paragraphs: [
-      "Há seis anos trabalho com marcas de saúde, turismo, eventos, direito e serviços. Já desenhei landing pages de conversão, identidades visuais, campanhas e carrosséis editoriais, quase sempre tratando tudo como um único sistema.",
-      "Estudo Design de Produto na UFRGS e uso inteligência artificial no dia a dia, da direção de imagem à automação de processos."
+      "Desenvolvo soluções de design para marcas de diferentes setores, segmentos e mercados, adaptando minha abordagem às particularidades, desafios e objetivos de cada negócio. Minha atuação transita entre identidades visuais, experiências digitais e campanhas, conectando estratégia, criatividade e funcionalidade para construir experiências relevantes e sistemas visuais consistentes.",
+      "Integro novas tecnologias e inteligência artificial ao meu processo criativo, explorando possibilidades que potencializam ideias, otimizam fluxos de trabalho e ampliam o alcance das soluções desenvolvidas."
     ]
   },
 
