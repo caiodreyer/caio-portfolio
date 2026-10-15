@@ -3,7 +3,8 @@
   ---------------------------------------------------------------
   Cada item abaixo é um projeto. A ordem aqui é a ordem na página inicial:
   primeiro os de UX/UI (type "web"), depois os de design gráfico. Em cada grupo,
-  a ordem é a deste arquivo (definida pelo Caio).
+  a ordem é a deste arquivo (definida pelo Caio). Clientes novos de design gráfico entram
+  por último, logo antes de Verano Sunset e Co.De, que ficam sempre no fim.
 
   Campos principais
     slug        endereço da página (ex.: #marcelo-marins). Sem espaços nem acentos.
@@ -1775,6 +1776,141 @@ window.PROJECTS = [
           "A forma como você aplica não muda o efeito. A forma como você é acompanhada, sim. Retrato da médica."
         ],
         "cap": "O lugar da aplicação da tirzepatida · Dezembro de 2025."
+      }
+    ]
+  },
+  {
+    "slug": "nucleo-ga",
+    "type": "grafico",
+    "discipline": "Social media",
+    "title": "Núcleo GA",
+    "year": "2025",
+    "brio": true,
+    "summary": "Carrosséis editoriais para uma clínica de medicina preventiva e saúde metabólica, com fotografia de cinema e uma serifa de revista.",
+    "cover": {
+      "src": "img/covers/nucleo-ga.jpg",
+      "alt": "Três capas de carrossel do Núcleo GA em grade sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/heroes/nucleo-ga.jpg",
+      "ratio": "2000/860",
+      "alt": "Quatro cards lado a lado: Detecte desequilíbrios cedo, Semaglutida e perda de visão, O cuidado com quem você ama e No Núcleo GA acreditamos no cuidado contínuo"
+    },
+    "lede": "Saúde preventiva contada com a delicadeza de uma revista de estilo de vida.",
+    "intro": [
+      "O Núcleo GA é uma clínica médica com foco em medicina preventiva, saúde metabólica e emagrecimento. O Instagram da clínica fala com pessoas que costumam adiar o cuidado com a própria saúde, e o conteúdo precisava convencer sem assustar, com informação responsável sobre temas como check-up e medicamentos para emagrecimento."
+    ],
+    "details": [
+      [
+        "Período",
+        "Set — Out 2025"
+      ],
+      [
+        "Cliente",
+        "Núcleo GA"
+      ],
+      [
+        "Feito no",
+        "Grupo Brio"
+      ],
+      [
+        "Área",
+        "Medicina preventiva e saúde metabólica"
+      ],
+      [
+        "Entregas",
+        "Carrosséis para Instagram"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "text",
+        "h": "Direção visual",
+        "p": [
+          "A identidade se apoia em fotografia com cara de filme, granulada e em tons quentes, que tira a medicina do ambiente frio do consultório. Os títulos usam uma serifa de alto contraste, com itálico nas palavras que carregam a ideia, e o texto de apoio fica em uma sans limpa, em branco sobre a imagem.",
+          "Cada tema ganha uma variação. No check-up, a serifa leve e a luz de fim de tarde reforçam a ideia de prevenção sem pressa. No conteúdo sobre semaglutida, o itálico pesado marca as viradas entre o mito e a resposta. No Dia das Crianças, o dourado entra como cor de destaque e um card imita o app de notas do celular para fazer o convite.",
+          "Em todas as peças, o cabeçalho traz a identificação do responsável técnico, como pede a publicidade médica, e a assinatura Núcleo GA fecha o card no rodapé."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/nucleo-ga/",
+        "files": [
+          "checkup-1",
+          "checkup-2",
+          "checkup-3",
+          "checkup-4",
+          "checkup-5",
+          "checkup-6",
+          "checkup-7"
+        ],
+        "label": "Carrossel Check-up",
+        "titles": [
+          "Check-up não é só para quando algo está errado. (Sim, isso ainda é um mito.)",
+          "Esperar sentir dor ou sintomas para procurar um médico pode custar caro para a sua saúde.",
+          "Muitas condições importantes evoluem de forma silenciosa, sem sinais aparentes nos estágios iniciais.",
+          "Detecte desequilíbrios cedo e trate com mais eficácia.",
+          "Se você está se sentindo bem, ótimo. É justamente agora que o corpo pode ser avaliado com mais precisão.",
+          "A medicina preventiva cuida hoje para evitar tratamentos mais complexos amanhã.",
+          "No Núcleo GA, acreditamos no cuidado contínuo, mesmo quando tudo parece estar bem."
+        ],
+        "cap": "Check-up · Setembro de 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/nucleo-ga/",
+        "files": [
+          "sema-1",
+          "sema-2",
+          "sema-3",
+          "sema-4",
+          "sema-5",
+          "sema-6",
+          "sema-7",
+          "sema-8",
+          "sema-9"
+        ],
+        "label": "Carrossel Semaglutida e perda de visão: mito ou verdade?",
+        "titles": [
+          "Semaglutida e perda de visão: mito ou verdade?",
+          "Você já ouviu falar que a semaglutida pode piorar a visão de quem tem diabetes? Essa dúvida surgiu a partir de um estudo científico.",
+          "No estudo Sustain 6, observou-se um agravamento da retinopatia diabética em alguns pacientes, e daí surgiu a suspeita.",
+          "Os pacientes estavam com a glicemia muito descompensada.",
+          "A semaglutida, por si só, não provoca hipoglicemia. O risco aparece quando há mudanças bruscas sem supervisão.",
+          "Então ela é contraindicada? Não. A piora não foi causada pela medicação, mas pela falta de controle prévio da diabetes.",
+          "Como agir na prática? Ajustar a glicemia antes de iniciar, começar com doses menores e subir gradualmente.",
+          "Benefícios da semaglutida quando bem indicada.",
+          "O segredo está em evitar quedas bruscas da glicose. Você já conhecia esse mito?"
+        ],
+        "cap": "Semaglutida: mito ou verdade · Setembro de 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/nucleo-ga/",
+        "files": [
+          "criancas-1",
+          "criancas-2",
+          "criancas-3",
+          "criancas-4",
+          "criancas-5",
+          "criancas-6"
+        ],
+        "label": "Carrossel Dia das Crianças",
+        "titles": [
+          "Neste Dia das Crianças, um convite diferente.",
+          "Celebrar a infância é relembrar o que nos inspira: curiosidade, energia, leveza e imaginação.",
+          "Mas também é lembrar que por trás de toda criança existe um adulto que cuida, que ensina e que muitas vezes esquece de si.",
+          "O cuidado com quem você ama começa no cuidado próprio.",
+          "Neste Dia das Crianças, o nosso convite é simples: olhe para você com o mesmo carinho com que cuida dos seus.",
+          "No Núcleo GA, acreditamos que o autocuidado também é herança."
+        ],
+        "cap": "Dia das Crianças · Outubro de 2025."
       }
     ]
   },

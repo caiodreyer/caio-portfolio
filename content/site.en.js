@@ -124,6 +124,7 @@ window.SITE_EN = {
       { name: "Dr. Gabi Castello Branco", sector: "Endocrinology", kind: "Instagram carousels", year: "2025", case: "gabi-castello-branco" },
       { name: "Hospital Piltcher", sector: "Hospital · Pelotas, Brazil", kind: "Instagram campaigns", year: "2025–26", case: "hospital-piltcher" },
       { name: "Dr. Otávio Piltcher", sector: "Otolaryngology", kind: "Instagram carousels", year: "2025", case: "otavio-piltcher" },
+      { name: "Núcleo GA", sector: "Preventive medicine and metabolic health", kind: "Instagram carousels", year: "2025", case: "nucleo-ga" },
       { name: "Grupo Brio and BRIO Lab", sector: "The agency's own communication", kind: "Carousels and manifestos", year: "2025", case: "grupo-brio-institucional" }
     ]
   }

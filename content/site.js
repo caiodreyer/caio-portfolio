@@ -126,6 +126,7 @@ window.SITE = {
       { name: "Dra. Gabi Castello Branco", sector: "Endocrinologia", kind: "Carrosséis para Instagram", year: "2025", case: "gabi-castello-branco" },
       { name: "Hospital Piltcher", sector: "Hospital · Pelotas, RS", kind: "Campanhas para Instagram", year: "2025–26", case: "hospital-piltcher" },
       { name: "Dr. Otávio Piltcher", sector: "Otorrinolaringologia", kind: "Carrosséis para Instagram", year: "2025", case: "otavio-piltcher" },
+      { name: "Núcleo GA", sector: "Medicina preventiva e saúde metabólica", kind: "Carrosséis para Instagram", year: "2025", case: "nucleo-ga" },
       { name: "Grupo Brio e BRIO Lab", sector: "Comunicação da própria agência", kind: "Carrosséis e manifestos", year: "2025", case: "grupo-brio-institucional" }
     ]
   }

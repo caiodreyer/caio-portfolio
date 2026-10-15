@@ -1757,6 +1757,141 @@ window.PROJECTS_EN = [
     ]
   },
   {
+    "slug": "nucleo-ga",
+    "type": "grafico",
+    "discipline": "Social media",
+    "title": "Núcleo GA",
+    "year": "2025",
+    "brio": true,
+    "summary": "Editorial carousels for a preventive medicine and metabolic health clinic, with cinematic photography and a magazine serif.",
+    "cover": {
+      "src": "img/covers/nucleo-ga.jpg",
+      "alt": "Three Núcleo GA carousel covers in a grid on a neutral background"
+    },
+    "hero": {
+      "src": "img/heroes/nucleo-ga.jpg",
+      "ratio": "2000/860",
+      "alt": "Four cards side by side: Detect imbalances early, Semaglutide and vision loss, Caring for the ones you love and At Núcleo GA we believe in continuous care"
+    },
+    "lede": "Preventive health told with the delicacy of a lifestyle magazine.",
+    "intro": [
+      "Núcleo GA is a medical clinic focused on preventive medicine, metabolic health and weight loss. Its Instagram speaks to people who tend to put off taking care of their own health, and the content had to persuade without scaring, with responsible information on topics such as check-ups and weight-loss medications."
+    ],
+    "details": [
+      [
+        "Period",
+        "Sep — Oct 2025"
+      ],
+      [
+        "Client",
+        "Núcleo GA"
+      ],
+      [
+        "Made at",
+        "Grupo Brio"
+      ],
+      [
+        "Field",
+        "Preventive medicine and metabolic health"
+      ],
+      [
+        "Deliverables",
+        "Instagram carousels"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "text",
+        "h": "Visual direction",
+        "p": [
+          "The identity relies on film-like photography, grainy and warm, that takes medicine out of the cold atmosphere of the doctor's office. Headlines use a high-contrast serif, with italics on the words that carry the idea, and supporting text is set in a clean sans, in white over the image.",
+          "Each topic gets its own variation. For check-ups, the light serif and late-afternoon light reinforce the idea of unhurried prevention. In the semaglutide content, heavy italics mark the turns between the myth and the answer. For Children's Day, gold comes in as the highlight color and one card mimics a phone notes app to deliver the invitation.",
+          "On every piece, the header identifies the medical director, as medical advertising rules require, and the Núcleo GA signature closes each card in the footer."
+        ]
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/nucleo-ga/",
+        "files": [
+          "checkup-1",
+          "checkup-2",
+          "checkup-3",
+          "checkup-4",
+          "checkup-5",
+          "checkup-6",
+          "checkup-7"
+        ],
+        "label": "Check-up carousel",
+        "titles": [
+          "Check-ups aren't only for when something is wrong. (Yes, that's still a myth.)",
+          "Waiting to feel pain or symptoms before seeing a doctor can cost your health dearly.",
+          "Many important conditions progress silently, with no visible signs in the early stages.",
+          "Detect imbalances early and treat them more effectively.",
+          "If you're feeling well, great. That's exactly when the body can be assessed more precisely.",
+          "Preventive medicine takes care today to avoid more complex treatments tomorrow.",
+          "At Núcleo GA, we believe in continuous care, even when everything seems fine."
+        ],
+        "cap": "Check-up · September 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/nucleo-ga/",
+        "files": [
+          "sema-1",
+          "sema-2",
+          "sema-3",
+          "sema-4",
+          "sema-5",
+          "sema-6",
+          "sema-7",
+          "sema-8",
+          "sema-9"
+        ],
+        "label": "Semaglutide and vision loss: myth or truth? carousel",
+        "titles": [
+          "Semaglutide and vision loss: myth or truth?",
+          "Have you heard that semaglutide can worsen vision in people with diabetes? This doubt came from a scientific study.",
+          "In the Sustain 6 study, diabetic retinopathy worsened in some patients, and that's where the suspicion came from.",
+          "The patients' blood sugar was very poorly controlled.",
+          "Semaglutide on its own doesn't cause hypoglycemia. The risk appears with abrupt changes without supervision.",
+          "So is it contraindicated? No. The worsening wasn't caused by the medication, but by the lack of prior diabetes control.",
+          "What to do in practice? Adjust blood sugar before starting, begin with lower doses and increase gradually.",
+          "Benefits of semaglutide when properly prescribed.",
+          "The secret is avoiding sudden drops in glucose. Did you know this myth?"
+        ],
+        "cap": "Semaglutide: myth or truth · September 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/nucleo-ga/",
+        "files": [
+          "criancas-1",
+          "criancas-2",
+          "criancas-3",
+          "criancas-4",
+          "criancas-5",
+          "criancas-6"
+        ],
+        "label": "Children's Day carousel",
+        "titles": [
+          "This Children's Day, a different kind of invitation.",
+          "Celebrating childhood is remembering what inspires us: curiosity, energy, lightness and imagination.",
+          "But it's also remembering that behind every child there's an adult who cares, who teaches and who often forgets about themselves.",
+          "Caring for the ones you love starts with caring for yourself.",
+          "This Children's Day, our invitation is simple: look at yourself with the same care you give your loved ones.",
+          "At Núcleo GA, we believe self-care is also a legacy."
+        ],
+        "cap": "Children's Day · October 2025."
+      }
+    ]
+  },
+  {
     "slug": "sunset-verano",
     "type": "grafico",
     "discipline": "Visual identity",
