@@ -40,7 +40,7 @@ Abra a pasta num terminal e rode `python3 -m http.server`, depois acesse `http:/
 
 ## Domínio próprio
 Em Vercel → Project → Settings → Domains, adicione o domínio e siga as instruções de DNS.
-Depois troque `https://SEU-DOMINIO/` nas tags `og:` do `index.html`.
+Depois troque `https://caiodreyer.vercel.app/` pelo novo domínio nas tags `og:` do `index.html` e no `sitemap.xml`.
 
 ## Versão em inglês (futuro)
 O conteúdo está separado do código. O caminho mais simples é criar `content/site.en.js` e
