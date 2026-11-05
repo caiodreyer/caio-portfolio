@@ -14,10 +14,9 @@ window.SITE = {
 
   intro: {
     eyebrow: "Olá, eu sou o Caio",
-    statement: "Designer digital e UX/UI. Crio sites, marcas e conteúdos que fazem uma ideia chegar inteira até quem precisa dela.",
+    statement: "Designer digital e UX/UI com foco em conversão. Crio sites, landing pages, marcas e campanhas para setores como saúde, advocacia e turismo.",
     paragraphs: [
-      "Desenvolvo soluções de design para marcas de diferentes setores, segmentos e mercados, adaptando minha abordagem às particularidades, desafios e objetivos de cada negócio. Minha atuação transita entre identidades visuais, experiências digitais e campanhas, conectando estratégia, criatividade e funcionalidade para construir experiências relevantes e sistemas visuais consistentes.",
-      "Integro novas tecnologias e inteligência artificial ao meu processo criativo, explorando possibilidades que potencializam ideias, otimizam fluxos de trabalho e ampliam o alcance das soluções desenvolvidas."
+      "Já desenhei landing pages para médicos, campanhas para uma pousada à beira-mar e carrosséis para um escritório de advocacia nos Estados Unidos."
     ]
   },
 
@@ -25,10 +24,11 @@ window.SITE = {
 
   about: {
     title: "Sobre mim",
-    statement: "Atuo com foco em soluções visuais criativas, reunindo experiências em design gráfico, desenvolvimento de identidade visual, criação de conteúdos para redes sociais, edição de vídeo e estratégias de comunicação digital.",
+    statement: "Sou designer digital e UX/UI. Desenho landing pages, sites, identidades visuais e campanhas, da estrutura do conteúdo à interface.",
     paragraphs: [
-      "Atualmente tenho me aprofundado em disciplinas ligadas à experiência do usuário (UX) e interfaces digitais (UI), desenvolvendo landing pages e interfaces para nossos colaboradores e clientes.",
-      "Graduando em Design de Produto pela UFRGS – Universidade Federal do Rio Grande do Sul, em Porto Alegre."
+      "No Grupo Brio, cuidei da parte visual de mais de 20 clientes e marcas. Para os clientes médicos, criei comunicação seguindo as regras de publicidade do CFM.",
+      "Também levo tecnologia para o processo: desenvolvi, com o Claude, scripts em Python, PowerShell e FFmpeg que automatizam etapas da produção de vídeo, e criei com IA as ilustrações dos carrosséis da Atria.",
+      "Sou graduando em Design de Produto pela UFRGS, em Porto Alegre."
     ],
     photo: { src: "img/caio.jpg", alt: "Caio Dreyer de camisa branca e óculos escuros, encostado numa parede clara sob a luz do fim de tarde" }
   },
@@ -62,7 +62,7 @@ window.SITE = {
   ui: {
     lang: "pt-BR",
     pageTitle: "Caio Dreyer Portfólio",
-    metaDescription: "Portfólio de Caio Dreyer, designer digital e UX/UI em Porto Alegre: landing pages, identidade visual, campanhas e direção de arte.",
+    metaDescription: "Portfólio de Caio Dreyer, designer digital e UX/UI com foco em conversão: sites, landing pages, marcas e campanhas para setores como saúde, advocacia e turismo.",
     skip: "Pular para o conteúdo",
     home: "Caio Dreyer, início",
     navLabel: "Principal",

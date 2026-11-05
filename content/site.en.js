@@ -12,10 +12,9 @@ window.SITE_EN = {
 
   intro: {
     eyebrow: "Hi, I'm Caio",
-    statement: "Digital and UX/UI designer. I create websites, brands and content that carry an idea, whole, to the people who need it.",
+    statement: "Digital and UX/UI designer focused on conversion. I create websites, landing pages, brands and campaigns for industries such as healthcare, law and tourism.",
     paragraphs: [
-      "I develop design solutions for brands across different industries, segments and markets, adapting my approach to the particularities, challenges and goals of each business. My work moves between visual identities, digital experiences and campaigns, connecting strategy, creativity and functionality to build relevant experiences and consistent visual systems.",
-      "I bring new technologies and artificial intelligence into my creative process, exploring possibilities that strengthen ideas, streamline workflows and expand the reach of the solutions I develop."
+      "I've designed landing pages for doctors, campaigns for a beachfront guesthouse and carousels for a law firm in the United States."
     ]
   },
 
@@ -23,10 +22,11 @@ window.SITE_EN = {
 
   about: {
     title: "About me",
-    statement: "I focus on creative visual solutions, bringing together experience in graphic design, visual identity development, social media content creation, video editing and digital communication strategy.",
+    statement: "I'm a digital and UX/UI designer. I design landing pages, websites, visual identities and campaigns, from content structure to interface.",
     paragraphs: [
-      "I am currently deepening my knowledge of user experience (UX) and digital interfaces (UI), developing landing pages and interfaces for our team members and clients.",
-      "Product Design undergraduate at UFRGS (Federal University of Rio Grande do Sul), in Porto Alegre, Brazil."
+      "At Grupo Brio, I handled the visual design for more than 20 clients and brands. For medical clients, I created communication following the advertising rules of Brazil's Federal Council of Medicine (CFM).",
+      "I also bring technology into the process: with Claude, I developed Python, PowerShell and FFmpeg scripts that automate steps of video production, and I created the AI illustrations for Atria's carousels.",
+      "I'm a Product Design undergraduate at UFRGS, in Porto Alegre, Brazil."
     ],
     photo: { src: "img/caio.jpg", alt: "Caio Dreyer in a white shirt and sunglasses, leaning against a light wall in the late afternoon light" }
   },
@@ -60,7 +60,7 @@ window.SITE_EN = {
   ui: {
     lang: "en",
     pageTitle: "Caio Dreyer Portfolio",
-    metaDescription: "Portfolio of Caio Dreyer, digital and UX/UI designer in Porto Alegre, Brazil: landing pages, visual identity, campaigns and art direction.",
+    metaDescription: "Portfolio of Caio Dreyer, digital and UX/UI designer focused on conversion: websites, landing pages, brands and campaigns for industries such as healthcare, law and tourism.",
     skip: "Skip to content",
     home: "Caio Dreyer, home",
     navLabel: "Main",

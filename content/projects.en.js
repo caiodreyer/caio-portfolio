@@ -14,7 +14,7 @@ window.PROJECTS_EN = [
     "title": "Dr. Marcelo Marins",
     "year": "2026",
     "brio": true,
-    "summary": "A landing page for a clinical weight-loss doctor that starts by debunking myths and ends by filtering for the right patient.",
+    "summary": "Patient acquisition landing page for a clinical weight-loss and metabolic health doctor.",
     "cover": {
       "src": "img/covers/marins.jpg",
       "alt": "Top of Dr. Marcelo Marins's landing page on a neutral background"
@@ -26,7 +26,7 @@ window.PROJECTS_EN = [
     },
     "lede": "A page that first takes the blame off the patient, and only then introduces the treatment.",
     "intro": [
-      "Dr. Marcelo Marins works with clinical weight loss and metabolic health, grounded in integrative and longevity medicine. His typical patient has tried everything, from low carb to fasting and fat burners, and arrives frustrated by yo-yo dieting. The page was built from scratch to turn that frustration into a booked appointment."
+      "Dr. Marcelo Marins works with clinical weight loss and metabolic health, grounded in integrative and longevity medicine. His typical patient has tried everything, from low carb to fasting and fat burners, and arrives frustrated by yo-yo dieting."
     ],
     "details": [
       [
@@ -61,7 +61,7 @@ window.PROJECTS_EN = [
       ],
       [
         "Solution",
-        "A landing page that debunks weight-loss myths, explains the method in four steps and makes clear, before booking, who the treatment is for."
+        "A page that debunks myths, explains the method in four steps and makes clear, before booking, who the treatment is for."
       ],
       [
         "My role",
@@ -74,7 +74,7 @@ window.PROJECTS_EN = [
         "h": "Start with what the patient has already tried",
         "p": [
           "The opening headline provokes: if fad diets regulated biology, you wouldn't be stuck on a plateau. The line acknowledges the visitor's effort and shifts the blame. The problem is no longer a lack of willpower but insulin resistance, inflammation and a disorganized routine.",
-          "Right below, the Metabolic stagnation cycle block puts three common beliefs in quotes, as things the patient has said themselves, and answers each one with what actually happens in the body. It is the moment people recognize themselves and start to trust the page."
+          "Right below, three common beliefs appear in quotes, in the patient's own voice, and each one is answered with what actually happens in the body. It's the point where people recognize themselves and start to trust the page."
         ]
       },
       {
@@ -82,13 +82,13 @@ window.PROJECTS_EN = [
         "src": "img/marins-mitos.jpg",
         "ratio": "1318/337",
         "alt": "Three myth cards: Just eat less and exercise more, Fasting fixes everything and This supplement burns it all, each with an explanation below",
-        "cap": "Three myths written in the patient's voice, each answered by the doctor."
+        "cap": "The three myths, each answered by the doctor."
       },
       {
         "type": "text",
         "h": "Making the appointment concrete",
         "p": [
-          "For someone who has never had this kind of care, a medical appointment can feel vague. The page solves this in two ways. A Precision Diagnosis card, with bars for inflammatory profile and hormonal efficiency, shows visually that treatment starts from data. Then the care process is explained in four numbered steps, from the individual assessment to periodic adjustments."
+          "For someone who has never had this kind of care, the appointment can feel vague. A diagnosis card, with bars for inflammatory profile and hormonal efficiency, shows that treatment starts from data, and the care process is explained in four steps, from the individual assessment to periodic adjustments."
         ]
       },
       {
@@ -96,14 +96,14 @@ window.PROJECTS_EN = [
         "src": "img/marins-diagnostico.jpg",
         "ratio": "1332/443",
         "alt": "Metabolism vs. Calories and Body Signals section next to the dark Precision Diagnosis card with progress bars",
-        "cap": "The diagnosis card turns the idea of data-driven medicine into a visual element."
+        "cap": "Precision Diagnosis card."
       },
       {
         "type": "text",
         "h": "Filter before converting",
         "p": [
           "Before the booking button, the Is this treatment for you? section splits the audience into two columns. The green one describes who should book. The red one says frankly who won't find what they're looking for, such as people after seven-day magic formulas.",
-          "Turning visitors away on a conversion page may seem counterintuitive, but the filter improves the quality of bookings and reinforces the doctor's serious positioning. Whoever keeps reading arrives at the appointment with the right expectations."
+          "Turning visitors away may seem counterintuitive on a conversion page, but the intent is for people to arrive at the appointment with the right expectations, which also reinforces the doctor's serious positioning."
         ]
       },
       {
@@ -211,9 +211,9 @@ window.PROJECTS_EN = [
       },
       {
         "type": "text",
-        "h": "Identity and social proof",
+        "h": "Credibility before the call to action",
         "p": [
-          "The palette starts from the brand's navy and cyan, with very light blue backgrounds that keep the page airy despite the amount of information. A dark band with the doctor's quote, cut by an arc, marks the turn from problem to solution. Further down, Google reviews and the medical license badge close the argument with credibility before the final call to action."
+          "A dark band with the doctor's quote, cut by an arc, marks the turn from problem to solution. Further down, Google reviews and the medical license badge close the argument right before the final call to action."
         ]
       }
     ]
@@ -225,7 +225,7 @@ window.PROJECTS_EN = [
     "title": "Dr. Fábio Pantaleão",
     "year": "2026",
     "brio": true,
-    "summary": "A landing page built from scratch, based on the client's identity, to bring in new nutrology and hormonal health patients.",
+    "summary": "Patient acquisition landing page for a nutrology and hormonal health practice.",
     "cover": {
       "src": "img/covers/fabio.jpg",
       "alt": "Top of Dr. Fábio Pantaleão's landing page on a neutral background"
@@ -237,8 +237,7 @@ window.PROJECTS_EN = [
     },
     "lede": "A page that starts from symptoms the patient recognizes and guides them, block by block, to booking.",
     "intro": [
-      "Dr. Fábio Pantaleão practices in São José do Rio Preto, SP, Brazil, focusing on nutrology and hormonal support. He needed a digital channel to bring new patients to his practice, and the landing page was created to do exactly that.",
-      "I developed the project in 2026, while working at Grupo Brio. The page was built from scratch with one central goal: turning a visit from someone who suspects a hormonal imbalance into a booked assessment."
+      "Dr. Fábio Pantaleão practices in São José do Rio Preto, SP, Brazil, focusing on nutrology and hormonal support. He needed a digital channel to bring new patients to his practice and already had a defined visual identity, with a logo, palette and typography."
     ],
     "details": [
       [
@@ -265,11 +264,11 @@ window.PROJECTS_EN = [
     "tldr": [
       [
         "Challenge",
-        "Bring new patients through digital channels to a nutrology and hormonal health practice."
+        "Turn a visit from someone who suspects a hormonal imbalance into a booked assessment."
       ],
       [
         "Solution",
-        "A landing page built from scratch that guides visitors from their symptoms to booking an assessment."
+        "A page organized around the patient's decision path, from symptoms to the last doubts."
       ],
       [
         "My role",
@@ -279,18 +278,9 @@ window.PROJECTS_EN = [
     "blocks": [
       {
         "type": "text",
-        "h": "Why a landing page",
-        "p": [
-          "A landing page for a doctor is a page created with one specific marketing goal: turning people interested in a treatment into potential patients and encouraging them to book an appointment.",
-          "Unlike an institutional website, which gathers a lot of information about the professional, a landing page is more strategic and focused on conversion. Every section exists to bring the visitor closer to a single action."
-        ]
-      },
-      {
-        "type": "text",
         "h": "Starting point",
         "p": [
-          "The client already had a defined visual identity, with a logo, palette and typography. Instead of reinventing the brand, I used that material as the foundation and translated the identity into a digital environment.",
-          "That meant deciding how colors behave on large areas and on buttons, how typography handles long headlines and what the rhythm between light and dark sections should be. The result is a page that feels like a natural extension of the practice, not a separate piece."
+          "Instead of reinventing the brand, I translated the existing identity to the web. That meant deciding how colors behave on large areas and on buttons, how typography handles long headlines and what the rhythm between light and dark sections should be, so the page would feel like an extension of the practice, not a separate piece."
         ]
       },
       {
@@ -304,9 +294,9 @@ window.PROJECTS_EN = [
         "type": "text",
         "h": "Structure",
         "p": [
-          "Before designing, I organized the content around the path a patient takes before deciding to book. The page opens by talking about symptoms in the words of those who feel them, such as fatigue, low libido and lack of energy, so visitors recognize themselves right above the fold.",
-          "Next come the care areas, which show there is a treatment for that problem, and patient stories, which bring social proof. The doctor's background supports his authority with credentials and professional registration. Finally, the differentiators and FAQ answer the last objections, especially about the safety of hormone implants and who can undergo hormone replacement.",
-          "Almost every block ends with a call to book. That way, the decision is always one click away, at the exact moment the visitor is convinced."
+          "The page opens with symptoms in the words of those who feel them, such as fatigue, low libido and lack of energy, so visitors recognize themselves right above the fold.",
+          "Next, the care areas show there is a treatment and patient stories bring social proof. The doctor's background supports his authority, and the differentiators and FAQ answer the last objections, especially about the safety of hormone implants and who can undergo hormone replacement.",
+          "Almost every block ends with a call to book, so the decision is one click away at the moment the visitor is convinced."
         ]
       },
       {
@@ -320,7 +310,7 @@ window.PROJECTS_EN = [
         "type": "system",
         "id": "fabio",
         "h": "Green to trust, orange to act",
-        "p": "Forest green carries the page, while coral orange is reserved for actions and the highlighted card. Three typefaces split clearly defined roles: the slab serif for headlines and cards, the geometric sans for section titles and another sans for body text and buttons.",
+        "p": "Three typefaces split clearly defined roles: the slab serif for headlines and cards, the geometric sans for section titles and another sans for body text and buttons.",
         "colors": [
           {
             "name": "Stromboli",
@@ -423,8 +413,7 @@ window.PROJECTS_EN = [
         "type": "text",
         "h": "Visual language",
         "p": [
-          "The brand's deep green carries a tone of health and trust. Orange appears only on calls to action and the main card, so the next step is always the most visible element on screen.",
-          "White cards on the green background organize short pieces of information into easy-to-scan blocks, a choice also made with mobile reading in mind. Alternating light and dark sections marks the move from one topic to the next and gives rhythm to a long page."
+          "Orange appears only on calls to action and the main card, so the next step is always the most visible element on screen. White cards on the green background organize short pieces of information into easy-to-scan blocks, also designed with mobile in mind, and alternating light and dark sections mark each change of topic on a long page."
         ]
       },
       {
@@ -443,7 +432,7 @@ window.PROJECTS_EN = [
     "title": "Dr. Alexandra Galhardo",
     "year": "2025",
     "brio": true,
-    "summary": "A landing page built from scratch, based on the doctor's identity, to attract patients looking for weight loss, hormonal health and longevity.",
+    "summary": "Patient acquisition landing page for a weight-loss, hormonal health and longevity doctor.",
     "cover": {
       "src": "img/covers/alexandra.jpg",
       "alt": "Top of Dr. Alexandra Galhardo's landing page on a neutral background"
@@ -453,10 +442,9 @@ window.PROJECTS_EN = [
       "ratio": "1920/788",
       "alt": "Landing page opening, with the doctor's portrait next to the question about energy"
     },
-    "lede": "A warm, sophisticated page that introduces the doctor before the treatment and guides the patient to an assessment.",
+    "lede": "A warm, editorial page that introduces the doctor before the treatment.",
     "intro": [
-      "Dr. Alexandra Galhardo practices in Ribeirão Preto, SP, Brazil, focusing on weight loss, hormonal modulation, performance and longevity, with a mostly female audience. She wanted to attract more patients online, with a page that matched the level of care she offers in her practice.",
-      "I developed the landing page in 2025, while working at Grupo Brio. The project started from scratch with a clear goal: leading the visitor to book a personalized assessment."
+      "Dr. Alexandra Galhardo practices in Ribeirão Preto, SP, Brazil, focusing on weight loss, hormonal modulation, performance and longevity, with a mostly female audience. She wanted to attract more patients online with a page that matched the level of care she offers in her practice."
     ],
     "details": [
       [
@@ -483,11 +471,11 @@ window.PROJECTS_EN = [
     "tldr": [
       [
         "Challenge",
-        "Attract more patients, mostly women, without losing the brand's sophistication."
+        "Attract more patients without losing the brand's sophistication."
       ],
       [
         "Solution",
-        "An editorial landing page, with the doctor front and center and her specialties translated into benefits."
+        "An editorial page, with the doctor front and center and her specialties translated into benefits."
       ],
       [
         "My role",
@@ -497,18 +485,9 @@ window.PROJECTS_EN = [
     "blocks": [
       {
         "type": "text",
-        "h": "Why a landing page",
-        "p": [
-          "A medical landing page serves a different purpose than an institutional website. Instead of gathering everything about the professional, it focuses attention on a single action: booking an appointment.",
-          "That's why every block was written and designed to turn the visitor's interest into a decision, with no distractions or side paths."
-        ]
-      },
-      {
-        "type": "text",
         "h": "Starting point",
         "p": [
-          "The doctor's visual identity already existed and was the basis for every decision. Warm coffee and sand tones, an elegant serif and portrait photography called for a more editorial, intimate atmosphere, very different from the clinical look common in healthcare.",
-          "My job was to bring that identity to the web: turning the palette into surfaces, buttons and states, organizing the typography into a clear hierarchy and giving photography the prominence it deserves."
+          "The identity's coffee and sand tones, elegant serif and portrait photography called for an editorial, intimate atmosphere, very different from the clinical look common on medical pages. My job was to turn the palette into surfaces, buttons and states, organize the typography into a clear hierarchy and give photography the lead role."
         ]
       },
       {
@@ -516,15 +495,15 @@ window.PROJECTS_EN = [
         "src": "img/alexandra-servicos.jpg",
         "ratio": "980/715",
         "alt": "Specialty cards: weight loss, hormonal modulation, performance and vitality, longevity",
-        "cap": "Each specialty on two levels: what the treatment is and what the patient gains from it."
+        "cap": "Specialty cards, on two levels."
       },
       {
         "type": "text",
         "h": "Structure",
         "p": [
           "The opening puts the doctor and the question side by side. The photo creates closeness from the very first contact, and the headline speaks to a feeling the visitor recognizes: less energy and a body that no longer responds the way it used to.",
-          "In the specialties section, each card separates what the treatment is from the benefit it brings. This split translates medical terms into concrete benefits and helps the patient identify with one of the areas of care.",
-          "Next come patient stories, alongside the Google rating, the doctor's introduction with her medical license highlighted and the differentiators of her care. The footer brings together every contact channel, with WhatsApp as the main shortcut and a map of the practice."
+          "In the specialties section, each card separates what the treatment is from the benefit it brings. The split translates medical terms into concrete benefits and helps the patient identify with one of the areas of care.",
+          "Next come patient stories with the Google rating, the doctor's introduction with her medical license highlighted and the differentiators. The footer brings together the contact channels, with WhatsApp as the main shortcut."
         ]
       },
       {
@@ -538,7 +517,7 @@ window.PROJECTS_EN = [
         "type": "system",
         "id": "alexandra",
         "h": "Coffee, sand and an editorial serif",
-        "p": "A warm palette of coffee and sand gives the page the feel of a magazine. The serif is used for key headlines, while the sans handles the interface, section titles and body text.",
+        "p": "The serif is used for key headlines, while the sans handles the interface, section titles and body text.",
         "colors": [
           {
             "name": "English Walnut",
@@ -633,8 +612,7 @@ window.PROJECTS_EN = [
         "type": "text",
         "h": "Visual language",
         "p": [
-          "Deep brown works as the action color. It appears on buttons and in the footer and guides the eye to booking without breaking the page's calm atmosphere. The light background and white cards leave plenty of breathing room between blocks, reinforcing the idea of attentive, unhurried care.",
-          "A serif for headlines and a sans-serif for body text balance elegance and legibility. The medical license badge, overlaid on the photograph, combines closeness and authority in a single element."
+          "Deep brown is the action color: it appears on buttons and in the footer and guides the eye to booking without breaking the page's calm. The light background and white cards leave breathing room between blocks, and the medical license badge, overlaid on the photograph, combines closeness and authority in a single element."
         ]
       },
       {
@@ -642,7 +620,7 @@ window.PROJECTS_EN = [
         "src": "img/alexandra-sobre.jpg",
         "ratio": "1320/820",
         "alt": "About the doctor section, with portrait and professional registration badge",
-        "cap": "Portrait and professional registration in the same element."
+        "cap": "Medical license badge over the portrait."
       }
     ]
   },
@@ -653,7 +631,7 @@ window.PROJECTS_EN = [
     "title": "Dr. Cristiano Cruz",
     "year": "2025",
     "brio": true,
-    "summary": "A landing page for a nutrologist with a background in orthopedics, built to turn a technical differentiator into new patients.",
+    "summary": "Patient acquisition landing page for a nutrologist with a background in orthopedics.",
     "cover": {
       "src": "img/covers/cristiano.jpg",
       "alt": "Top of Dr. Cristiano Cruz's landing page on a neutral background"
@@ -665,8 +643,7 @@ window.PROJECTS_EN = [
     },
     "lede": "A page that speaks to the patient in the first person and makes the combination of nutrology and orthopedics its central argument.",
     "intro": [
-      "Dr. Cristiano Cruz is a nutrologist working with weight loss and hormone replacement in Uberlândia, MG, Brazil. What sets him apart from others in the field is his training in orthopedics, which allows him to treat metabolism, pain and mobility at the same time.",
-      "In 2025, he needed a page that could explain this combination to people who had never heard of it and, from there, generate new bookings. I designed the landing page from scratch with that dual role: to inform and to convert."
+      "Dr. Cristiano Cruz is a nutrologist in Uberlândia, MG, Brazil, working with weight loss and hormone replacement. His training in orthopedics lets him treat metabolism, pain and mobility at the same time, a combination most patients have never heard of."
     ],
     "details": [
       [
@@ -697,11 +674,11 @@ window.PROJECTS_EN = [
     "tldr": [
       [
         "Challenge",
-        "Communicate an unusual offer that combines nutrology and orthopedics, and turn that differentiator into booked appointments."
+        "Explain an unusual offer and turn that differentiator into booked appointments."
       ],
       [
         "Solution",
-        "A landing page written in the doctor's own voice, which starts from the patient's pain and fatigue and presents the integrated approach as the answer."
+        "A page written in the doctor's own voice, which starts from the patient's pain and fatigue and presents the integrated approach as the answer."
       ],
       [
         "My role",
@@ -713,8 +690,7 @@ window.PROJECTS_EN = [
         "type": "text",
         "h": "From logo to screen",
         "p": [
-          "The starting point was the Núcleo Dr. Cristiano Cruz brand, with its continuous-line monogram and a palette of soft greens. From that material, I built the page's visual system: mint green became the section background and button color, light gray started separating the blocks, and the geometric sans-serif typography got a clear scale between headlines and body text.",
-          "The logo reappears in the differentiators section, next to a photo of the doctor, like a signature that closes the introduction before the contact section."
+          "The Núcleo Dr. Cristiano Cruz brand already had a continuous-line monogram and a palette of soft greens. Mint green became the background of highlight sections and the button color, and the logo reappears in the differentiators section, next to a photo of the doctor, like a signature before the contact section."
         ]
       },
       {
@@ -729,7 +705,7 @@ window.PROJECTS_EN = [
         "h": "A first-person conversation",
         "p": [
           "Many medical pages talk about the professional. This one talks as the professional. The opening asks whether the visitor feels tired, low on energy and in pain, and then answers in a personal tone, with the doctor introducing himself and saying he knows how to help.",
-          "This choice of voice brings the patient closer and reduces the distance medical language usually creates. It also supports one of the page's differentiators: the doctor has been through his own health journey and brings that experience to his practice."
+          "This voice brings the patient closer, reduces the distance medical language usually creates and supports one of the page's differentiators: the doctor has been through his own health journey and brings that experience to his practice."
         ]
       },
       {
@@ -818,8 +794,8 @@ window.PROJECTS_EN = [
         "type": "text",
         "h": "The page's path",
         "p": [
-          "After the opening, the How can I help you section presents five areas of care, from hormone replacement to chronic pain management, in cards that can be read at a glance. Testimonials, gathered under Success Journeys, include name, age and profession, which makes the stories more concrete.",
-          "The authority section brings together the doctor's background and specialist registrations. Next, the differentiators explain why the integrated approach is unique, and the final block concentrates WhatsApp, phone, social media, address and map. Calls to book always appear right after a strong argument, when the visitor is closest to deciding."
+          "After the opening, five areas of care, from hormone replacement to chronic pain management, appear in cards that can be read at a glance. Testimonials include name, age and profession, which makes the stories more concrete.",
+          "The authority section brings together the doctor's background and specialist registrations, with his portraits as a reminder of who is behind the care. Calls to book appear right after a strong argument, when the visitor is closest to deciding."
         ]
       },
       {
@@ -827,17 +803,132 @@ window.PROJECTS_EN = [
         "src": "img/cristiano-diferenciais.jpg",
         "ratio": "1175/473",
         "alt": "Our Differentiators section next to the Núcleo Dr. Cristiano Cruz logo and a portrait of the doctor",
-        "cap": "The differentiators next to the brand, a signature before the contact section."
-      },
-      {
-        "type": "text",
-        "h": "Color and breathing room",
-        "p": [
-          "Mint green fills large areas, such as the services block, the authority section and the contact section, keeping the page light and associated with well-being. White cards with rounded corners make the content stand out on that background and keep reading comfortable.",
-          "The doctor's portraits, with a neutral background and dark clothing, appear at chosen moments: in the opening, to build immediate trust, and in the authority and differentiators sections, as a reminder of who is behind the care."
-        ]
+        "cap": "Differentiators next to the brand."
       }
     ]
+  },
+  {
+    "slug": "rosa-campanhas",
+    "type": "grafico",
+    "discipline": "Digital campaign",
+    "title": "Fazenda do Rosa",
+    "year": "2025–26",
+    "brio": true,
+    "summary": "Instagram campaigns for a beachfront guesthouse. The featured result came from the May 50% off campaign, created in the same visual language.",
+    "cover": {
+      "src": "img/covers/rosa-campanhas.jpg",
+      "alt": "Four Fazenda do Rosa posts in a grid on a neutral background"
+    },
+    "hero": {
+      "src": "img/heroes/rosa-campanhas.jpg",
+      "ratio": "2000/860",
+      "alt": "One post from each campaign side by side: You don't need a vacation, Where the pulse meets the pause and Trade exhaustion for renewal"
+    },
+    "lede": "Carousels that sell rest by starting with the feeling, and only then the offer.",
+    "intro": [
+      "Fazenda do Rosa is a beachfront guesthouse at Praia do Rosa, in Imbituba, Santa Catarina, Brazil, the same one behind the wedding proposal. People who look for it want a real break, and the communication had to sell the experience of being there before talking about price, both in brand positioning and on dates such as Carnival.",
+      "The content follows one shared language: full-screen photography of the region, the Fazenda do Rosa signature spaced out at the top like a magazine masthead, and text where font weight highlights the words that tell the story. For Carnival, the brand's calligraphy enters the headline."
+    ],
+    "details": [
+      [
+        "Period",
+        "2025 — 2026"
+      ],
+      [
+        "Client",
+        "Fazenda do Rosa"
+      ],
+      [
+        "Made at",
+        "Grupo Brio"
+      ],
+      [
+        "Deliverables",
+        "Instagram carousels"
+      ],
+      [
+        "Formats",
+        "4:5 and 1:1"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "stat",
+        "value": "R$ 626K",
+        "label": "in revenue with R$ 1,424 spent on ads",
+        "note": "Result of the May 50% off campaign, made in the same language as the carousels below. I created the visuals for the pieces at Grupo Brio; the number belongs to the campaign as a whole, which included strategy and media, not to the design alone. The agency turned the result into a case study on its own Instagram.",
+        "link": {
+          "href": "#grupo-brio-institucional",
+          "label": "See the case as told by the agency"
+        }
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/rosa-promo/",
+        "files": [
+          "ferias-1",
+          "ferias-2",
+          "ferias-3",
+          "ferias-4",
+          "ferias-5"
+        ],
+        "label": "You don't need a vacation carousel",
+        "titles": [
+          "You don't need a vacation. You need to remember who you are.",
+          "Has autopilot taken over? When life becomes a checklist, it's time to pause.",
+          "Why travel unlocks the soul: a change of scenery takes the brain out of alert mode.",
+          "The reunion: at the Fazenda, away from the city noise, you start listening to your intuition again.",
+          "Come home different. Is it time for this reunion? Link in bio."
+        ],
+        "cap": "You don't need a vacation · December 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "1/1",
+        "multi": true,
+        "dir": "img/rosa-promo/",
+        "files": [
+          "carnaval-a-1",
+          "carnaval-a-2",
+          "carnaval-a-3",
+          "carnaval-a-4"
+        ],
+        "label": "Carnival 2026 carousel, Where the pulse meets the pause",
+        "titles": [
+          "Where the pulse meets the pause. Carnival 2026, Fazenda do Rosa.",
+          "By day, the energy of Maram. By night, the refuge of the EcoSuite.",
+          "Your strategic base for the holiday: 30% off EcoSuites, 3-night minimum.",
+          "Last spots. Secure your place in paradise, book now."
+        ],
+        "cap": "Carnival 2026 · Where the pulse meets the pause."
+      },
+      {
+        "type": "deck",
+        "ratio": "1/1",
+        "multi": true,
+        "dir": "img/rosa-promo/",
+        "files": [
+          "carnaval-b-1",
+          "carnaval-b-2",
+          "carnaval-b-3",
+          "carnaval-b-4"
+        ],
+        "label": "Carnival 2026 carousel, Start the year fully recharged",
+        "titles": [
+          "Start the year fully recharged. Carnival 2026, Fazenda do Rosa.",
+          "Trade exhaustion for renewal. Celebrate at Maram and recharge at the EcoSuite.",
+          "Exclusive offer: 30% off EcoSuites, 3-night minimum. The luxury of absolute privacy.",
+          "Few units available for February. Secure your reset at the link."
+        ],
+        "cap": "Carnival 2026 · Start the year fully recharged."
+      }
+    ],
+    "highlight": {
+      "value": "R$ 626K",
+      "label": "in revenue with R$ 1,424 in ad spend"
+    }
   },
   {
     "slug": "grupo-brio-institucional",
@@ -888,7 +979,7 @@ window.PROJECTS_EN = [
         "h": "Visual direction",
         "p": [
           "The authority carousels combine cinematic photography, classical painting and icons the audience recognizes instantly. Purple and lime green mark the keywords, and an italic serif appears at the turning points of the argument.",
-          "One of the carousels tells, as a case study, the campaign I designed for Fazenda do Rosa, which reached R$ 626,000 in revenue with R$ 1,424 spent on ads."
+          "One of the carousels tells the Fazenda do Rosa case, whose visuals I created: R$ 626,000 in revenue with R$ 1,424 in ad spend."
         ]
       },
       {
@@ -998,125 +1089,6 @@ window.PROJECTS_EN = [
           "Where good professionals stay silent, disinformation gains a voice."
         ],
         "cap": "BRIO Lab manifestos."
-      }
-    ]
-  },
-  {
-    "slug": "rosa-campanhas",
-    "type": "grafico",
-    "discipline": "Digital campaign",
-    "title": "Fazenda do Rosa",
-    "year": "2025–26",
-    "brio": true,
-    "summary": "Instagram content for a beachfront guesthouse that sells the feeling of rest first and the offer second.",
-    "cover": {
-      "src": "img/covers/rosa-campanhas.jpg",
-      "alt": "Four Fazenda do Rosa posts in a grid on a neutral background"
-    },
-    "hero": {
-      "src": "img/heroes/rosa-campanhas.jpg",
-      "ratio": "2000/860",
-      "alt": "One post from each campaign side by side: You don't need a vacation, Where the pulse meets the pause and Trade exhaustion for renewal"
-    },
-    "lede": "Carousels that sell rest by starting with the feeling, and only then the offer.",
-    "intro": [
-      "Fazenda do Rosa is a beachfront guesthouse at Praia do Rosa, in Imbituba, Santa Catarina, Brazil, the same one behind the wedding proposal. People who look for it want a real break, and the communication had to sell the experience of being there before talking about price, both in brand positioning and on dates such as Carnival.",
-      "The content follows one shared language: full-screen photography of the region, the Fazenda do Rosa signature spaced out at the top like a magazine masthead, and text where font weight highlights the words that tell the story. For Carnival, the brand's calligraphy enters the headline."
-    ],
-    "details": [
-      [
-        "Period",
-        "2025 — 2026"
-      ],
-      [
-        "Client",
-        "Fazenda do Rosa"
-      ],
-      [
-        "Made at",
-        "Grupo Brio"
-      ],
-      [
-        "Deliverables",
-        "Instagram carousels"
-      ],
-      [
-        "Formats",
-        "4:5 and 1:1"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "stat",
-        "value": "R$ 626K",
-        "label": "in revenue with R$ 1,424 spent on ads",
-        "note": "Result of the May 50% off campaign for Fazenda do Rosa, whose visuals I created at Grupo Brio, in the same language as the carousels below. The agency turned the result into a case study on its own Instagram.",
-        "link": {
-          "href": "#grupo-brio-institucional",
-          "label": "See the case as told by the agency"
-        }
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/rosa-promo/",
-        "files": [
-          "ferias-1",
-          "ferias-2",
-          "ferias-3",
-          "ferias-4",
-          "ferias-5"
-        ],
-        "label": "You don't need a vacation carousel",
-        "titles": [
-          "You don't need a vacation. You need to remember who you are.",
-          "Has autopilot taken over? When life becomes a checklist, it's time to pause.",
-          "Why travel unlocks the soul: a change of scenery takes the brain out of alert mode.",
-          "The reunion: at the Fazenda, away from the city noise, you start listening to your intuition again.",
-          "Come home different. Is it time for this reunion? Link in bio."
-        ],
-        "cap": "You don't need a vacation · December 2025."
-      },
-      {
-        "type": "deck",
-        "ratio": "1/1",
-        "multi": true,
-        "dir": "img/rosa-promo/",
-        "files": [
-          "carnaval-a-1",
-          "carnaval-a-2",
-          "carnaval-a-3",
-          "carnaval-a-4"
-        ],
-        "label": "Carnival 2026 carousel, Where the pulse meets the pause",
-        "titles": [
-          "Where the pulse meets the pause. Carnival 2026, Fazenda do Rosa.",
-          "By day, the energy of Maram. By night, the refuge of the EcoSuite.",
-          "Your strategic base for the holiday: 30% off EcoSuites, 3-night minimum.",
-          "Last spots. Secure your place in paradise, book now."
-        ],
-        "cap": "Carnival 2026 · Where the pulse meets the pause."
-      },
-      {
-        "type": "deck",
-        "ratio": "1/1",
-        "multi": true,
-        "dir": "img/rosa-promo/",
-        "files": [
-          "carnaval-b-1",
-          "carnaval-b-2",
-          "carnaval-b-3",
-          "carnaval-b-4"
-        ],
-        "label": "Carnival 2026 carousel, Start the year fully recharged",
-        "titles": [
-          "Start the year fully recharged. Carnival 2026, Fazenda do Rosa.",
-          "Trade exhaustion for renewal. Celebrate at Maram and recharge at the EcoSuite.",
-          "Exclusive offer: 30% off EcoSuites, 3-night minimum. The luxury of absolute privacy.",
-          "Few units available for February. Secure your reset at the link."
-        ],
-        "cap": "Carnival 2026 · Start the year fully recharged."
       }
     ]
   },
@@ -1243,7 +1215,7 @@ window.PROJECTS_EN = [
     "lede": "A presentation that makes couples picture their own beachfront wedding before their first visit.",
     "intro": [
       "Wedding sales proposal for Fazenda do Rosa, a beachfront guesthouse at Praia do Rosa, in Imbituba, Santa Catarina, Brazil. The presentation brings together venues, food, experiences, lodging options, services and client testimonials.",
-      "The layout is editorial: full-page photographs, calligraphic headlines and an olive green that echoes the guesthouse's landscape. I developed the material while working at Grupo Brio."
+      "The layout is editorial: full-page photographs, calligraphic headlines and an olive green that echoes the guesthouse's landscape."
     ],
     "details": [
       [
@@ -2064,7 +2036,7 @@ window.PROJECTS_EN = [
         "h": "Visual language",
         "p": [
           "The answer came in warm, saturated colors, with pink, orange, yellow and touches of lilac that evoke the sunset. Headlines use a heavy, retro-inspired typeface with an offset shadow, sharing space with bursting suns, stars, lightning bolts, palm trees and waves that run through the compositions.",
-          "Short, playful phrases, such as \"Vem pra Verano\" (Come to Verano) and \"Azar é verano\", give the brand its voice. Together they create a language in constant motion that translates the energy of live music and invites the audience to break from routine."
+          "Short, playful phrases, such as \"Vem pra Verano\" (Come to Verano) and \"Azar é verano\", give the brand its voice."
         ]
       },
       {

@@ -37,7 +37,7 @@ window.PROJECTS = [
     "title": "Dr. Marcelo Marins",
     "year": "2026",
     "brio": true,
-    "summary": "Landing page para um médico de emagrecimento clínico que começa desmontando mitos e termina filtrando quem é o paciente certo.",
+    "summary": "Landing page de captação de pacientes para um médico de emagrecimento clínico e saúde metabólica.",
     "cover": {
       "src": "img/covers/marins.jpg",
       "alt": "Topo da landing page do Dr. Marcelo Marins sobre fundo neutro"
@@ -49,7 +49,7 @@ window.PROJECTS = [
     },
     "lede": "Uma página que primeiro tira a culpa do paciente e só depois apresenta o tratamento.",
     "intro": [
-      "O Dr. Marcelo Marins atua com emagrecimento clínico e saúde metabólica, a partir da Medicina Integrativa e da Longevidade. O paciente típico já tentou de tudo, de low carb a jejum e termogênicos, e chega frustrado com o efeito sanfona. A página foi criada do zero para transformar essa frustração em uma consulta."
+      "O Dr. Marcelo Marins trabalha com emagrecimento clínico e saúde metabólica, a partir da medicina integrativa e da longevidade. O paciente típico já tentou de tudo, de low carb a jejum e termogênicos, e chega frustrado com o efeito sanfona."
     ],
     "details": [
       [
@@ -80,11 +80,11 @@ window.PROJECTS = [
     "tldr": [
       [
         "Desafio",
-        "Falar com pessoas cansadas de dietas que não funcionaram, em um nicho cheio de promessas rápidas, e atrair pacientes dispostos a um acompanhamento sério."
+        "Falar com quem está cansado de dietas que não funcionaram, num nicho cheio de promessas rápidas, e atrair pacientes para um acompanhamento sério."
       ],
       [
         "Solução",
-        "Uma landing page que desmonta mitos sobre emagrecimento, explica o método em quatro passos e deixa claro, antes do agendamento, para quem o tratamento é indicado."
+        "Uma página que desmonta mitos, explica o método em quatro passos e deixa claro, antes do agendamento, para quem o tratamento é indicado."
       ],
       [
         "Meu papel",
@@ -96,8 +96,8 @@ window.PROJECTS = [
         "type": "text",
         "h": "Começar pelo que o paciente já tentou",
         "p": [
-          "O título de abertura provoca: se dieta da moda regulasse biologia, você não estaria no efeito platô. A frase reconhece o esforço do visitante e muda o culpado de lugar. O problema deixa de ser falta de força de vontade e passa a ser resistência à insulina, inflamação e rotina desorganizada.",
-          "Logo abaixo, o bloco Ciclo de estagnação metabólica coloca três crenças comuns entre aspas, como frases que o próprio paciente já disse, e responde cada uma com o que acontece no corpo. É o momento em que a pessoa se reconhece e passa a confiar na página."
+          "O título de abertura provoca: se dieta da moda regulasse biologia, você não estaria no efeito platô. A frase reconhece o esforço do visitante e muda o culpado de lugar. O problema deixa de ser força de vontade e passa a ser resistência à insulina, inflamação e rotina desorganizada.",
+          "Logo abaixo, três crenças comuns aparecem entre aspas, na voz do próprio paciente, e cada uma recebe a resposta do que acontece no corpo. É o ponto em que a pessoa se reconhece e passa a confiar na página."
         ]
       },
       {
@@ -105,13 +105,13 @@ window.PROJECTS = [
         "src": "img/marins-mitos.jpg",
         "ratio": "1318/337",
         "alt": "Três cartões de mitos: É só comer menos e se exercitar mais, Jejum resolve tudo e Esse suplemento seca tudo, cada um com a explicação abaixo",
-        "cap": "Três mitos escritos na voz do paciente, cada um com a resposta do médico."
+        "cap": "Os três mitos, cada um com a resposta do médico."
       },
       {
         "type": "text",
         "h": "Tornar a consulta concreta",
         "p": [
-          "Para quem nunca passou por esse tipo de atendimento, consulta médica pode parecer algo vago. A página resolve isso de duas formas. Um cartão de Diagnóstico de Precisão, com barras de perfil inflamatório e eficiência hormonal, mostra de forma visual que o tratamento parte de dados. Em seguida, o atendimento é explicado em quatro passos numerados, da avaliação individual aos ajustes periódicos."
+          "Para quem nunca fez esse acompanhamento, a consulta pode parecer vaga. Um cartão de diagnóstico, com barras de perfil inflamatório e eficiência hormonal, mostra que o tratamento parte de dados, e o atendimento é explicado em quatro passos, da avaliação individual aos ajustes periódicos."
         ]
       },
       {
@@ -119,14 +119,14 @@ window.PROJECTS = [
         "src": "img/marins-diagnostico.jpg",
         "ratio": "1332/443",
         "alt": "Seção Metabolismo vs. Calorias e Sinais do Corpo ao lado do cartão escuro Diagnóstico de Precisão com barras de progresso",
-        "cap": "O cartão de diagnóstico traduz a ideia de medicina baseada em dados em um elemento visual."
+        "cap": "Cartão de Diagnóstico de Precisão."
       },
       {
         "type": "text",
         "h": "Filtrar antes de converter",
         "p": [
           "Antes do botão de agendamento, a seção Este tratamento é para você? divide o público em duas colunas. A verde descreve quem deve agendar. A vermelha diz com franqueza quem não vai encontrar ali o que procura, como quem busca fórmulas mágicas de sete dias.",
-          "Pode parecer contraintuitivo afastar visitantes de uma página de conversão, mas o filtro melhora a qualidade dos agendamentos e reforça o posicionamento sério do médico. Quem continua a leitura chega à consulta com a expectativa certa."
+          "Afastar visitantes parece contraintuitivo numa página de conversão, mas a ideia é que chegue à consulta quem tem a expectativa certa, o que também reforça o posicionamento sério do médico."
         ]
       },
       {
@@ -234,9 +234,9 @@ window.PROJECTS = [
       },
       {
         "type": "text",
-        "h": "Identidade e prova social",
+        "h": "Credibilidade antes do chamado",
         "p": [
-          "A paleta parte do azul-marinho e do ciano da marca, com fundos em azul muito claro que mantêm a página leve apesar da quantidade de informação. Uma faixa escura com a citação do médico, cortada por um arco, marca a virada entre o problema e a solução. Mais abaixo, as avaliações do Google e o selo com o CRM fecham o argumento com credibilidade antes do chamado final."
+          "Uma faixa escura com a citação do médico, cortada por um arco, marca a virada entre o problema e a solução. Mais abaixo, as avaliações do Google e o selo com o CRM fecham o argumento logo antes do chamado final."
         ]
       }
     ]
@@ -248,7 +248,7 @@ window.PROJECTS = [
     "title": "Dr. Fábio Pantaleão",
     "year": "2026",
     "brio": true,
-    "summary": "Landing page criada do zero, a partir da identidade do cliente, para captar novos pacientes de nutrologia e saúde hormonal.",
+    "summary": "Landing page de captação de pacientes para um consultório de nutrologia e saúde hormonal.",
     "cover": {
       "src": "img/covers/fabio.jpg",
       "alt": "Topo da landing page do Dr. Fábio Pantaleão sobre fundo neutro"
@@ -260,8 +260,7 @@ window.PROJECTS = [
     },
     "lede": "Uma página que parte dos sintomas que o paciente reconhece e o conduz, bloco a bloco, até o agendamento.",
     "intro": [
-      "O Dr. Fábio Pantaleão atende em São José do Rio Preto, SP, com foco em nutrologia e suporte hormonal. Ele precisava de um canal digital que trouxesse novos pacientes para o consultório, e a landing page foi criada para cumprir esse papel.",
-      "Desenvolvi o projeto em 2026, durante meu trabalho no Grupo Brio. A página nasceu do zero, com um objetivo central: transformar a visita de alguém que suspeita de um desequilíbrio hormonal em uma consulta de avaliação agendada."
+      "O Dr. Fábio Pantaleão atende em São José do Rio Preto, SP, com foco em nutrologia e suporte hormonal. Ele precisava de um canal digital que levasse novos pacientes ao consultório e já tinha uma identidade visual definida, com logotipo, paleta e tipografia."
     ],
     "details": [
       [
@@ -288,11 +287,11 @@ window.PROJECTS = [
     "tldr": [
       [
         "Desafio",
-        "Atrair novos pacientes pelo digital para um consultório de nutrologia e saúde hormonal."
+        "Transformar a visita de quem suspeita de um desequilíbrio hormonal em uma consulta de avaliação agendada."
       ],
       [
         "Solução",
-        "Uma landing page criada do zero, que conduz o visitante dos sintomas até o agendamento da avaliação."
+        "Uma página organizada pelo caminho de decisão do paciente, dos sintomas às últimas dúvidas."
       ],
       [
         "Meu papel",
@@ -302,18 +301,9 @@ window.PROJECTS = [
     "blocks": [
       {
         "type": "text",
-        "h": "Por que uma landing page",
-        "p": [
-          "Uma landing page para um médico é uma página criada com um objetivo de marketing específico: transformar pessoas interessadas no tratamento em potenciais pacientes e incentivar o agendamento de consultas.",
-          "Diferentemente de um site institucional, que reúne muitas informações sobre o profissional, a landing page é mais estratégica e direcionada à conversão. Cada seção existe para aproximar o visitante de uma única ação."
-        ]
-      },
-      {
-        "type": "text",
         "h": "Ponto de partida",
         "p": [
-          "O cliente já tinha uma identidade visual definida, com logotipo, paleta e tipografia. Em vez de reinventar a marca, usei esse material como base e traduzi a identidade para o ambiente digital.",
-          "Isso significou decidir como as cores se comportam em grandes áreas e em botões, como a tipografia se organiza em títulos longos e qual seria o ritmo entre seções claras e escuras. O resultado é uma página que parece uma extensão natural do consultório, e não uma peça à parte."
+          "Em vez de reinventar a marca, traduzi a identidade existente para a web. Isso significou decidir como as cores se comportam em grandes áreas e em botões, como a tipografia se organiza em títulos longos e qual seria o ritmo entre seções claras e escuras, para que a página parecesse uma extensão do consultório, e não uma peça à parte."
         ]
       },
       {
@@ -327,9 +317,9 @@ window.PROJECTS = [
         "type": "text",
         "h": "Estrutura",
         "p": [
-          "Antes de desenhar, organizei o conteúdo a partir do caminho que um paciente percorre até decidir marcar uma consulta. A página abre falando dos sintomas na linguagem de quem os sente, como cansaço, queda de libido e falta de energia, para que o visitante se reconheça logo na primeira dobra.",
-          "Em seguida vêm as áreas de cuidado, que mostram que existe tratamento para aquele problema, e os relatos de pacientes, que trazem prova social. A trajetória do médico sustenta a autoridade com formação e registro profissional. Por fim, os diferenciais e as perguntas frequentes respondem às últimas objeções, principalmente sobre a segurança dos implantes e sobre quem pode fazer reposição hormonal.",
-          "Quase todo bloco termina com uma chamada para agendar. Assim, a decisão fica sempre a um clique de distância, no momento exato em que o visitante se convence."
+          "A página abre com os sintomas na linguagem de quem os sente, como cansaço, queda de libido e falta de energia, para que o visitante se reconheça logo na primeira dobra.",
+          "Em seguida, as áreas de cuidado mostram que existe tratamento e os relatos de pacientes trazem prova social. A trajetória do médico sustenta a autoridade, e os diferenciais e as perguntas frequentes respondem às últimas objeções, principalmente sobre a segurança dos implantes e sobre quem pode fazer reposição hormonal.",
+          "Quase todo bloco termina com uma chamada para agendar, para que a decisão fique a um clique no momento em que o visitante se convence."
         ]
       },
       {
@@ -343,7 +333,7 @@ window.PROJECTS = [
         "type": "system",
         "id": "fabio",
         "h": "Verde para confiar, laranja para agir",
-        "p": "O verde-floresta sustenta a página e o laranja-coral fica reservado às ações e ao card em destaque. Três famílias tipográficas dividem papéis bem definidos: a serifada para títulos e cards, a geométrica para as seções e a sans para textos e botões.",
+        "p": "Três famílias tipográficas dividem papéis bem definidos: a serifada para títulos e cards, a geométrica para os títulos de seção e a sans para textos e botões.",
         "colors": [
           {
             "name": "Stromboli",
@@ -446,8 +436,7 @@ window.PROJECTS = [
         "type": "text",
         "h": "Linguagem visual",
         "p": [
-          "O verde profundo da marca sustenta o tom de saúde e confiança. O laranja aparece só nas chamadas para ação e no cartão principal, então o próximo passo é sempre o elemento mais visível da tela.",
-          "Os cartões brancos sobre o fundo verde organizam informações curtas em blocos fáceis de escanear, uma escolha pensada também para a leitura no celular. A alternância entre seções claras e escuras marca a passagem de um assunto para o outro e dá ritmo a uma página longa."
+          "O laranja aparece só nas chamadas para ação e no cartão principal, então o próximo passo é sempre o elemento mais visível da tela. Os cartões brancos sobre o verde organizam informações curtas em blocos fáceis de escanear, pensados também para o celular, e a alternância entre seções claras e escuras marca a troca de assunto numa página longa."
         ]
       },
       {
@@ -466,7 +455,7 @@ window.PROJECTS = [
     "title": "Dra. Alexandra Galhardo",
     "year": "2025",
     "brio": true,
-    "summary": "Landing page criada do zero, a partir da identidade da médica, para captar pacientes em busca de emagrecimento, saúde hormonal e longevidade.",
+    "summary": "Landing page de captação de pacientes para uma médica de emagrecimento, saúde hormonal e longevidade.",
     "cover": {
       "src": "img/covers/alexandra.jpg",
       "alt": "Topo da landing page da Dra. Alexandra Galhardo sobre fundo neutro"
@@ -476,10 +465,9 @@ window.PROJECTS = [
       "ratio": "1920/788",
       "alt": "Abertura da landing page, com o retrato da médica ao lado da pergunta sobre disposição"
     },
-    "lede": "Uma página calorosa e sofisticada, que apresenta a médica antes do tratamento e conduz a paciente até a avaliação.",
+    "lede": "Uma página calorosa e editorial, que apresenta a médica antes do tratamento.",
     "intro": [
-      "A Dra. Alexandra Galhardo atende em Ribeirão Preto, SP, com foco em emagrecimento, modulação hormonal, performance e longevidade, e tem um público majoritariamente feminino. Ela queria ampliar a captação de pacientes pelo digital, com uma página à altura do cuidado que oferece no consultório.",
-      "Desenvolvi a landing page em 2025, durante meu trabalho no Grupo Brio. O projeto começou do zero, com um objetivo claro: levar a visitante a agendar uma avaliação individualizada."
+      "A Dra. Alexandra Galhardo atende em Ribeirão Preto, SP, com foco em emagrecimento, modulação hormonal, performance e longevidade, e tem um público majoritariamente feminino. Ela queria atrair mais pacientes pelo digital com uma página à altura do cuidado que oferece no consultório."
     ],
     "details": [
       [
@@ -506,11 +494,11 @@ window.PROJECTS = [
     "tldr": [
       [
         "Desafio",
-        "Ampliar a captação de pacientes, com público majoritariamente feminino, sem perder a sofisticação da marca."
+        "Ampliar a captação de pacientes sem perder a sofisticação da marca."
       ],
       [
         "Solução",
-        "Uma landing page editorial, com a médica em primeiro plano e as especialidades traduzidas em benefícios."
+        "Uma página editorial, com a médica em primeiro plano e as especialidades traduzidas em benefícios."
       ],
       [
         "Meu papel",
@@ -520,18 +508,9 @@ window.PROJECTS = [
     "blocks": [
       {
         "type": "text",
-        "h": "Por que uma landing page",
-        "p": [
-          "Uma landing page médica cumpre uma função diferente da de um site institucional. Em vez de reunir tudo sobre a profissional, ela concentra a atenção em uma única ação: o agendamento da consulta.",
-          "Por isso, cada bloco foi escrito e desenhado para transformar o interesse da visitante em uma decisão, sem distrações nem caminhos paralelos."
-        ]
-      },
-      {
-        "type": "text",
         "h": "Ponto de partida",
         "p": [
-          "A identidade visual da médica já existia e foi a base de todas as decisões. Os tons quentes de café e areia, a serifa elegante e o retrato fotográfico pediam uma atmosfera mais editorial e intimista, bem diferente do visual clínico comum na área da saúde.",
-          "Meu trabalho foi levar essa identidade para a web: transformar a paleta em superfícies, botões e estados, organizar a tipografia em uma hierarquia clara e dar à fotografia o protagonismo que ela merece."
+          "Os tons de café e areia, a serifa elegante e o retrato fotográfico da identidade pediam uma atmosfera editorial e intimista, bem diferente do visual clínico comum em páginas médicas. Meu trabalho foi transformar a paleta em superfícies, botões e estados, organizar a tipografia em uma hierarquia clara e dar protagonismo à fotografia."
         ]
       },
       {
@@ -539,15 +518,15 @@ window.PROJECTS = [
         "src": "img/alexandra-servicos.jpg",
         "ratio": "980/715",
         "alt": "Cartões de especialidades: emagrecimento, modulação hormonal, performance e vitalidade, longevidade",
-        "cap": "Cada especialidade em dois níveis: o que é o tratamento e o que a paciente ganha com ele."
+        "cap": "Cards de especialidade, em dois níveis."
       },
       {
         "type": "text",
         "h": "Estrutura",
         "p": [
           "A abertura coloca a médica e a pergunta lado a lado. A foto cria proximidade logo no primeiro contato, e o título fala de uma sensação que a visitante reconhece: a disposição que diminuiu e o corpo que já não responde como antes.",
-          "Nas especialidades, cada cartão separa o que é o tratamento do ganho que ele traz. Essa divisão traduz termos médicos em benefícios concretos e ajuda a paciente a se identificar com uma das frentes de cuidado.",
-          "Em seguida vêm as histórias de pacientes, acompanhadas da nota no Google, a apresentação da médica com o registro profissional em destaque e os diferenciais do acompanhamento. O rodapé reúne todos os canais de contato, com o WhatsApp como atalho principal e o mapa do consultório."
+          "Nas especialidades, cada cartão separa o que é o tratamento do ganho que ele traz. A divisão traduz termos médicos em benefícios concretos e ajuda a paciente a se identificar com uma das frentes de cuidado.",
+          "Depois vêm as histórias de pacientes com a nota no Google, a apresentação da médica com o registro profissional em destaque e os diferenciais. O rodapé reúne os canais de contato, com o WhatsApp como atalho principal."
         ]
       },
       {
@@ -561,7 +540,7 @@ window.PROJECTS = [
         "type": "system",
         "id": "alexandra",
         "h": "Café, areia e uma serifa editorial",
-        "p": "Uma paleta quente de café e areia dá à página o clima de uma revista. A serifa entra nos títulos de destaque e a sans cuida da interface, dos títulos de seção e dos textos.",
+        "p": "A serifa entra nos títulos de destaque e a sans cuida da interface, dos títulos de seção e dos textos.",
         "colors": [
           {
             "name": "English Walnut",
@@ -656,8 +635,7 @@ window.PROJECTS = [
         "type": "text",
         "h": "Linguagem visual",
         "p": [
-          "O marrom profundo funciona como cor de ação. Ele aparece nos botões e no rodapé e guia o olhar até o agendamento sem quebrar a atmosfera calma da página. O fundo claro e os cartões brancos deixam bastante respiro entre os blocos, reforçando a ideia de um atendimento atento e sem pressa.",
-          "A serifa nos títulos e a sans-serif no texto corrido equilibram elegância e legibilidade. O selo com o CRM, sobreposto à fotografia, une proximidade e autoridade em um único elemento."
+          "O marrom profundo é a cor de ação: aparece nos botões e no rodapé e guia o olhar até o agendamento sem quebrar a calma da página. O fundo claro e os cartões brancos deixam respiro entre os blocos, e o selo com o CRM, sobreposto à fotografia, une proximidade e autoridade em um único elemento."
         ]
       },
       {
@@ -665,7 +643,7 @@ window.PROJECTS = [
         "src": "img/alexandra-sobre.jpg",
         "ratio": "1320/820",
         "alt": "Seção sobre a médica, com retrato e selo do registro profissional",
-        "cap": "Retrato e registro profissional no mesmo elemento."
+        "cap": "Selo com o CRM sobre o retrato."
       }
     ]
   },
@@ -676,7 +654,7 @@ window.PROJECTS = [
     "title": "Dr. Cristiano Cruz",
     "year": "2025",
     "brio": true,
-    "summary": "Landing page para um nutrólogo com experiência em Ortopedia, construída para transformar um diferencial técnico em novos pacientes.",
+    "summary": "Landing page de captação de pacientes para um nutrólogo com formação em ortopedia.",
     "cover": {
       "src": "img/covers/cristiano.jpg",
       "alt": "Topo da landing page do Dr. Cristiano Cruz sobre fundo neutro"
@@ -688,8 +666,7 @@ window.PROJECTS = [
     },
     "lede": "Uma página que fala com o paciente na primeira pessoa e faz da união entre Nutrologia e Ortopedia o argumento central.",
     "intro": [
-      "O Dr. Cristiano Cruz é médico nutrólogo, com atuação em perda de peso e reposição hormonal, e atende em Uberlândia, MG. O que o diferencia de outros profissionais da área é a formação em Ortopedia, que permite tratar ao mesmo tempo o metabolismo, a dor e a mobilidade.",
-      "Em 2025, ele precisava de uma página capaz de explicar essa combinação para quem nunca tinha ouvido falar dela e, a partir disso, gerar novos agendamentos. Desenhei a landing page do zero com esse duplo papel: informar e converter."
+      "O Dr. Cristiano Cruz é nutrólogo em Uberlândia, MG, e atua com perda de peso e reposição hormonal. A formação em ortopedia permite tratar ao mesmo tempo metabolismo, dor e mobilidade, uma combinação de que a maioria dos pacientes nunca ouviu falar."
     ],
     "details": [
       [
@@ -720,11 +697,11 @@ window.PROJECTS = [
     "tldr": [
       [
         "Desafio",
-        "Comunicar uma proposta pouco comum, que une Nutrologia e Ortopedia, e transformar esse diferencial em consultas agendadas."
+        "Explicar uma proposta pouco comum e transformar esse diferencial em consultas agendadas."
       ],
       [
         "Solução",
-        "Uma landing page escrita na voz do próprio médico, que parte da dor e do cansaço do paciente e apresenta a abordagem integrada como resposta."
+        "Uma página escrita na voz do próprio médico, que parte da dor e do cansaço do paciente e apresenta a abordagem integrada como resposta."
       ],
       [
         "Meu papel",
@@ -736,8 +713,7 @@ window.PROJECTS = [
         "type": "text",
         "h": "Do logotipo à tela",
         "p": [
-          "O ponto de partida foi a marca Núcleo Dr. Cristiano Cruz, com seu monograma em traço contínuo e uma paleta de verdes suaves. A partir desse material, construí o sistema visual da página: o verde-menta virou fundo de seções e cor dos botões, o cinza-claro passou a separar os blocos e a tipografia sem serifa, de desenho geométrico, ganhou uma escala clara entre títulos e textos.",
-          "O logotipo reaparece na seção de diferenciais, ao lado de uma foto do médico, como uma assinatura que fecha a apresentação antes do contato."
+          "A marca Núcleo Dr. Cristiano Cruz já tinha um monograma em traço contínuo e uma paleta de verdes suaves. O verde-menta virou fundo das seções de destaque e cor dos botões, e o logotipo reaparece nos diferenciais, ao lado de uma foto do médico, como uma assinatura antes do contato."
         ]
       },
       {
@@ -752,7 +728,7 @@ window.PROJECTS = [
         "h": "Uma conversa em primeira pessoa",
         "p": [
           "Muitas páginas médicas falam sobre o profissional. Esta fala como o profissional. A abertura pergunta se o visitante se sente cansado, sem energia e com dores, e logo em seguida responde em tom pessoal, com o médico se apresentando e dizendo que sabe como ajudar.",
-          "Essa escolha de voz aproxima o paciente e reduz a distância que a linguagem médica costuma criar. Ela também sustenta um dos diferenciais da página: o médico já passou pela própria jornada de saúde e leva essa experiência para o atendimento."
+          "Essa voz aproxima o paciente, reduz a distância que a linguagem médica costuma criar e sustenta um dos diferenciais da página: o médico passou pela própria jornada de saúde e leva essa experiência para o atendimento."
         ]
       },
       {
@@ -841,8 +817,8 @@ window.PROJECTS = [
         "type": "text",
         "h": "O percurso da página",
         "p": [
-          "Depois da abertura, a seção Como posso te ajudar apresenta cinco frentes de cuidado, da reposição hormonal ao manejo da dor crônica, em cartões que podem ser lidos rapidamente. Os depoimentos, reunidos em Jornadas de Sucesso, trazem nome, idade e profissão, o que torna as histórias mais concretas.",
-          "A seção de autoridade reúne a trajetória do médico e os registros de especialista. Na sequência, os diferenciais explicam por que a abordagem integrada é única, e o bloco final concentra WhatsApp, telefone, redes sociais, endereço e mapa. As chamadas para agendar aparecem sempre logo depois de um argumento forte, quando o visitante está mais perto de decidir."
+          "Depois da abertura, cinco frentes de cuidado, da reposição hormonal ao manejo da dor crônica, aparecem em cartões de leitura rápida. Os depoimentos trazem nome, idade e profissão, o que torna as histórias mais concretas.",
+          "A seção de autoridade reúne a trajetória e os registros de especialista, com os retratos do médico lembrando quem está por trás do cuidado. As chamadas para agendar aparecem logo depois de um argumento forte, quando o visitante está mais perto de decidir."
         ]
       },
       {
@@ -850,17 +826,132 @@ window.PROJECTS = [
         "src": "img/cristiano-diferenciais.jpg",
         "ratio": "1175/473",
         "alt": "Seção Nossos Diferenciais ao lado do logotipo Núcleo Dr. Cristiano Cruz e de um retrato do médico",
-        "cap": "Os diferenciais ao lado da marca, uma assinatura antes do contato."
-      },
-      {
-        "type": "text",
-        "h": "Cor e respiro",
-        "p": [
-          "O verde-menta ocupa grandes áreas, como o bloco de serviços, a seção de autoridade e o contato, e deixa a página leve e associada a bem-estar. Os cartões brancos de cantos arredondados destacam o conteúdo sobre esse fundo e mantêm a leitura confortável.",
-          "Os retratos do médico, com fundo neutro e roupas em tons escuros, aparecem em momentos escolhidos: na abertura, para gerar confiança imediata, e nas seções de autoridade e diferenciais, para lembrar quem está por trás do cuidado."
-        ]
+        "cap": "Diferenciais ao lado da marca."
       }
     ]
+  },
+  {
+    "slug": "rosa-campanhas",
+    "type": "grafico",
+    "discipline": "Campanha digital",
+    "title": "Fazenda do Rosa",
+    "year": "2025–26",
+    "brio": true,
+    "summary": "Campanhas de Instagram para uma pousada à beira-mar. O resultado em destaque veio da campanha de 50% de maio, criada na mesma linguagem visual.",
+    "cover": {
+      "src": "img/covers/rosa-campanhas.jpg",
+      "alt": "Quatro posts da Fazenda do Rosa em grade sobre fundo neutro"
+    },
+    "hero": {
+      "src": "img/heroes/rosa-campanhas.jpg",
+      "ratio": "2000/860",
+      "alt": "Um post de cada campanha lado a lado: Você não precisa de férias, Onde o pulso encontra a pausa e Troque a exaustão pela renovação"
+    },
+    "lede": "Carrosséis que vendem descanso começando pela sensação, e só depois pela oferta.",
+    "intro": [
+      "A Fazenda do Rosa é uma pousada à beira-mar na Praia do Rosa, em Imbituba, SC, a mesma da proposta de casamento. Quem procura a pousada busca uma pausa de verdade, e a comunicação precisava vender a experiência de estar lá antes de falar em preço, seja no posicionamento da marca, seja em datas como o Carnaval.",
+      "Os conteúdos seguem uma mesma linguagem: fotografia da região em tela cheia, a assinatura Fazenda do Rosa espaçada no topo como o cabeçalho de uma revista e textos em que o peso da fonte destaca as palavras que contam a história. No Carnaval, a caligrafia da marca entra no título."
+    ],
+    "details": [
+      [
+        "Período",
+        "2025 — 2026"
+      ],
+      [
+        "Cliente",
+        "Fazenda do Rosa"
+      ],
+      [
+        "Feito no",
+        "Grupo Brio"
+      ],
+      [
+        "Entregas",
+        "Carrosséis para Instagram"
+      ],
+      [
+        "Formatos",
+        "4:5 e 1:1"
+      ]
+    ],
+    "blocks": [
+      {
+        "type": "stat",
+        "value": "R$ 626 mil",
+        "label": "de faturamento com R$ 1.424 investidos em mídia",
+        "note": "Resultado da campanha de 50% de maio, feita na mesma linguagem dos carrosséis abaixo. Criei a parte visual das peças no Grupo Brio; o número é da campanha como um todo, que incluiu estratégia e mídia, e não só do design. A agência transformou o resultado em case no próprio Instagram.",
+        "link": {
+          "href": "#grupo-brio-institucional",
+          "label": "Ver o case contado pela agência"
+        }
+      },
+      {
+        "type": "deck",
+        "ratio": "4/5",
+        "multi": true,
+        "dir": "img/rosa-promo/",
+        "files": [
+          "ferias-1",
+          "ferias-2",
+          "ferias-3",
+          "ferias-4",
+          "ferias-5"
+        ],
+        "label": "Carrossel Você não precisa de férias",
+        "titles": [
+          "Você não precisa de férias. Você precisa se lembrar de quem você é.",
+          "O piloto automático assumiu o controle? Quando a vida vira um checklist, é hora de pausar.",
+          "Por que a viagem desbloqueia a alma: mudar de ambiente tira o cérebro do modo alerta.",
+          "O reencontro: na Fazenda, sem o ruído da cidade, você volta a escutar a sua intuição.",
+          "Volte para casa diferente. Está na hora desse reencontro? Link na bio."
+        ],
+        "cap": "Você não precisa de férias · Dezembro de 2025."
+      },
+      {
+        "type": "deck",
+        "ratio": "1/1",
+        "multi": true,
+        "dir": "img/rosa-promo/",
+        "files": [
+          "carnaval-a-1",
+          "carnaval-a-2",
+          "carnaval-a-3",
+          "carnaval-a-4"
+        ],
+        "label": "Carrossel Carnaval 2026, Onde o pulso encontra a pausa",
+        "titles": [
+          "Onde o pulso encontra a pausa. Carnaval 2026, Fazenda do Rosa.",
+          "De dia, a vibração do Maram. À noite, o refúgio da EcoSuíte.",
+          "Sua base estratégica para o feriado: 30% off nas EcoSuítes, mínimo de 3 diárias.",
+          "Últimas vagas. Garanta seu lugar no paraíso, reserve agora."
+        ],
+        "cap": "Carnaval 2026 · Onde o pulso encontra a pausa."
+      },
+      {
+        "type": "deck",
+        "ratio": "1/1",
+        "multi": true,
+        "dir": "img/rosa-promo/",
+        "files": [
+          "carnaval-b-1",
+          "carnaval-b-2",
+          "carnaval-b-3",
+          "carnaval-b-4"
+        ],
+        "label": "Carrossel Carnaval 2026, Comece o ano com a bateria no 100%",
+        "titles": [
+          "Comece o ano com a bateria no 100%. Carnaval 2026, Fazenda do Rosa.",
+          "Troque a exaustão pela renovação. Celebre no Maram e recarregue na EcoSuíte.",
+          "Condição exclusiva: 30% off nas EcoSuítes, mínimo de 3 diárias. O luxo de ter privacidade absoluta.",
+          "Poucas unidades disponíveis para fevereiro. Garanta seu reset no link."
+        ],
+        "cap": "Carnaval 2026 · Comece o ano com a bateria no 100%."
+      }
+    ],
+    "highlight": {
+      "value": "R$ 626 mil",
+      "label": "de faturamento com R$ 1.424 investidos em mídia"
+    }
   },
   {
     "slug": "grupo-brio-institucional",
@@ -911,7 +1002,7 @@ window.PROJECTS = [
         "h": "Direção visual",
         "p": [
           "Os carrosséis de autoridade combinam fotografia cinematográfica, pintura clássica e ícones que o público reconhece na hora. O roxo e o verde-limão marcam as palavras-chave, e a serifa itálica aparece nos momentos de virada do argumento.",
-          "Um dos carrosséis conta como case a campanha que criei para a Fazenda do Rosa, que somou R$ 626 mil em faturamento com R$ 1.424 investidos em mídia."
+          "Um dos carrosséis conta o case da Fazenda do Rosa, cuja parte visual eu criei: R$ 626 mil de faturamento com R$ 1.424 investidos em mídia."
         ]
       },
       {
@@ -1021,125 +1112,6 @@ window.PROJECTS = [
           "Onde os bons profissionais se calam, a desinformação ganha voz."
         ],
         "cap": "Manifestos do BRIO Lab."
-      }
-    ]
-  },
-  {
-    "slug": "rosa-campanhas",
-    "type": "grafico",
-    "discipline": "Campanha digital",
-    "title": "Fazenda do Rosa",
-    "year": "2025–26",
-    "brio": true,
-    "summary": "Conteúdo para o Instagram de uma pousada à beira-mar, que vende primeiro a sensação de descanso e só depois a oferta.",
-    "cover": {
-      "src": "img/covers/rosa-campanhas.jpg",
-      "alt": "Quatro posts da Fazenda do Rosa em grade sobre fundo neutro"
-    },
-    "hero": {
-      "src": "img/heroes/rosa-campanhas.jpg",
-      "ratio": "2000/860",
-      "alt": "Um post de cada campanha lado a lado: Você não precisa de férias, Onde o pulso encontra a pausa e Troque a exaustão pela renovação"
-    },
-    "lede": "Carrosséis que vendem descanso começando pela sensação, e só depois pela oferta.",
-    "intro": [
-      "A Fazenda do Rosa é uma pousada à beira-mar na Praia do Rosa, em Imbituba, SC, a mesma da proposta de casamento. Quem procura a pousada busca uma pausa de verdade, e a comunicação precisava vender a experiência de estar lá antes de falar em preço, seja no posicionamento da marca, seja em datas como o Carnaval.",
-      "Os conteúdos seguem uma mesma linguagem: fotografia da região em tela cheia, a assinatura Fazenda do Rosa espaçada no topo como o cabeçalho de uma revista e textos em que o peso da fonte destaca as palavras que contam a história. No Carnaval, a caligrafia da marca entra no título."
-    ],
-    "details": [
-      [
-        "Período",
-        "2025 — 2026"
-      ],
-      [
-        "Cliente",
-        "Fazenda do Rosa"
-      ],
-      [
-        "Feito no",
-        "Grupo Brio"
-      ],
-      [
-        "Entregas",
-        "Carrosséis para Instagram"
-      ],
-      [
-        "Formatos",
-        "4:5 e 1:1"
-      ]
-    ],
-    "blocks": [
-      {
-        "type": "stat",
-        "value": "R$ 626 mil",
-        "label": "de faturamento com R$ 1.424 investidos em mídia",
-        "note": "Resultado da campanha de 50% de maio para a Fazenda do Rosa, cuja parte visual eu criei no Grupo Brio, na mesma linguagem dos carrosséis abaixo. A agência transformou o resultado em case no próprio Instagram.",
-        "link": {
-          "href": "#grupo-brio-institucional",
-          "label": "Ver o case contado pela agência"
-        }
-      },
-      {
-        "type": "deck",
-        "ratio": "4/5",
-        "multi": true,
-        "dir": "img/rosa-promo/",
-        "files": [
-          "ferias-1",
-          "ferias-2",
-          "ferias-3",
-          "ferias-4",
-          "ferias-5"
-        ],
-        "label": "Carrossel Você não precisa de férias",
-        "titles": [
-          "Você não precisa de férias. Você precisa se lembrar de quem você é.",
-          "O piloto automático assumiu o controle? Quando a vida vira um checklist, é hora de pausar.",
-          "Por que a viagem desbloqueia a alma: mudar de ambiente tira o cérebro do modo alerta.",
-          "O reencontro: na Fazenda, sem o ruído da cidade, você volta a escutar a sua intuição.",
-          "Volte para casa diferente. Está na hora desse reencontro? Link na bio."
-        ],
-        "cap": "Você não precisa de férias · Dezembro de 2025."
-      },
-      {
-        "type": "deck",
-        "ratio": "1/1",
-        "multi": true,
-        "dir": "img/rosa-promo/",
-        "files": [
-          "carnaval-a-1",
-          "carnaval-a-2",
-          "carnaval-a-3",
-          "carnaval-a-4"
-        ],
-        "label": "Carrossel Carnaval 2026, Onde o pulso encontra a pausa",
-        "titles": [
-          "Onde o pulso encontra a pausa. Carnaval 2026, Fazenda do Rosa.",
-          "De dia, a vibração do Maram. À noite, o refúgio da EcoSuíte.",
-          "Sua base estratégica para o feriado: 30% off nas EcoSuítes, mínimo de 3 diárias.",
-          "Últimas vagas. Garanta seu lugar no paraíso, reserve agora."
-        ],
-        "cap": "Carnaval 2026 · Onde o pulso encontra a pausa."
-      },
-      {
-        "type": "deck",
-        "ratio": "1/1",
-        "multi": true,
-        "dir": "img/rosa-promo/",
-        "files": [
-          "carnaval-b-1",
-          "carnaval-b-2",
-          "carnaval-b-3",
-          "carnaval-b-4"
-        ],
-        "label": "Carrossel Carnaval 2026, Comece o ano com a bateria no 100%",
-        "titles": [
-          "Comece o ano com a bateria no 100%. Carnaval 2026, Fazenda do Rosa.",
-          "Troque a exaustão pela renovação. Celebre no Maram e recarregue na EcoSuíte.",
-          "Condição exclusiva: 30% off nas EcoSuítes, mínimo de 3 diárias. O luxo de ter privacidade absoluta.",
-          "Poucas unidades disponíveis para fevereiro. Garanta seu reset no link."
-        ],
-        "cap": "Carnaval 2026 · Comece o ano com a bateria no 100%."
       }
     ]
   },
@@ -1266,7 +1238,7 @@ window.PROJECTS = [
     "lede": "Uma apresentação que faz o casal imaginar o próprio casamento à beira-mar antes mesmo da primeira visita.",
     "intro": [
       "Proposta comercial de casamento da Fazenda do Rosa, pousada à beira-mar na Praia do Rosa, em Imbituba, SC. A apresentação reúne espaços, gastronomia, experiências, formatos de hospedagem, serviços e depoimentos de clientes.",
-      "A diagramação é editorial: fotografias em página inteira, títulos em caligrafia e um verde-oliva que conversa com a paisagem da pousada. Desenvolvi o material durante meu trabalho no Grupo Brio."
+      "A diagramação é editorial: fotografias em página inteira, títulos em caligrafia e um verde-oliva que conversa com a paisagem da pousada."
     ],
     "details": [
       [
@@ -2087,7 +2059,7 @@ window.PROJECTS = [
         "h": "Linguagem visual",
         "p": [
           "A resposta veio em cores quentes e saturadas, com rosa, laranja, amarelo e um lilás pontual que remetem ao pôr do sol. Os títulos usam uma tipografia pesada, de inspiração retrô, com sombra deslocada, e dividem espaço com sóis em explosão, estrelas, raios, coqueiros e ondas que atravessam as composições.",
-          "Frases curtas e brincalhonas, como \"Vem pra Verano\" e \"Azar é verano\", dão voz à marca. O conjunto cria uma linguagem em movimento constante, que traduz a energia do som ao vivo e convida o público a sair da rotina."
+          "Frases curtas e brincalhonas, como \"Vem pra Verano\" e \"Azar é verano\", dão voz à marca."
         ]
       },
       {

@@ -44,12 +44,28 @@
 
   const count = t => P.filter(p => t === "todos" || p.type === t).length;
 
+  /* Destaque: o projeto com "highlight" aparece em um card largo no topo dos trabalhos */
+  const featured = () => P.find(p => p.highlight);
+  const featCard = p => `
+    <a class="card card-feat" href="#${p.slug}" data-reveal>
+      <div class="card-media"><img src="${esc(p.cover.src)}" alt="${esc(p.cover.alt)}" loading="lazy" decoding="async" width="1600" height="1200"></div>
+      <div class="feat-body">
+        <span class="card-disc">${esc(p.discipline)}</span>
+        <div class="card-meta"><h3 class="card-title"><span>${esc(p.title)}</span></h3><span class="card-year">${esc(p.year)}</span></div>
+        <p class="feat-stat"><strong>${esc(p.highlight.value)}</strong> <span>${esc(p.highlight.label)}</span></p>
+        <p class="card-sum">${esc(p.summary)}</p>
+      </div>
+    </a>`;
+
   /* Trabalhos agrupados por seção (UX/UI primeiro, depois Design gráfico) */
-  const groups = f => (f === "todos" ? Object.keys(TYPE) : [f]).map(k => `
+  const groups = f => {
+    const ft = featured(), show = ft && (f === "todos" || f === ft.type);
+    return (show ? featCard(ft) : "") + (f === "todos" ? Object.keys(TYPE) : [f]).map(k => `
     <div class="work-group" aria-labelledby="g-${k}">
       <h3 class="group-title" id="g-${k}">${esc(TYPE[k])}<sup>${count(k)}</sup></h3>
-      <div class="grid">${P.filter(p => p.type === k).map(card).join("")}</div>
+      <div class="grid">${P.filter(p => p.type === k && !(show && p === ft)).map(card).join("")}</div>
     </div>`).join("");
+  };
 
   /* ---------- Início ---------- */
   function home() {

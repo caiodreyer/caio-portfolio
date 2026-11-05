@@ -127,6 +127,15 @@ a:hover .arrow,button:hover .arrow{transform:translateX(4px)}
 .card-year{font-size:var(--t-sm);color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
 .card-sum{font-size:var(--t-sm);color:var(--muted);max-width:36rem;margin-top:-.4rem}
 .card-disc{font-size:var(--t-xs);letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:500}
+/* Destaque no topo dos trabalhos */
+.card-feat{grid-template-columns:minmax(0,7fr) minmax(0,5fr);gap:var(--gap);align-items:center;margin-bottom:clamp(3.5rem,8vw,6.5rem)}
+.feat-body{display:grid;gap:1rem;align-content:center}
+.card-feat .card-title{font-size:clamp(1.75rem,3vw,2.5rem)}
+.feat-stat{display:grid;gap:.35rem;padding:1.1rem 0;border-block:1px solid var(--line)}
+.feat-stat strong{font-family:var(--serif);font-style:italic;font-weight:400;font-size:clamp(2.6rem,5vw,4rem);line-height:1;color:var(--accent);letter-spacing:-.01em}
+.feat-stat span{font-size:var(--t-sm);color:var(--ink)}
+.card-feat .card-sum{margin-top:0}
+@media (max-width:760px){.card-feat{grid-template-columns:1fr;gap:1rem}}
 .card .card-title span{background:linear-gradient(currentColor,currentColor) 0 100%/0 1px no-repeat;transition:background-size .6s var(--ease)}
 .card:hover .card-title span,.card:focus-visible .card-title span{background-size:100% 1px}
 
