@@ -52,7 +52,7 @@
       <div class="feat-body">
         <span class="card-disc">${esc(p.discipline)}</span>
         <div class="card-meta"><h3 class="card-title"><span>${esc(p.title)}</span></h3><span class="card-year">${esc(p.year)}</span></div>
-        <p class="feat-stat"><strong>${esc(p.highlight.value)}</strong> <span>${esc(p.highlight.label)}</span></p>
+        <p class="feat-stat"><strong>${esc(p.highlight.value)}</strong> ${esc(p.highlight.label)}</p>
         <p class="card-sum">${esc(p.summary)}</p>
       </div>
     </a>`;
@@ -176,7 +176,7 @@
       case "list": return `<div class="b-text" data-reveal><h2>${esc(b.h)}</h2><div class="body"><ul class="pairs">${b.items.map(([k, v]) => `<li><b>${esc(k)}</b><span>${esc(v)}</span></li>`).join("")}</ul></div></div>`;
       case "image": return `<figure class="media" data-reveal>${img(b)}${cap(b.cap)}</figure>`;
       case "pair": return `<figure class="media" data-reveal><div class="pair">${b.items.map(i => img(i)).join("")}</div>${cap(b.cap)}</figure>`;
-      case "stat": return `<aside class="stat" data-reveal><p class="stat-value">${esc(b.value)}</p><p class="stat-label">${esc(b.label)}</p><p class="stat-note">${esc(b.note)}</p>${b.link ? `<a class="u" href="${esc(b.link.href)}">${esc(b.link.label)} →</a>` : ""}</aside>`;
+      case "stat": return `<aside class="stat" data-reveal><p class="stat-line"><strong>${esc(b.value)}</strong> ${esc(b.label)}</p><p class="stat-note">${esc(b.note)}</p>${b.link ? `<a class="u" href="${esc(b.link.href)}">${esc(b.link.label)} →</a>` : ""}</aside>`;
       case "scroll": return `<figure class="media" data-reveal>
           <div class="browser">
             <div class="browser-bar"><span class="dots" aria-hidden="true"><i></i><i></i><i></i></span><span class="addr">${esc(b.label)}</span><span class="pct" aria-hidden="true">0%</span></div>

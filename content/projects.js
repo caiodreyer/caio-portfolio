@@ -837,7 +837,7 @@ window.PROJECTS = [
     "title": "Fazenda do Rosa",
     "year": "2025–26",
     "brio": true,
-    "summary": "Campanhas de Instagram para uma pousada à beira-mar. O resultado em destaque veio da campanha de 50% de maio, criada na mesma linguagem visual.",
+    "summary": "Campanhas de Instagram para uma pousada à beira-mar. O resultado veio da campanha de 50% de maio, criada na mesma linguagem visual.",
     "cover": {
       "src": "img/covers/rosa-campanhas.jpg",
       "alt": "Quatro posts da Fazenda do Rosa em grade sobre fundo neutro"

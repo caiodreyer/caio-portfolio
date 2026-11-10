@@ -814,7 +814,7 @@ window.PROJECTS_EN = [
     "title": "Fazenda do Rosa",
     "year": "2025–26",
     "brio": true,
-    "summary": "Instagram campaigns for a beachfront guesthouse. The featured result came from the May 50% off campaign, created in the same visual language.",
+    "summary": "Instagram campaigns for a beachfront guesthouse. The result came from the May 50% off campaign, created in the same visual language.",
     "cover": {
       "src": "img/covers/rosa-campanhas.jpg",
       "alt": "Four Fazenda do Rosa posts in a grid on a neutral background"

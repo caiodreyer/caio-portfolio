@@ -131,9 +131,8 @@ a:hover .arrow,button:hover .arrow{transform:translateX(4px)}
 .card-feat{grid-template-columns:minmax(0,7fr) minmax(0,5fr);gap:var(--gap);align-items:center;margin-bottom:clamp(3.5rem,8vw,6.5rem)}
 .feat-body{display:grid;gap:1rem;align-content:center}
 .card-feat .card-title{font-size:clamp(1.75rem,3vw,2.5rem)}
-.feat-stat{display:grid;gap:.35rem;padding:1.1rem 0;border-block:1px solid var(--line)}
-.feat-stat strong{font-family:var(--serif);font-style:italic;font-weight:400;font-size:clamp(2.6rem,5vw,4rem);line-height:1;color:var(--accent);letter-spacing:-.01em}
-.feat-stat span{font-size:var(--t-sm);color:var(--ink)}
+.feat-stat{font-size:var(--t-sm);color:var(--muted);line-height:1.5}
+.feat-stat strong{font-weight:500;color:var(--ink)}
 .card-feat .card-sum{margin-top:0}
 @media (max-width:760px){.card-feat{grid-template-columns:1fr;gap:1rem}}
 .card .card-title span{background:linear-gradient(currentColor,currentColor) 0 100%/0 1px no-repeat;transition:background-size .6s var(--ease)}
@@ -243,9 +242,9 @@ a:hover .arrow,button:hover .arrow{transform:translateX(4px)}
 .pairs span{font-size:var(--t-sm);color:var(--muted)}
 
 /* Resultado em destaque */
-.stat{display:grid;gap:.6rem;justify-items:start;padding:clamp(1.75rem,4vw,3rem);border-radius:var(--r);background:var(--sand)}
-.stat-value{font-family:var(--serif);font-size:clamp(3.4rem,10vw,7rem);line-height:.95;color:var(--accent)}
-.stat-label{font-size:var(--t-lg)}
+.stat{display:grid;gap:.5rem;justify-items:start;padding:clamp(1.25rem,3vw,2rem) 0;border-block:1px solid var(--line);max-width:44rem}
+.stat-line{font-size:var(--t-lg);line-height:1.4}
+.stat-line strong{font-weight:500}
 .stat-note{font-size:var(--t-sm);color:var(--muted);max-width:40rem}
 .stat a{font-size:var(--t-sm);color:var(--accent)}
 
