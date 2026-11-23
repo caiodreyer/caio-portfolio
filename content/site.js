@@ -49,6 +49,9 @@ window.SITE = {
   tools: "Figma, Pacote Adobe, Stitch, Zeroheight, Maze, Hotjar, Midjourney, ChatGPT, Claude, Python e FFmpeg",
   languages: "Português nativo, inglês avançado",
 
+  /* Currículo em PDF: troque o arquivo em docs/ mantendo o mesmo nome */
+  cv: "docs/curriculo-caio-dreyer.pdf",
+
   contact: {
     title: "Vamos conversar?",
     text: "Estou aberto a vagas remotas e a novos projetos.",
@@ -90,6 +93,8 @@ window.SITE = {
     summary: "Resumo do projeto",
     nextProject: "Próximo projeto",
     viewProject: "Ver projeto",
+    cv: "Currículo",
+    cvLong: "Baixar currículo (PDF)",
     brioLink: "Projeto do Grupo Brio · todos os clientes",
     brioEyebrow: "Experiência",
     brioWork: "O trabalho",

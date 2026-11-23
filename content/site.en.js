@@ -47,6 +47,9 @@ window.SITE_EN = {
   tools: "Figma, Adobe Suite, Stitch, Zeroheight, Maze, Hotjar, Midjourney, ChatGPT, Claude, Python and FFmpeg",
   languages: "Portuguese (native), English (advanced)",
 
+  /* Résumé PDF (currently the Portuguese version) */
+  cv: "docs/curriculo-caio-dreyer.pdf",
+
   contact: {
     title: "Let's talk?",
     text: "I'm open to remote positions and new projects.",
@@ -88,6 +91,8 @@ window.SITE_EN = {
     summary: "Project summary",
     nextProject: "Next project",
     viewProject: "View project",
+    cv: "Résumé",
+    cvLong: "Download résumé (PDF, Portuguese)",
     brioLink: "Grupo Brio project · all clients",
     brioEyebrow: "Experience",
     brioWork: "The work",
