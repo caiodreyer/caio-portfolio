@@ -13,10 +13,10 @@ window.SITE = {
   location: "Porto Alegre, Brasil",
 
   intro: {
-    eyebrow: "Olá, eu sou o Caio",
-    statement: "Designer digital e UX/UI com foco em conversão. Crio sites, landing pages, marcas e campanhas para setores como saúde, advocacia e turismo.",
+    eyebrow: "Perfil profissional",
+    statement: "Designer digital e UX/UI com foco em conversão. Desenvolvo sites, landing pages, identidades visuais e campanhas para marcas de diferentes segmentos.",
     paragraphs: [
-      "Já desenhei landing pages para médicos, campanhas para uma pousada à beira-mar e carrosséis para um escritório de advocacia nos Estados Unidos."
+      "Trabalho da estrutura do conteúdo à interface final, partindo da identidade de cada marca e do objetivo de cada projeto."
     ]
   },
 
@@ -24,9 +24,9 @@ window.SITE = {
 
   about: {
     title: "Sobre mim",
-    statement: "Sou designer digital e UX/UI. Desenho landing pages, sites, identidades visuais e campanhas, da estrutura do conteúdo à interface.",
+    statement: "Sou designer digital e UX/UI e atuo em projetos de web, marca e conteúdo.",
     paragraphs: [
-      "No Grupo Brio, cuidei da parte visual de mais de 20 clientes e marcas. Para os clientes médicos, criei comunicação seguindo as regras de publicidade do CFM.",
+      "Ao longo da minha trajetória, cuidei da parte visual de mais de 20 clientes e marcas, em projetos que vão de landing pages e sites a identidades visuais, campanhas e conteúdo para redes sociais.",
       "Também levo tecnologia para o processo: desenvolvi, com o Claude, scripts em Python, PowerShell e FFmpeg que automatizam etapas da produção de vídeo, e criei com IA as ilustrações dos carrosséis da Atria.",
       "Sou graduando em Design de Produto pela UFRGS, em Porto Alegre."
     ],
@@ -34,7 +34,7 @@ window.SITE = {
   },
 
   experience: [
-    { years: "2025 — hoje", role: "Designer digital e UX/UI", place: "Grupo Brio", text: "Parte visual de mais de 20 clientes e marcas: landing pages, sites institucionais, social media, campanhas e materiais digitais, além da comunicação da própria Brio.", link: { href: "#grupo-brio", label: "Ver clientes" } },
+    { years: "2025 — hoje", role: "Designer digital e UX/UI", place: "Grupo Brio", text: "Landing pages, sites institucionais, social media, campanhas e materiais digitais para os clientes da agência e para a própria Brio.", link: { href: "#grupo-brio", label: "Ver clientes" } },
     { years: "2025 — hoje", role: "Automação de vídeo com IA", place: "Projeto independente", text: "Scripts em Python, PowerShell e FFmpeg, desenvolvidos com o Claude como parceiro de programação, que automatizam etapas da produção de vídeo." },
     { years: "2024 — 2026", role: "Designer e social media", place: "Riki Imunizadora · freelance", text: "Peças para redes e campanhas sazonais, redação e planejamento de pautas.", link: { href: "#riki-imunizadora", label: "Ver trabalhos" } },
     { years: "2020 — hoje", role: "Designer gráfico e digital", place: "Freelancer", text: "Identidades visuais e materiais gráficos para clientes de diversos setores." },
@@ -62,7 +62,7 @@ window.SITE = {
   ui: {
     lang: "pt-BR",
     pageTitle: "Caio Dreyer Portfólio",
-    metaDescription: "Portfólio de Caio Dreyer, designer digital e UX/UI com foco em conversão: sites, landing pages, marcas e campanhas para setores como saúde, advocacia e turismo.",
+    metaDescription: "Portfólio de Caio Dreyer, designer digital e UX/UI com foco em conversão: sites, landing pages, identidades visuais e campanhas para marcas de diferentes segmentos.",
     skip: "Pular para o conteúdo",
     home: "Caio Dreyer, início",
     navLabel: "Principal",
@@ -89,6 +89,7 @@ window.SITE = {
     aboutProject: "Sobre o projeto",
     summary: "Resumo do projeto",
     nextProject: "Próximo projeto",
+    viewProject: "Ver projeto",
     brioLink: "Projeto do Grupo Brio · todos os clientes",
     brioEyebrow: "Experiência",
     brioWork: "O trabalho",
@@ -111,7 +112,7 @@ window.SITE = {
     lede: "Uma agência, muitas marcas ao mesmo tempo, cada uma com sua identidade, seu público e seu objetivo.",
     details: [["Período", "2025 — hoje"], ["Papel", "Designer digital e UX/UI"], ["Entregas", "Landing pages, social media, campanhas, eBooks"]],
     about: [
-      "No Grupo Brio fui responsável pela parte visual de mais de 20 clientes e marcas, além da comunicação da própria agência.",
+      "No Grupo Brio fui responsável pela parte visual dos clientes da agência e pela comunicação da própria Brio.",
       "Cada projeto partia da identidade que o cliente já tinha. O desafio era levar essa identidade para o digital sem perder consistência, mesmo com várias entregas na mesma semana."
     ],
     clients: [

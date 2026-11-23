@@ -40,6 +40,7 @@
       <span class="card-disc">${esc(p.discipline)}</span>
       <div class="card-meta"><h3 class="card-title"><span>${esc(p.title)}</span></h3><span class="card-year">${esc(p.year)}</span></div>
       <p class="card-sum">${esc(p.summary)}</p>
+      <span class="card-more" aria-hidden="true">${esc(U.viewProject)} <span class="arr">→</span></span>
     </a>`;
 
   const count = t => P.filter(p => t === "todos" || p.type === t).length;
@@ -54,6 +55,7 @@
         <div class="card-meta"><h3 class="card-title"><span>${esc(p.title)}</span></h3><span class="card-year">${esc(p.year)}</span></div>
         <p class="feat-stat"><strong>${esc(p.highlight.value)}</strong> ${esc(p.highlight.label)}</p>
         <p class="card-sum">${esc(p.summary)}</p>
+        <span class="card-more" aria-hidden="true">${esc(U.viewProject)} <span class="arr">→</span></span>
       </div>
     </a>`;
 

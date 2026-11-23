@@ -11,10 +11,10 @@ window.SITE_EN = {
   location: "Porto Alegre, Brazil",
 
   intro: {
-    eyebrow: "Hi, I'm Caio",
-    statement: "Digital and UX/UI designer focused on conversion. I create websites, landing pages, brands and campaigns for industries such as healthcare, law and tourism.",
+    eyebrow: "Professional profile",
+    statement: "Digital and UX/UI designer focused on conversion. I build websites, landing pages, visual identities and campaigns for brands across different industries.",
     paragraphs: [
-      "I've designed landing pages for doctors, campaigns for a beachfront guesthouse and carousels for a law firm in the United States."
+      "I work from content structure to the final interface, starting from each brand's identity and each project's goal."
     ]
   },
 
@@ -22,9 +22,9 @@ window.SITE_EN = {
 
   about: {
     title: "About me",
-    statement: "I'm a digital and UX/UI designer. I design landing pages, websites, visual identities and campaigns, from content structure to interface.",
+    statement: "I'm a digital and UX/UI designer working on web, brand and content projects.",
     paragraphs: [
-      "At Grupo Brio, I handled the visual design for more than 20 clients and brands. For medical clients, I created communication following the advertising rules of Brazil's Federal Council of Medicine (CFM).",
+      "Throughout my career, I've handled the visual design for more than 20 clients and brands, in projects ranging from landing pages and websites to visual identities, campaigns and social media content.",
       "I also bring technology into the process: with Claude, I developed Python, PowerShell and FFmpeg scripts that automate steps of video production, and I created the AI illustrations for Atria's carousels.",
       "I'm a Product Design undergraduate at UFRGS, in Porto Alegre, Brazil."
     ],
@@ -32,7 +32,7 @@ window.SITE_EN = {
   },
 
   experience: [
-    { years: "2025 — present", role: "Digital and UX/UI designer", place: "Grupo Brio", text: "Visual design for more than 20 clients and brands: landing pages, institutional websites, social media, campaigns and digital materials, plus Brio's own communication.", link: { href: "#grupo-brio", label: "See clients" } },
+    { years: "2025 — present", role: "Digital and UX/UI designer", place: "Grupo Brio", text: "Landing pages, institutional websites, social media, campaigns and digital materials for the agency's clients and for Brio itself.", link: { href: "#grupo-brio", label: "See clients" } },
     { years: "2025 — present", role: "AI video automation", place: "Independent project", text: "Python, PowerShell and FFmpeg scripts, developed with Claude as a programming partner, that automate steps of video production." },
     { years: "2024 — 2026", role: "Designer and social media", place: "Riki Imunizadora · freelance", text: "Social media pieces and seasonal campaigns, copywriting and content planning.", link: { href: "#riki-imunizadora", label: "See work" } },
     { years: "2020 — present", role: "Graphic and digital designer", place: "Freelance", text: "Visual identities and graphic materials for clients across industries." },
@@ -60,7 +60,7 @@ window.SITE_EN = {
   ui: {
     lang: "en",
     pageTitle: "Caio Dreyer Portfolio",
-    metaDescription: "Portfolio of Caio Dreyer, digital and UX/UI designer focused on conversion: websites, landing pages, brands and campaigns for industries such as healthcare, law and tourism.",
+    metaDescription: "Portfolio of Caio Dreyer, digital and UX/UI designer focused on conversion: websites, landing pages, visual identities and campaigns for brands across different industries.",
     skip: "Skip to content",
     home: "Caio Dreyer, home",
     navLabel: "Main",
@@ -87,6 +87,7 @@ window.SITE_EN = {
     aboutProject: "About the project",
     summary: "Project summary",
     nextProject: "Next project",
+    viewProject: "View project",
     brioLink: "Grupo Brio project · all clients",
     brioEyebrow: "Experience",
     brioWork: "The work",
@@ -109,7 +110,7 @@ window.SITE_EN = {
     lede: "One agency, many brands at once, each with its own identity, audience and goal.",
     details: [["Period", "2025 — present"], ["Role", "Digital and UX/UI designer"], ["Deliverables", "Landing pages, social media, campaigns, eBooks"]],
     about: [
-      "At Grupo Brio I was responsible for the visual design of more than 20 clients and brands, as well as the agency's own communication.",
+      "At Grupo Brio I was responsible for the visual design of the agency's clients and for Brio's own communication.",
       "Each project started from the identity the client already had. The challenge was to bring that identity to digital without losing consistency, even with several deliveries in the same week."
     ],
     clients: [

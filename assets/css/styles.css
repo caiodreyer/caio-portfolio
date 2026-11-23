@@ -126,6 +126,10 @@ a:hover .arrow,button:hover .arrow{transform:translateX(4px)}
 .card-title{font-size:clamp(1.35rem,2vw,1.75rem);letter-spacing:-.015em;line-height:1.15}
 .card-year{font-size:var(--t-sm);color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
 .card-sum{font-size:var(--t-sm);color:var(--muted);max-width:36rem;margin-top:-.4rem}
+.card-more{margin-top:-.35rem;font-size:var(--t-xs);letter-spacing:.06em;color:var(--muted);display:inline-flex;align-items:center;gap:.35rem;transition:color .4s var(--ease)}
+.card-more .arr{display:inline-block;transition:transform .5s var(--ease)}
+.card:hover .card-more,.card:focus-visible .card-more{color:var(--accent)}
+.card:hover .card-more .arr,.card:focus-visible .card-more .arr{transform:translateX(4px)}
 .card-disc{font-size:var(--t-xs);letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:500}
 /* Destaque no topo dos trabalhos */
 .card-feat{grid-template-columns:minmax(0,7fr) minmax(0,5fr);gap:var(--gap);align-items:center;margin-bottom:clamp(3.5rem,8vw,6.5rem)}
