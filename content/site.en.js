@@ -25,7 +25,7 @@ window.SITE_EN = {
     statement: "I'm a digital and UX/UI designer working on web, brand and content projects.",
     paragraphs: [
       "Throughout my career, I've handled the visual design for more than 20 clients and brands, in projects ranging from landing pages and websites to visual identities, campaigns and social media content.",
-      "I also bring technology into the process: with Claude, I developed Python, PowerShell and FFmpeg scripts that automate steps of video production, and I created the AI illustrations for Atria's carousels.",
+      "I also bring technology into the process: with Claude, I developed Python, PowerShell and FFmpeg scripts that automate steps of video production, and I use artificial intelligence as a support tool in my daily work.",
       "I'm a Product Design undergraduate at UFRGS, in Porto Alegre, Brazil."
     ],
     photo: { src: "img/caio.jpg", alt: "Caio Dreyer in a white shirt and sunglasses, leaning against a light wall in the late afternoon light" }

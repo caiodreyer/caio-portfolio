@@ -27,7 +27,7 @@ window.SITE = {
     statement: "Sou designer digital e UX/UI e atuo em projetos de web, marca e conteúdo.",
     paragraphs: [
       "Ao longo da minha trajetória, cuidei da parte visual de mais de 20 clientes e marcas, em projetos que vão de landing pages e sites a identidades visuais, campanhas e conteúdo para redes sociais.",
-      "Também levo tecnologia para o processo: desenvolvi, com o Claude, scripts em Python, PowerShell e FFmpeg que automatizam etapas da produção de vídeo, e criei com IA as ilustrações dos carrosséis da Atria.",
+      "Também levo tecnologia para o processo: desenvolvi, com o Claude, scripts em Python, PowerShell e FFmpeg que automatizam etapas da produção de vídeo, e uso inteligência artificial como ferramenta de apoio no dia a dia.",
       "Sou graduando em Design de Produto pela UFRGS, em Porto Alegre."
     ],
     photo: { src: "img/caio.jpg", alt: "Caio Dreyer de camisa branca e óculos escuros, encostado numa parede clara sob a luz do fim de tarde" }
