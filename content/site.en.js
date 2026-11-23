@@ -55,8 +55,7 @@ window.SITE_EN = {
     text: "I'm open to remote positions and new projects.",
     email: "caiodreyer@gmail.com",
     links: [
-      { label: "LinkedIn", value: "linkedin.com/in/caiodreyer", href: "https://www.linkedin.com/in/caiodreyer" },
-      { label: "Behance", value: "behance.net/caiodreyer", href: "https://www.behance.net/caiodreyer" }
+      { label: "LinkedIn", value: "linkedin.com/in/caiodreyer", href: "https://www.linkedin.com/in/caiodreyer" }
     ]
   },
 
@@ -92,6 +91,7 @@ window.SITE_EN = {
     nextProject: "Next project",
     viewProject: "View project",
     cv: "Résumé",
+    cvDownload: "Download PDF",
     cvLong: "Download résumé (PDF, Portuguese)",
     brioLink: "Grupo Brio project · all clients",
     brioEyebrow: "Experience",

@@ -77,7 +77,7 @@
       <picture><source media="(max-width:640px)" srcset="img/textures/g1-m.jpg"><img src="img/textures/g1.jpg" alt="" fetchpriority="high"></picture>
       <div class="hero-inner">
         <h1 class="hero-name"><span class="word">Caio</span> <span class="word">Dreyer</span></h1>
-        <div class="hero-row"><p>${esc(S.role)} · ${esc(S.tagline)}</p><div class="hero-links">${S.cv ? `<a class="u" href="${esc(S.cv)}" target="_blank" rel="noopener">${esc(U.cvLong)} <span class="arrow" aria-hidden="true">↗</span></a>` : ""}<a class="u" href="#trabalhos">${esc(U.seeWork)} <span class="arrow" aria-hidden="true">↓</span></a></div></div>
+        <div class="hero-row"><p>${esc(S.role)} · ${esc(S.tagline)}</p><div class="hero-links">${S.cv ? `<a class="u" href="${esc(S.cv)}" download="Curriculo-Caio-Dreyer.pdf">${esc(U.cvLong)} <span class="arrow" aria-hidden="true">↓</span></a>` : ""}<a class="u" href="#trabalhos">${esc(U.seeWork)} <span class="arrow" aria-hidden="true">↓</span></a></div></div>
       </div>
     </section>
 
@@ -132,7 +132,7 @@
         <div class="c-rows">
           <div class="c-row"><span class="k">${esc(U.email)}</span><span class="v"><span id="mail">${esc(c.email)}</span><button type="button" class="copy" id="copy">${esc(U.copy)}</button></span></div>
           ${c.links.map(l => `<div class="c-row"><span class="k">${esc(l.label)}</span><span class="v"><a class="u" href="${esc(l.href)}" target="_blank" rel="noopener">${esc(l.value)} ↗</a></span></div>`).join("")}
-          ${S.cv ? `<div class="c-row"><span class="k">${esc(U.cv)}</span><span class="v"><a class="u" href="${esc(S.cv)}" target="_blank" rel="noopener">PDF ↗</a></span></div>` : ""}
+          ${S.cv ? `<div class="c-row"><span class="k">${esc(U.cv)}</span><span class="v"><a class="u" href="${esc(S.cv)}" download="Curriculo-Caio-Dreyer.pdf">${esc(U.cvDownload)} ↓</a></span></div>` : ""}
           <div class="c-row"><span class="k">${esc(U.base)}</span><span class="v"><span>${esc(S.location)}</span></span></div>
         </div>
       </div>
